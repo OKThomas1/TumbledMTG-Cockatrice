@@ -1,0 +1,1596 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<cockatrice_carddatabase version="3">
+    <cards>
+        <!-- 
+        <card>
+            <name>TumbledMTG Tokens</name>
+            <set picURL=""></set>
+            <color></color>
+            <manacost></manacost>
+            <type>Token Creature — </type>
+            <pt>/</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+        </card>
+         -->
+
+        <card>
+            <name>!Player One Emblem</name>
+            <set picURL="/!Player One Emblem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>!Player Two Emblem</reverse-related>
+            <reverse-related>!Player Three Emblem</reverse-related>
+            <reverse-related>!Player Four Emblem</reverse-related>
+            <reverse-related>!Player Five Emblem</reverse-related>
+            <reverse-related>!Player Six Emblem</reverse-related>
+        </card>
+        <card>
+            <name>!Player Two Emblem</name>
+            <set picURL="/!Player Two Emblem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>You go second.</text>
+            <token>1</token>
+            <reverse-related>!Player One Emblem</reverse-related>
+            <reverse-related>!Player Three Emblem</reverse-related>
+            <reverse-related>!Player Four Emblem</reverse-related>
+            <reverse-related>!Player Five Emblem</reverse-related>
+            <reverse-related>!Player Six Emblem</reverse-related>
+        </card>
+        <card>
+            <name>!Player Three Emblem</name>
+            <set picURL="/!Player Three Emblem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>You go third.</text>
+            <token>1</token>
+            <reverse-related>!Player Four Emblem</reverse-related>
+            <reverse-related>!Player Five Emblem</reverse-related>
+            <reverse-related>!Player Six Emblem</reverse-related>
+        </card>
+        <card>
+            <name>!Player Four Emblem</name>
+            <set picURL="/!Player Four Emblem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>You go fourth.</text>
+            <token>1</token>
+            <reverse-related>!Player Three Emblem</reverse-related>
+            <reverse-related>!Player Five Emblem</reverse-related>
+            <reverse-related>!Player Six Emblem</reverse-related>
+        </card>
+        <card>
+            <name>!Player Five Emblem</name>
+            <set picURL="/!Player Five Emblem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>You go fifth.</text>
+            <token>1</token>
+            <reverse-related>!Player Six Emblem</reverse-related>
+        </card>
+        <card>
+            <name>!Player Six Emblem</name>
+            <set picURL="/!Player Six Emblem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>You go sixth.</text>
+            <token>1</token>
+        </card>
+
+        <card>
+            <name>TBLD The Monarch</name>
+            <set picURL="/TBLD The Monarch.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>At your end step, draw a card.
+Whenever a creature deals combat damage to you, its controller becomes the monarch.</text>
+            <token>1</token>
+        </card>
+
+        <card>
+            <name>TBLD Journeyed Cards</name>
+            <set picURL="/TBLD Journeyed Cards.full.jpg">TBLDtoken</set>
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Last of Us</reverse-related>
+            <reverse-related>TBLD The Road Ahead</reverse-related>
+            <reverse-related>TBLD Dustpaw Trader</reverse-related>
+            <reverse-related>TBLD Keeper of Antiquities</reverse-related>
+            <reverse-related>TBLD Sactums Light</reverse-related>
+            <reverse-related>TBLD Bar the Way</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Uploaded Cards</name>
+            <set picURL="/TBLD Uploaded Cards.full.jpg">TBLDtoken</set>
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Positronic Ritual</reverse-related>
+            <reverse-related>TBLD Deep Net</reverse-related>
+            <reverse-related>TBLD Ancestral Research</reverse-related>
+            <reverse-related>TBLD District Explorers</reverse-related>
+            <reverse-related>TBLD Darkzone Courier</reverse-related>
+            <reverse-related>TBLD Virtual Reality</reverse-related>
+            <reverse-related>TBLD Flow of Information</reverse-related>
+            <reverse-related>TBLD Torrent Feed</reverse-related>
+            <reverse-related>TBLD Short Circuit</reverse-related>
+            <reverse-related>TBLD Mindnet Sentinel</reverse-related>
+            <reverse-related>TBLD Hack the Planet</reverse-related>
+            <reverse-related>TBLD Mandatory Upgrades</reverse-related>
+            <reverse-related>TBLD Re-Spec</reverse-related>
+            <reverse-related>TBLD Neural Integrator</reverse-related>
+            <reverse-related>TBLD Silverskin Armor</reverse-related>
+            <reverse-related>TBLD Digital Witness</reverse-related>
+            <reverse-related>TBLD Neosteel Stealth Unit</reverse-related>
+            <reverse-related>TBLD Patience Charm</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD On An Adventure</name>
+            <set picURL="/TBLD On An Adventure.full.jpg">TBLDtoken</set>        
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Realm-Cloaked Giant</reverse-related>
+            <reverse-related>TBLD Giant Killer</reverse-related>
+            <reverse-related>TBLD Hypnotic Sprite</reverse-related>
+            <reverse-related>TBLD Shepherd of the Flock</reverse-related>
+            <reverse-related>TBLD Merchant of the Vale</reverse-related>
+            <reverse-related>TBLD Armament Angel</reverse-related>
+            <reverse-related>TBLD Blightsqueaker</reverse-related>
+            <reverse-related>TBLD Inkfathom Angler</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Citys Blessing</name>
+            <set picURL="/TBLD Citys Blessing.full.jpg">TBLDtoken</set>        
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD </reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Manifest Token</name>
+            <set picURL="/TBLD Manifest Token.full.jpg">TBLDtoken</set>        
+            <color></color>
+            <type>Creature</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD </reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Shift Token</name>
+            <set picURL="/TBLD Shift Token.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Creature</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Minotaur Savant</reverse-related>
+            <reverse-related>TBLD Stag of the Deep Wilds</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Shapeshifter</name>
+            <set picURL="/TBLD Shapeshifter.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Shapeshifter</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Changeling</text>
+            <token>1</token>
+            <reverse-related>TBLD Irregular Cohort</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Rogue</name>
+            <set picURL="/TBLD Rogue.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Rogue</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Assassin Squad Ambush</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Germ</name>
+            <set picURL="/TBLD Germ.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Germ</type>
+            <pt>0/0</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Necropouncer</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Zombie6</name>
+            <set picURL="/TBLD Zombie6.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD From Under the Floorboards</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie5</name>
+            <set picURL="/TBLD Zombie5.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Reap the Seagraf</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie4</name>
+            <set picURL="/TBLD Zombie4.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Stitch Cadaver</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie3</name>
+            <set picURL="/TBLD Zombie3.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+            <reverse-related>TBLD Army of the Damned</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie2</name>
+            <set picURL="/TBLD Zombie2.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD March of the Returned</reverse-related>
+            <reverse-related>TBLD March of the Returned</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie</name>
+            <set picURL="/TBLD Zombie.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD </reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Angel</name>
+            <set picURL="/TBLD Angel.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Angel</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Divine Verdict</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Bird2</name>
+            <set picURL="/TBLD Bird2.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Bird</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Court Huntsman</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Bird</name>
+            <set picURL="/TBLD Bird.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Bird</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Strength_Unity</reverse-related>
+            <reverse-related>TBLD Battle Screech</reverse-related>
+            <reverse-related>TBLD Battle Screech</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Merfolk5</name>
+            <set picURL="/TBLD Merfolk5.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Merfolk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Hexproof</text>
+            <token>1</token>
+            <reverse-related>TBLD Summon the School</reverse-related>
+            <reverse-related>TBLD Summon the School</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Merfolk4</name>
+            <set picURL="/TBLD Merfolk4.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Merfolk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Hexproof</text>
+            <token>1</token>
+            <reverse-related>TBLD Jungleborn Pioneer</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Merfolk3</name>
+            <set picURL="/TBLD Merfolk3.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Merfolk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Hexproof</text>
+            <token>1</token>
+            <reverse-related>TBLD Deeproot Waters</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Merfolk2</name>
+            <set picURL="/TBLD Merfolk2.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Merfolk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Hexproof</text>
+            <token>1</token>
+            <reverse-related>TBLD Lullmage Mentor</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Merfolk</name>
+            <set picURL="/TBLD Merfolk.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Merfolk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Hexproof</text>
+            <token>1</token>
+            <reverse-related>TBLD River Heralds Arrival</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Storm Crow Token</name>
+            <set picURL="/TBLD Storm Crow Token.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Bird</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Crow Storm</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Spider3</name>
+            <set picURL="/TBLD Spider3.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Spider</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>Reach</text>
+            <token>1</token>
+            <reverse-related>TBLD Brood Spider</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spider2</name>
+            <set picURL="/TBLD Spider2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Spider</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>Reach</text>
+            <token>1</token>
+            <reverse-related>TBLD Rotwidow Pack</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spider</name>
+            <set picURL="/TBLD Spider.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Spider</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>Reach</text>
+            <token>1</token>
+            <reverse-related>TBLD Spider Hatching</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Plant3</name>
+            <set picURL="/TBLD Plant3.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Plant</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Avenger of Zendikar</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Plant2</name>
+            <set picURL="/TBLD Plant2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Plant</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text>Defender
+T: Add G.</text>
+            <token>1</token>
+            <reverse-related>TBLD Soil Charm</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Plant</name>
+            <set picURL="/TBLD Plant.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Plant</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Vastwood Awakening</reverse-related>
+            <reverse-related>TBLD Vastwood Awakening</reverse-related>
+            <reverse-related>TBLD Vastwood Awakening</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Heir to the Night</name>
+            <set picURL="/TBLD Heir to the Night.full.jpg">TBLDtoken</set>   
+            <color>B</color>
+            <type>Token Creature — Vampire Berserker </type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Corpseyard Howler</name>
+            <set picURL="/TBLD Corpseyard Howler.full.jpg">TBLDtoken</set>   
+            <color>G</color>
+            <type>Token Creature — Werewolf</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>G, Exile two creature cards from your graveyard: Creatures you control get +1/+1 this turn.
+At each upkeep, if a player cast two or more spells last turn, transform this.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Flameheart Werewolf</name>
+            <set picURL="/TBLD Flameheart Werewolf.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Token Creature — Werewolf</type>
+            <pt>4/2</pt>
+            <tablerow>2</tablerow>
+            <text>Whenever this blocks or becomes blocked by a creature, this deals 2 damage to that creature.
+At each upkeep, if a player cast two or more spells last turn, transform this.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Gleeful Predator</name>
+            <set picURL="/TBLD Gleeful Predator.full.jpg">TBLDtoken</set>      
+            <color>G</color>
+            <type>Token Creature — Werewolf</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice a Clue: This fights target creature.
+At each upkeep, if a player cast two or more spells last turn, transform this.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Spirit8</name>
+            <set picURL="/TBLD Spirit8.full.jpg">TBLDtoken</set>         
+            <color>HWB</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Tithe Taker</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit7</name>
+            <set picURL="/TBLD Spirit7.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Abzan Ascendancy</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit6</name>
+            <set picURL="/TBLD Spirit6.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, vigilance, lifelink</text>
+            <token>1</token>
+            <reverse-related>TBLD Zeal Charm</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit5</name>
+            <set picURL="/TBLD Spirit5.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Unwelcome Visitation</reverse-related>
+            <reverse-related>TBLD Nearheath Chaplain</reverse-related>
+            <reverse-related>TBLD Nearheath Chaplain</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit4</name>
+            <set picURL="/TBLD Spirit4.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Triplicate Spirits</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit3</name>
+            <set picURL="/TBLD Spirit3.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Mausoleum Guard</reverse-related>
+            <reverse-related>TBLD Mausoleum Guard</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit2</name>
+            <set picURL="/TBLD Spirit2.full.jpg">TBLDtoken</set>         
+            <color>W B M</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Hollowed Confessor</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Spirit</name>
+            <set picURL="/TBLD Spirit.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Doomed Traveler</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Monk2</name>
+            <set picURL="/TBLD Monk2.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Monk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Prowess</text>
+            <token>1</token>
+            <reverse-related>TBLD Focus Charm</reverse-related>
+            <reverse-related>TBLD Focus Charm</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Monk</name>
+            <set picURL="/TBLD Monk.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Monk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Prowess</text>
+            <token>1</token>
+            <reverse-related>TBLD Flurry of Fists</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Rat</name>
+            <set picURL="/TBLD Rat.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Rat</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Mischief Steward</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Wurm2</name>
+            <set picURL="/TBLD Wurm2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Wurm</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>This can’t be blocked by creatures with power 2 or less.</text>
+            <token>1</token>
+            <reverse-related>TBLD Hammer of MatSelesnya</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Wurm</name>
+            <set picURL="/TBLD Wurm.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Wurm</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>At your upkeep, put a +1/+1 counter on this.</text>
+            <token>1</token>
+            <reverse-related>TBLD Savagery Charm</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Centaur</name>
+            <set picURL="/TBLD Centaur.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Centaur</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>TBLD Conclaves Call</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Beast</name>
+            <set picURL="/TBLD Beast.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Beast</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Garruk, Savage Hunter</reverse-related>
+            <reverse-related>TBLD Rumblethrag</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Elephant</name>
+            <set picURL="/TBLD Elephant.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Elephant</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>TBLD Trumpeting Herd</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Shapeshifter</name>
+            <set picURL="/TBLD Shapeshifter.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Shapeshifter</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Mirrored Minion</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Gelatinous Hydra Token</name>
+            <set picURL="/TBLD Gelatinous Hydra Token.full.jpg">TBLDtoken</set> 
+            <color>G</color>
+            <type>Token Creature — Hydra Ooze</type>
+            <pt>0/0</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Gelatinous Hydra Token</reverse-related>
+            <reverse-related>TBLD Gelatinous Hydra Token</reverse-related>
+            <reverse-related>TBLD Gelatinous Hydra</reverse-related>
+            <reverse-related>TBLD Gelatinous Hydra</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Adorned Pouncer Token</name>
+            <set picURL="/TBLD Adorned Pouncer Token.full.jpg">TBLDtoken</set> 
+            <color>W</color>
+            <type>Token Creature — Zombie Cat</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Double Strike</text>
+            <token>1</token>
+            <reverse-related>TBLD Adorned Pouncer</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Honored Hydra Token</name>
+            <set picURL="/TBLD Honored Hydra Token.full.jpg">TBLDtoken</set> 
+            <color>W</color>
+            <type>Token Creature — Zombie Snake Hydra</type>
+            <pt>6/6</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>TBLD Honored Hydra</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Ooze2</name>
+            <set picURL="/TBLD Ooze2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Ooze</type>
+            <pt>X/X</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Miming Slime</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Ooze</name>
+            <set picURL="/TBLD Ooze.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Ooze</type>
+            <pt>X/X</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Gelatinous Genesis</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Elemental</name>
+            <set picURL="/TBLD Elemental.full.jpg">TBLDtoken</set>         
+            <color>MGW</color>
+            <type>Token Creature — Elemental</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <text>This creature’s power and toughness are each equal to the number of creatures you control.</text>
+            <token>1</token>
+            <reverse-related>TBLD Worldsoul Evangel</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Spark Elemental Token</name>
+            <set picURL="/TBLD Spark Elemental Token.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Elemental</type>
+            <pt>3/1</pt>
+            <tablerow>2</tablerow>
+            <text>Haste, trample
+At the end step, sacrifice this.</text>
+            <token>1</token>
+            <reverse-related>TBLD Sparkstorm</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Devil</name>
+            <set picURL="/TBLD Devil.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Devil</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>When this dies, it deals 1 damage to any target.</text>
+            <token>1</token>
+            <reverse-related>TBLD Tibalt, Sadistic Reprobate</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Goblin Warrior</name>
+            <set picURL="/TBLD Goblin Warrior.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin Warrior</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Mardu Ascendancy</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Dragon</name>
+            <set picURL="/TBLD Dragon.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Dragon</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Jund Ascendancy</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Goblin5</name>
+            <set picURL="/TBLD Goblin5.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Kuldotha Rebirth</reverse-related>
+            <reverse-related>TBLD Kuldotha Rebirth</reverse-related>
+            <reverse-related>TBLD Kuldotha Rebirth</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin4</name>
+            <set picURL="/TBLD Goblin4.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Stone-Sling Squad</reverse-related>
+            <reverse-related>TBLD Stone-Sling Squad</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin3</name>
+            <set picURL="/TBLD Goblin3.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Krenkos Command</reverse-related>
+            <reverse-related>TBLD Krenkos Command</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin2</name>
+            <set picURL="/TBLD Goblin2.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Hordeling Outburst</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin</name>
+            <set picURL="/TBLD Goblin.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Goblin Instigator</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Bear</name>
+            <set picURL="/TBLD Bear.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Bear</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Highland Tracker</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Dog</name>
+            <set picURL="/TBLD Dog.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Dog</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>This can’t attack unless you control a nontoken creature.</text>
+            <token>1</token>
+            <reverse-related>TBLD Court Huntsman</reverse-related>
+            <reverse-related>TBLD Court Huntsman</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Scion4</name>
+            <set picURL="/TBLD Scion4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Emrakuls Birther</reverse-related>
+            <reverse-related>TBLD Emrakuls Birther</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Scion3</name>
+            <set picURL="/TBLD Scion3.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Warp Charm</reverse-related>
+            <reverse-related>TBLD Warp Charm</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Scion2</name>
+            <set picURL="/TBLD Scion2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Skittering Infestor</reverse-related>
+            <reverse-related>TBLD Brood Harbinger</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Scion</name>
+            <set picURL="/TBLD Scion.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Scion</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Blisterpod</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Kithkin Soldier</name>
+            <set picURL="/TBLD Kithkin Soldier.full.jpg">TBLDtoken</set>       
+            <color>W</color>
+            <type>Token Creature — Kithkin Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Cenns Enlistment</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Knight3</name>
+            <set picURL="/TBLD Knight3.full.jpg">TBLDtoken</set>       
+            <color>W</color>
+            <type>Token Creature — Knight</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related>TBLD Chorus Summoner</reverse-related>
+            <reverse-related>TBLD Chorus Summoner</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Knight2</name>
+            <set picURL="/TBLD Knight2.full.jpg">TBLDtoken</set>       
+            <color>W</color>
+            <type>Token Creature — Knight</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related>TBLD Knight Watch</reverse-related>
+            <reverse-related>TBLD Knight Watch</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Knight</name>
+            <set picURL="/TBLD Knight.full.jpg">TBLDtoken</set>       
+            <color>W</color>
+            <type>Token Creature — Knight</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related>TBLD Call of Duty</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Rhino</name>
+            <set picURL="/TBLD Rhino.full.jpg">TBLDtoken</set>       
+            <color>G</color>
+            <type>Token Creature — Rhino</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>TBLD Chorus Summoner</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Squirrel</name>
+            <set picURL="/TBLD Squirrel.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Squirrel</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Saproling7</name>
+            <set picURL="/TBLD Saproling7.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Fresh Molder</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling6</name>
+            <set picURL="/TBLD Saproling6.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Fists of Ironwood</reverse-related>
+            <reverse-related>TBLD Fists of Ironwood</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling5</name>
+            <set picURL="/TBLD Saproling5.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+            <reverse-related>TBLD Gentle Hierophant</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling4</name>
+            <set picURL="/TBLD Saproling4.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Woopip Scrounger</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling3</name>
+            <set picURL="/TBLD Saproling3.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Grazing Musksnuffler</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling2</name>
+            <set picURL="/TBLD Saproling2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Necrotic Bloom</reverse-related>
+            <reverse-related>TBLD Unsettling Embrace</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling</name>
+            <set picURL="/TBLD Saproling.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Woopip Sage</reverse-related>
+            <reverse-related>TBLD Woopip Sage</reverse-related>
+            <reverse-related>TBLD Bog Rebirth</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Faerie Rogue</name>
+            <set picURL="/TBLD Faerie Rogue.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Faerie Rogue</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Magus of the Blossom</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Faerie Soldier</name>
+            <set picURL="/TBLD Faerie Soldier.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Faerie Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Glen Elendra Commando</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Wall</name>
+            <set picURL="/TBLD Wall.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact Creature — Wall</type>
+            <pt>0/4</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Birth of Meletis</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Myr</name>
+            <set picURL="/TBLD Myr.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact Creature — Myr</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Myr Sire</reverse-related>
+            <reverse-related>TBLD Masters Call</reverse-related>
+            <reverse-related>TBLD Masters Call</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Construct</name>
+            <set picURL="/TBLD Construct.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact Creature — Construct</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>1, T: Target Construct gets +1/+1 this turn.</text>
+            <token>1</token>
+            <reverse-related>TBLD Urzas Factory</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Soldier3</name>
+            <set picURL="/TBLD Soldier3.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Haste</text>
+            <token>1</token>
+            <reverse-related>TBLD Akroan Crusader</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Soldier2</name>
+            <set picURL="/TBLD Soldier2.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Heroic Reinforcements</reverse-related>
+            <reverse-related>TBLD Heroic Reinforcements</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Soldier</name>
+            <set picURL="/TBLD Soldier.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Raise the Alarm</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Food2</name>
+            <set picURL="/TBLD Food2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Food</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>2, T, Sacrifice this: Gain 3 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Regal Comfort</reverse-related>
+            <reverse-related>TBLD Regal Comfort</reverse-related>
+            <reverse-related>TBLD Regal Comfort</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Food</name>
+            <set picURL="/TBLD Food.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Food</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>2, T, Sacrifice this: Gain 3 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Gilded Goose</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Weapon4</name>
+            <set picURL="/TBLD Weapon4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Dual Wield</reverse-related>
+            <reverse-related>TBLD Dual Wield</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Weapon3</name>
+            <set picURL="/TBLD Weapon3.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Showmatch</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Weapon2</name>
+            <set picURL="/TBLD Weapon2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Back in Action</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Weapon</name>
+            <set picURL="/TBLD Weapon.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Steelarm Outfitter</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Treasure8</name>
+            <set picURL="/TBLD Treasure8.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Myr Reprocessors</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure7</name>
+            <set picURL="/TBLD Treasure7.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Fertile Ground</reverse-related>
+            <reverse-related>TBLD Fertile Ground</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure6</name>
+            <set picURL="/TBLD Treasure6.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Bazaar of Urshad</reverse-related>
+            <reverse-related>TBLD Mineshaft Sentry</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure5</name>
+            <set picURL="/TBLD Treasure5.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Agent of Vraska</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure4</name>
+            <set picURL="/TBLD Treasure4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Sailor of Means</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure3</name>
+            <set picURL="/TBLD Treasure3.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Pirates Pillage</reverse-related>
+            <reverse-related>TBLD Pirates Pillage</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure2</name>
+            <set picURL="/TBLD Treasure2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Wade Through</reverse-related>
+            <reverse-related>TBLD Lost in Admiration</reverse-related>
+            <reverse-related>TBLD Lords Voyage</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure</name>
+            <set picURL="/TBLD Treasure.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Curse of Tithes</reverse-related>
+            <reverse-related>TBLD Pickpocket</reverse-related>
+            <reverse-related>TBLD Bribe</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Memorial</name>
+            <set picURL="/TBLD Memorial.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Enchantment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>Creatures you control get +1/+1.</text>
+            <token>1</token>
+            <reverse-related>TBLD Memorialize</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Stormfront Hellkite Token</name>
+            <set picURL="/TBLD Stormfront Hellkite Token.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Enchantment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>If a sorcery spell you control would deal damage to a permanent or player, it deals twice that much damage instead.</text>
+            <token>1</token>
+            <reverse-related>TBLD Stormfront Hellkite</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Servo</name>
+            <set picURL="/TBLD Servo.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact Creature — Servo</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Servo Exhibition</reverse-related>
+            <reverse-related>TBLD Servo Exhibition</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Blight2</name>
+            <set picURL="/TBLD Blight2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Blight</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>At your end step, lose 1 life.
+2: Exile this.</text>
+            <token>1</token>
+            <reverse-related>TBLD Plaguepiercer</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Blight</name>
+            <set picURL="/TBLD Blight.full.jpg">TBLDtoken</set>     
+            <color></color>
+            <type>Token Artifact — Blight</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>At your end step, lose 1 life.
+2: Exile this.</text>
+            <token>1</token>
+            <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
+            <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Clue8</name>
+            <set picURL="/TBLD Clue8.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Scrape By</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue7</name>
+            <set picURL="/TBLD Clue7.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Mysterious Disappearance</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue6</name>
+            <set picURL="/TBLD Clue6.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Inquisitive Mermaid</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue5</name>
+            <set picURL="/TBLD Clue5.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Lyxchan Seer</reverse-related>
+            <reverse-related>TBLD Lyxchan Seer</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue4</name>
+            <set picURL="/TBLD Clue4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Thraben Inspector</reverse-related>
+            <reverse-related>TBLD Root Out</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue3</name>
+            <set picURL="/TBLD Clue3.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>Nothing</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue2</name>
+            <set picURL="/TBLD Clue2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Midnight Errand</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue</name>
+            <set picURL="/TBLD Clue.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Confirm Suspicions</reverse-related>
+            <reverse-related>TBLD Confirm Suspicions</reverse-related>
+            <reverse-related>TBLD Confirm Suspicions</reverse-related>
+            <reverse-related>TBLD Sleuthing Woodsman</reverse-related>
+        </card>
+
+    </cards>
+</cockatrice_carddatabase>
+
