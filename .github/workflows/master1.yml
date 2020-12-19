@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: Create Release Folder
-      run: rsync -arv --exclude='.github/' --exclude='.gitattributes' --exclude='TumbledMTG/' --exclude='TumbledMTG Update Files/' . ./release
+      run: rsync -arv --exclude='.github/' --exclude='.gitattributes' --exclude='TumbledMTG Update Files/' --exclude='TumbledMTG Cockatrice Files/' . ./release
     - name: Switch to Release Folder
       run: |
         cd release
