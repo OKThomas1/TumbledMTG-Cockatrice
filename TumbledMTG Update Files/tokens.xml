@@ -309,8 +309,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
-            <reverse-related>TBLD March of the Returned</reverse-related>
-            <reverse-related>TBLD March of the Returned</reverse-related>
+            <reverse-related>TBLD Marching Returned</reverse-related>
+            <reverse-related>TBLD Marching Returned</reverse-related>
         </card>
         <card>
             <name>TBLD Zombie</name>
@@ -716,6 +716,17 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Beast2</name>
+            <set picURL="/TBLD Beast2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Beast</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Stalking Predators</reverse-related>
+        </card>
+        <card>
             <name>TBLD Beast</name>
             <set picURL="/TBLD Beast.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -724,7 +735,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Garruk, Savage Hunter</reverse-related>
+            <reverse-related>TBLD Garruk Savage Hunter</reverse-related>
             <reverse-related>TBLD Rumblethrag</reverse-related>
         </card>
 
@@ -848,7 +859,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>When this dies, it deals 1 damage to any target.</text>
             <token>1</token>
-            <reverse-related>TBLD Tibalt, Sadistic Reprobate</reverse-related>
+            <reverse-related>TBLD Tibalt Sadistic Reprobate</reverse-related>
         </card>
 
         <card>
@@ -1009,6 +1020,18 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Cat Soldier</name>
+            <set picURL="/TBLD Cat Soldier.full.jpg">TBLDtoken</set>       
+            <color>W</color>
+            <type>Token Creature — Cat Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance</text>
+            <token>1</token>
+            <reverse-related>TBLD Vanguard of Brimaz</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Kithkin Soldier</name>
             <set picURL="/TBLD Kithkin Soldier.full.jpg">TBLDtoken</set>       
             <color>W</color>
@@ -1041,8 +1064,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>TBLD Knight Watch</reverse-related>
-            <reverse-related>TBLD Knight Watch</reverse-related>
+            <reverse-related>TBLD History of Benalia</reverse-related>
+            <reverse-related>TBLD History of Benalia</reverse-related>
         </card>
         <card>
             <name>TBLD Knight</name>
@@ -1069,6 +1092,19 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Wolf</name>
+            <set picURL="/TBLD Wolf.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Wolf</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Howling Giant</reverse-related>
+            <reverse-related>TBLD Howling Giant</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Squirrel</name>
             <set picURL="/TBLD Squirrel.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -1081,6 +1117,17 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Busy Boughs</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Saproling8</name>
+            <set picURL="/TBLD Saproling8.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Sporescatter Mycoid</reverse-related>
+        </card>
         <card>
             <name>TBLD Saproling7</name>
             <set picURL="/TBLD Saproling7.full.jpg">TBLDtoken</set>         
@@ -1214,6 +1261,20 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Myr Sire</reverse-related>
             <reverse-related>TBLD Masters Call</reverse-related>
             <reverse-related>TBLD Masters Call</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Golem</name>
+            <set picURL="/TBLD Golem.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact Creature — Golem</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Sensor Splicer</reverse-related>
+            <reverse-related>TBLD Maul Splicer</reverse-related>
+            <reverse-related>TBLD Maul Splicer</reverse-related>
         </card>
 
         <card>
@@ -1481,6 +1542,7 @@ Equip 2</text>
             <text>At your end step, lose 1 life.
 2: Exile this.</text>
             <token>1</token>
+            <reverse-related>TBLD Altar of Compleation</reverse-related>
             <reverse-related>TBLD Plaguepiercer</reverse-related>
         </card>
         <card>
