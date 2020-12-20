@@ -474,7 +474,7 @@ Draw a card.</text>
  <set picURL="/TBLD Dubious Challenge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
  <manacost>3G</manacost>
-		<cm>4</cmc>
+		<cmc>4</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Look at the top ten cards of your library, exile up to two creature cards from among them, then shuffle your library. Target opponent may choose one of the exiled cards and put it into play under their control. Put the rest into play under your control.</text>
