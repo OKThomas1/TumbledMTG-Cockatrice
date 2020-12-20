@@ -27,7 +27,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           mkdir artifact
-          zip -r ./artifact/Main.zip ./TumbledMTG
+          cp -R ./TumbledMTG ./artifact/
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
@@ -47,7 +47,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           mkdir artifact
-          zip -r ./artifact/Main.zip './TumbledMTG Cockatrice Files'
+          cp -R './TumbledMTG Cockatrice Files' ./artifact/
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
@@ -66,7 +66,7 @@ jobs:
       - name: Run a multi-line script
         run: |
           mkdir artifact
-          zip -r ./artifact/Main.zip './TumbledMTG Update Files'
+          cp -R './TumbledMTG Update Files' ./artifact/
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
