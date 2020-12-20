@@ -31,7 +31,7 @@ jobs:
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
-          name: "Main-test"
+          name: "TumbledMTG"
           path: "./artifact/"
 
   TumbledMTGCockatrice:
@@ -51,7 +51,7 @@ jobs:
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
-          name: "Main-test"
+          name: "TumbledMTG Cockatrice Files"
           path: "./artifact/"
   TumbledMTGUpdate:
     # The type of runner that the job will run on
@@ -70,5 +70,5 @@ jobs:
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
-          name: "Main-test"
+          name: "TumbledMTG Update Files"
           path: "./artifact/"
