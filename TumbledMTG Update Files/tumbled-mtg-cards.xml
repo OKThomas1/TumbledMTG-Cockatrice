@@ -11376,6 +11376,16 @@ Cycling 1</text>
 Cycling 1 (1, Discard this: Draw a card.)</text>
 </card>
 <card>
+ <name>TBLD Mnemonic Deluge</name>
+ <set picURL="/TBLD Mnemonic Deluge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>U</color>
+ <manacost>6UUU</manacost>
+		<cmc>9</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Exile sorcery card from a graveyard. Copy that card three times. You may cast the copies without paying their mana costs. Exile this.</text>
+</card>
+<card>
  <name>TBLD Scatter the Seeds</name>
  <set picURL="/TBLD Scatter the Seeds.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
@@ -12851,6 +12861,17 @@ Retrace (You may cast this from your graveyard by discarding a land card in addi
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Add three mana of any one color.</text>
+</card>
+<card>
+ <name>TBLD Dazzling Ritual</name>
+ <set picURL="/TBLD Dazzling Ritual.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <manacost>3R</manacost>
+		<cmc>4</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Spectacle 1R (You may cast this for its spectacle cost if an opponent lost life this turn.)
+Add RRRRR. (Five)</text>
 </card>
 <card>
  <name>TBLD Nyxflare</name>
