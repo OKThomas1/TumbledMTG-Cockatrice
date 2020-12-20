@@ -12939,6 +12939,16 @@ When this enters play, target creature gets +1/+0 this turn.</text>
  <text>Triple target creatures power this turn.</text>
 </card>
 <card>
+ <name>TBLD Flash of Steel</name>
+ <set picURL="/TBLD Flash of Steel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <manacost>1RR</manacost>
+		<cmc>3</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>You may put an equipment card from your hand into play. Attach it to target creature. At the next end step, sacrifice that equipment.</text>
+</card>
+<card>
  <name>TBLD Reckless Waif</name>
  <set picURL="/TBLD Reckless Waif.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
