@@ -45,17 +45,6 @@ jobs:
           asset_path: ./TumbledMTG.zip
           asset_name: TumbledMTG.zip
           asset_content_type: application/zip
-          
-      - name: Create Release
-        id: create_release2
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
       - name: Upload Release Asset
         id: upload-release-asset2
         uses: actions/upload-release-asset@v1
@@ -66,17 +55,6 @@ jobs:
           asset_path: './TumbledMTG Cockatrice.zip'
           asset_name: 'TumbledMTG Cockatrice Files.zip'
           asset_content_type: application/zip
-          
-      - name: Create Release
-        id: create_release3
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
       - name: Upload Release Asset
         id: upload-release-asset3
         uses: actions/upload-release-asset@v1
