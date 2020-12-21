@@ -68,7 +68,7 @@ jobs:
           mkdir artifact
           cp -R './TumbledMTG Update Files' ./artifact/
       - name: "Publish"
-        uses: actions/upload-artifact@v2-preview
+        uses: actions/upload-artifact@v2
         with:
           name: "TumbledMTG Update Files"
           path: "./artifact/"
