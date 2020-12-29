@@ -30,9 +30,9 @@ jobs:
           cp ./data/customsets/tumbled-mtg-cards.xml ./artifact/
           cp ./data/tokens.xml ./artifact/
           cp -R ./data/pics/CUSTOM ./artifact/
-          cp ./Readme.txt ./artifact/
+          cp ./manual/Readme.txt ./artifact/
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
-          name: "TumbledMTG"
+          name: "TumbledMTG Cockatrice Files"
           path: "./artifact/"
