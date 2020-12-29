@@ -34,5 +34,5 @@ jobs:
       - name: "Publish"
         uses: actions/upload-artifact@v2-preview
         with:
-          name: "TumbledMTG Cockatrice Files"
+          name: "TumbledMTG-Cockatrice-Files"
           path: "./artifact/"
