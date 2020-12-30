@@ -6259,7 +6259,7 @@ Draw a card.</text>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
- <text>Sacrifice a creature. Search your library for a creature card with converted mana cost less than the sacrificed creature’s converted mana cost.
+ <text>Sacrifice a creature. Search your library for a creature card with converted mana cost less than the sacrificed creature’s converted mana cost and put it into play.
 Draw a card.</text>
 </card>
 <card>
