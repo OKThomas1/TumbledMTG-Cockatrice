@@ -1327,7 +1327,8 @@ Whenever enchanted player draws a card, they may pay 2. If they don’t, you cre
  <type>Creature - Human Scout </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>When this dies, create two 1/1 white Spirit creature tokens with flying.</text>
+ <text>Vigilance
+When this dies, create two 1/1 white Spirit creature tokens with flying.</text>
 </card>
 <card>
  <name>TBLD Arashin Cleric</name>
@@ -6236,7 +6237,30 @@ Draw a card.</text>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
- <text>This turn, if a creature would enter play and it wasn’t cast, exile it instead.</text>
+ <text>This turn, if a nontoken creature would enter play and it wasn’t cast, exile it instead.
+Draw a card.</text>
+</card>
+<card>
+ <name>TBLD Cleansing Wildfire</name>
+ <set picURL="/TBLD Cleansing Wildfire.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <manacost>2/R</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Destroy target land. Its controller may search their library for a land card with a basic land type and put it into play.
+Draw a card.</text>
+</card>
+<card>
+ <name>TBLD Pagan Sacrament</name>
+ <set picURL="/TBLD Pagan Sacrament.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>G</color>
+ <manacost>2/G</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Sacrifice a creature. Search your library for a creature card with converted mana cost less than the sacrificed creature’s converted mana cost.
+Draw a card.</text>
 </card>
 <card>
  <name>TBLD Brainstorm</name>
@@ -7931,8 +7955,8 @@ Whenever this deals damage to a player, they mill twice that many cards.</text>
  <name>TBLD Siphon Thought</name>
  <set picURL="/TBLD Siphon Thought.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <manacost>U</manacost>
-		<cmc>1</cmc>
+ <manacost>1U</manacost>
+		<cmc>2</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>Each player mills four cards. (They put the top four cards of their library into their graveyard.)
@@ -8210,8 +8234,8 @@ Draw a card.</text>
  <name>TBLD Quicken</name>
  <set picURL="/TBLD Quicken.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <manacost>U</manacost>
-		<cmc>1</cmc>
+ <manacost>2/U</manacost>
+		<cmc>2</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>This turn, you may cast sorcery spells at flash speed.
@@ -9417,7 +9441,7 @@ Discard a card: This can’t be blocked this turn.
  <color>R</color>
  <manacost>6R</manacost>
 		<cmc>7</cmc>
- <type>Enchantment Creature - Elemental </type>
+ <type>Flash Enchantment Creature - Elemental </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Trample
@@ -9451,7 +9475,7 @@ Evoke 3R (You may cast this for its evoke cost. If you do, its sacrificed when i
  <color>R</color>
  <manacost>2R</manacost>
 		<cmc>3</cmc>
- <type>Sorcery</type>
+ <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>Destroy target land.
 Cycling 2 (2, Discard this: Draw a card.)</text>
@@ -9462,7 +9486,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <color>MWR</color>
  <manacost>4WW // 3R</manacost>
 		<cmc>10</cmc>
- <type>Sorcery // Sorcery</type>
+ <type>Sorcery // Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>Put all creatures under their owner’s library in a random order.
 --- 
@@ -13630,7 +13654,9 @@ Add RRRRR. (Five)</text>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
- <text>This deals 1 damage to each creature without flying.</text>
+ <text>Kicker 2
+This deals 1 damage to each creature without flying.
+If this was kicked, draw a card.</text>
 </card>
 <card>
  <name>TBLD Create Heat</name>
@@ -17702,8 +17728,8 @@ Destroy up to two target artifacts and/or enchantments.</text>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
- <text>Counter target spell with converted mana cost 1.
-Scry 2.</text>
+ <text>You may Discard an Island card rather than pay this spell’s mana cost.
+Counter target spell with converted mana cost 1. Scry 2.</text>
 </card>
 <card>
  <name>TBLD Annul</name>
