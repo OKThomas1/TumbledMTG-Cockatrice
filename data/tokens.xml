@@ -150,6 +150,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Digital Witness</reverse-related>
             <reverse-related>TBLD Neosteel Stealth Unit</reverse-related>
             <reverse-related>TBLD Patience Charm</reverse-related>
+            <reverse-related>TBLD Coruscating Cityscape</reverse-related>
         </card>
 
         <card>
@@ -245,6 +246,72 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
+            <name>TBLD Zombie12</name>
+            <set picURL="/TBLD Zombie12.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Never_Return</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie11</name>
+            <set picURL="/TBLD Zombie11.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>4/5</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Victor Obsessive Stitcher</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie10</name>
+            <set picURL="/TBLD Zombie10.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Bone Miser</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie9</name>
+            <set picURL="/TBLD Zombie9.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Prolific Necromancer</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie8</name>
+            <set picURL="/TBLD Zombie8.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Rank Officer</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Zombie7</name>
+            <set picURL="/TBLD Zombie7.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Stitch Cadaver</reverse-related>
+        </card>
+        <card>
             <name>TBLD Zombie6</name>
             <set picURL="/TBLD Zombie6.full.jpg">TBLDtoken</set>         
             <color>B</color>
@@ -264,7 +331,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
-            <reverse-related>TBLD Reap the Seagraf</reverse-related>
+            <reverse-related>TBLD Endless Ranks of the Dead</reverse-related>
         </card>
         <card>
             <name>TBLD Zombie4</name>
@@ -275,7 +342,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
-            <reverse-related>TBLD Stitch Cadaver</reverse-related>
+            <reverse-related>TBLD Noosegraf Mob</reverse-related>
         </card>
         <card>
             <name>TBLD Zombie3</name>
@@ -286,6 +353,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
+            <reverse-related>TBLD Zombie Infestation</reverse-related>
             <reverse-related>TBLD Army of the Damned</reverse-related>
             <reverse-related>TBLD Army of the Damned</reverse-related>
             <reverse-related>TBLD Army of the Damned</reverse-related>
@@ -321,7 +389,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
-            <reverse-related>TBLD </reverse-related>
+            <reverse-related>TBLD Victor Obsessive Stitcher</reverse-related>
         </card>
 
         <card>
@@ -555,7 +623,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         <card>
             <name>TBLD Spirit8</name>
             <set picURL="/TBLD Spirit8.full.jpg">TBLDtoken</set>         
-            <color>HWB</color>
+            <color>W</color>
             <type>Token Creature — Spirit</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
@@ -607,6 +675,9 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
+            <reverse-related>TBLD Haunted Dead</reverse-related>
+            <reverse-related>TBLD Triplicate Spirits</reverse-related>
+            <reverse-related>TBLD Triplicate Spirits</reverse-related>
             <reverse-related>TBLD Triplicate Spirits</reverse-related>
         </card>
         <card>
@@ -624,7 +695,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         <card>
             <name>TBLD Spirit2</name>
             <set picURL="/TBLD Spirit2.full.jpg">TBLDtoken</set>         
-            <color>W B M</color>
+            <color>W</color>
             <type>Token Creature — Spirit</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
@@ -642,6 +713,18 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <text>Flying</text>
             <token>1</token>
             <reverse-related>TBLD Doomed Traveler</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Goat</name>
+            <set picURL="/TBLD Goat.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Goat</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Discordant Piper</reverse-related>
         </card>
 
         <card>
@@ -677,6 +760,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Mischief Steward</reverse-related>
             <reverse-related>TBLD Mischief Steward</reverse-related>
         </card>
 
@@ -788,6 +872,20 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <text>Double Strike</text>
             <token>1</token>
             <reverse-related>TBLD Adorned Pouncer</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Stitched Thug Token</name>
+            <set picURL="/TBLD Stitched Thug Token.full.jpg">TBLDtoken</set> 
+            <color>W</color>
+            <type>Token Creature — Zombie Rat Warrior</type>
+            <pt>3/1</pt>
+            <tablerow>2</tablerow>
+            <text>When this enters play, choose one —
+• Each player sacrifices a creature.
+• Each player discards a card.</text>
+            <token>1</token>
+            <reverse-related>TBLD Stitched Thug</reverse-related>
         </card>
 
         <card>
@@ -972,18 +1070,6 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
-            <name>TBLD Scion4</name>
-            <set picURL="/TBLD Scion4.full.jpg">TBLDtoken</set>         
-            <color></color>
-            <type>Token Creature — Scion</type>
-            <pt>1/1</pt>
-            <tablerow>2</tablerow>
-            <text>Sacrifice this: Add C.</text>
-            <token>1</token>
-            <reverse-related>TBLD Emrakuls Birther</reverse-related>
-            <reverse-related>TBLD Emrakuls Birther</reverse-related>
-        </card>
-        <card>
             <name>TBLD Scion3</name>
             <set picURL="/TBLD Scion3.full.jpg">TBLDtoken</set>         
             <color></color>
@@ -1005,7 +1091,6 @@ At the end step, sacrifice this.</text>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
             <reverse-related>TBLD Skittering Infestor</reverse-related>
-            <reverse-related>TBLD Brood Harbinger</reverse-related>
         </card>
         <card>
             <name>TBLD Scion</name>
@@ -1016,7 +1101,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
-            <reverse-related>TBLD Blisterpod</reverse-related>
+            <reverse-related>TBLD Emrakuls Birther</reverse-related>
+            <reverse-related>TBLD Emrakuls Birther</reverse-related>
         </card>
 
         <card>
@@ -1246,7 +1332,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Birth of Meletis</reverse-related>
+            <reverse-related>TBLD The Birth of Meletis</reverse-related>
         </card>
 
         <card>
@@ -1287,6 +1373,18 @@ At the end step, sacrifice this.</text>
             <text>1, T: Target Construct gets +1/+1 this turn.</text>
             <token>1</token>
             <reverse-related>TBLD Urzas Factory</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Cleric</name>
+            <set picURL="/TBLD Cleric.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Cleric</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
+            <reverse-related>TBLD Magus of the Dawn</reverse-related>
         </card>
 
         <card>
@@ -1454,7 +1552,7 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Sailor of Means</reverse-related>
+            <reverse-related>TBLD Wealthy Prelate</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure3</name>
@@ -1465,6 +1563,7 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Sailor of Means</reverse-related>
             <reverse-related>TBLD Pirates Pillage</reverse-related>
             <reverse-related>TBLD Pirates Pillage</reverse-related>
         </card>
