@@ -132,6 +132,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Cyber-Intelligence Operative</reverse-related>
             <reverse-related>TBLD Positronic Ritual</reverse-related>
             <reverse-related>TBLD Deep Net</reverse-related>
             <reverse-related>TBLD Ancestral Research</reverse-related>
@@ -1654,6 +1655,8 @@ Equip 2</text>
             <text>At your end step, lose 1 life.
 2: Exile this.</text>
             <token>1</token>
+            <reverse-related>TBLD Sootwing Phoenix</reverse-related>
+            <reverse-related>TBLD Sootwing Phoenix</reverse-related>
             <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
             <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
         </card>
