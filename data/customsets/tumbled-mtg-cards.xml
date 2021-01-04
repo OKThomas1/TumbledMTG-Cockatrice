@@ -6,7 +6,7 @@
 <longname>TumbledMTG</longname>
 </set>
 </sets>
-<versionnumber>0003</versionnumber>
+<versionnumber>0002</versionnumber>
 <cards>
 
 <card>
@@ -14612,18 +14612,6 @@ Arcane mastery — If there are three or more sorcery cards in your graveyard, t
  <tablerow>3</tablerow>
  <text>This deals 3 damage to target nonred creature.
 Look at the top two cards of your library and put one of them onto the bottom.</text>
-</card>
-<card>
- <name>TBLD Snatch</name>
- <set picURL="/TBLD Snatch.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>B</color>
-<new>TRUE</new>
- <manacost>1BB</manacost>
-		<cmc>3</cmc>
- <type>Flash Sorcery</type>
- <tablerow>3</tablerow>
- <text>Scry 2 if a player lost life this turn.
-Draw two cards and lose 2 life.</text>
 </card>
 <card>
  <name>TBLD Snatch</name>
