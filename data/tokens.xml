@@ -1192,6 +1192,17 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Insect2</name>
+            <set picURL="/TBLD Insect2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Insect</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Patient Cocoon</reverse-related>
+        </card>
+        <card>
             <name>TBLD Insect</name>
             <set picURL="/TBLD Insect.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -1201,7 +1212,6 @@ At the end step, sacrifice this.</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Queen of the Hive</reverse-related>
-            <reverse-related>TBLD Patient Cocoon</reverse-related>
         </card>
 
         <card>
