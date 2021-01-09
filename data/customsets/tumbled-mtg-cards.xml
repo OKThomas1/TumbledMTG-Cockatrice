@@ -8810,8 +8810,8 @@ Escape—2BB, Exile three other cards from your graveyard. (You may cast this fr
  <name>TBLD Stitch Cadaver</name>
  <set picURL="/TBLD Stitch Cadaver.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <manacost>1B</manacost>
-		<cmc>2</cmc>
+ <manacost>2B</manacost>
+		<cmc>3</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>Create a 2/2 black Zombie creature token that can’t block.
@@ -12302,7 +12302,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
 		<cmc>9</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Exile sorcery card from a graveyard. Copy that card three times. You may cast the copies without paying their mana costs. Exile this.</text>
+ <text>Exile target sorcery card from a graveyard. Copy that card three times. You may cast the copies without paying their mana costs. Exile this.</text>
 </card>
 <card>
  <name>TBLD Scatter the Seeds</name>
@@ -14157,7 +14157,7 @@ Exile this.</text>
 		<cmc>1</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Look at target player’s hand. They discards a card.
+ <text>Look at target player’s hand. They discard a card.
 2BB, Exile this from your graveyard: Choose a card name. Target player reveals their hand and discards all cards with that name. Activate only during your turn.</text>
 </card>
 <card>
@@ -15252,8 +15252,8 @@ Draw a card.</text>
  <name>TBLD Void Fissure</name>
  <set picURL="/TBLD Void Fissure.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <manacost>6B</manacost>
-		<cmc>7</cmc>
+ <manacost>5B</manacost>
+		<cmc>6</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Affinity for Swamps (This costs 1 less to cast for each Swamp you control.)
@@ -17267,7 +17267,7 @@ Each flash creature and each creature with haste you control gets +1/+0.</text>
 <new>TRUE</new>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
- <type>Flash Enchantment - Aura </type>
+ <type>Flash Enchantment - Aura Curse </type>
  <tablerow>1</tablerow>
  <text>Enchant player
 At enchanted player’s upkeep, they lose 1 life and you gain 1 life.</text>
