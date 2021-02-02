@@ -15050,7 +15050,8 @@ G/W, T, Tap an untapped creature you control: Populate. (Create a token that’s
  <type>Creature - Bird </type>
  <pt>0/2</pt>
  <tablerow>2</tablerow>
- <text>When this enters play, create a Food token. (It’s an artifact with “2, T, Sacrifice this: Gain 3 life.”)
+ <text>Flying
+When this enters play, create a Food token. (It’s an artifact with “2, T, Sacrifice this: Gain 3 life.”)
 1G, T: Create a Food token.
 T, Sacrifice a Food: Add one mana of any color.</text>
 </card>
