@@ -744,8 +744,8 @@ Draw a card.</text>
  <set picURL="/TBLD Martial Law.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
 <new>TRUE</new>
- <manacost>WW</manacost>
-		<cmc>2</cmc>
+ <manacost>1WW</manacost>
+		<cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
  <text>At your upkeep, detain target creature an opponent controls. (Until your next turn, it can’t attack or block and its activated abilities can’t be activated.)</text>
@@ -16444,7 +16444,7 @@ Dash 4G (You may cast this for its dash cost. If you do, it gains haste, and it�
  <type>Artifact Creature - Construct </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Whenever you cast a sorcery spell from your hand, counter it. Then, exile cards from the top of your library until you exile a sorcery card with converted mana cost equal to 1 plus the converted mana cost of the countered spell. You may cast that card without paying its mana cost. Shuffle the rest of the exiled cards into your library. If you didn’t cast a spell this way, draw two cards.</text>
+ <text>Whenever you cast a sorcery spell from your hand, counter it. Then, exile cards from the top of your library until you exile a sorcery card with converted mana cost equal to 1 plus the converted mana cost of that spell. You may cast that card without paying its mana cost. Shuffle the rest of the exiled cards into your library. If you didn’t cast a spell this way, draw two cards.</text>
 </card>
 <card>
  <name>TBLD Magus of the Stacks</name>
