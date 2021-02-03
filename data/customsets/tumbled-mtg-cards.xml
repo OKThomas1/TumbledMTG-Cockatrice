@@ -14843,7 +14843,7 @@ When this has three or more +1/+1 counters, remove them all and transform this.<
  <set picURL="/TBLD Spark Mouse.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>R</color>
-<new>TRUE</new>
+<new>FALSE</new>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Lightning Mouse</related>
