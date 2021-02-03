@@ -2162,7 +2162,7 @@ T: Target player mills X cards, where X is twice the number of +1/+1 counters on
  <pt>0/1</pt>
  <tablerow>2</tablerow>
  <text>Experience (Whenever this attacks, if it has less than three +1/+1 counters, put a +1/+1 counter on it.)
-When this has three or more +1/+1 counters, destroy all nonland permanents.</text>
+Whenever a +1/+1 counter is put on this, if this has three or more +1/+1 counters, destroy all nonland permanents.</text>
 </card>
 <card>
  <name>TBLD Lucky Tomcat</name>
