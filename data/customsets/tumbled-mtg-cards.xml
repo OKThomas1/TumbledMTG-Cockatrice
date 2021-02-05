@@ -185,17 +185,6 @@ Sacrifice a creature: Put a +1/+1 counter on this.</text>
  <text>When this enters play or dies, mill three cards. (Put the top three cards of your library into your graveyard.)</text>
 </card>
 <card>
- <name>TBLD Stitchers Supplier</name>
- <set picURL="/TBLD Stitchers Supplier.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>B</color>
- <manacost>B</manacost>
-		<cmc>1</cmc>
- <type>Creature - Zombie </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>When this enters play or dies, mill three cards. (Put the top three cards of your library into your graveyard.)</text>
-</card>
-<card>
  <name>TBLD Blood Scrivener</name>
  <set picURL="/TBLD Blood Scrivener.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
@@ -1896,8 +1885,7 @@ Storm (When you cast this, copy it for each spell cast before it this turn.)</te
 		<cmc>1</cmc>
  <type>Enchantment</type>
  <tablerow>3</tablerow>
- <text>When this enters play, draw a card.
-Whenever an opponent shuffles their library, you may look at the top two cards of that library. You may exile one of those cards. Then put the rest on top of that library in any order.</text>
+ <text>Whenever an opponent shuffles their library, they reveal the top two cards of their library and exile one of them of your choice. Then put the rest on top of that library in any order.</text>
 </card>
 <card>
  <name>TBLD Standardize</name>
@@ -5255,7 +5243,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain47</name>
  <set picURL="/TBLD Mountain47.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5265,7 +5253,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain48</name>
  <set picURL="/TBLD Mountain48.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5275,7 +5263,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain49</name>
  <set picURL="/TBLD Mountain49.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5285,7 +5273,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain50</name>
  <set picURL="/TBLD Mountain50.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5295,7 +5283,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain51</name>
  <set picURL="/TBLD Mountain51.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5305,7 +5293,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain52</name>
  <set picURL="/TBLD Mountain52.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5315,7 +5303,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain53</name>
  <set picURL="/TBLD Mountain53.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5325,7 +5313,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain54</name>
  <set picURL="/TBLD Mountain54.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5335,7 +5323,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain55</name>
  <set picURL="/TBLD Mountain55.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -5345,7 +5333,7 @@ When you cycle this, gain 1 life.</text>
 <card>
  <name>TBLD Mountain56</name>
  <set picURL="/TBLD Mountain56.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>R</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -18671,7 +18659,7 @@ Myr you control have “T: Add one mana of any color.”</text>
  <manacost>2</manacost>
 		<cmc>2</cmc>
  <type>Artifact Creature - Myr </type>
- <pt>2/1</pt>
+ <pt>3/1</pt>
  <tablerow>2</tablerow>
  <text>Metalcraft — This costs 1 less to cast if you control three or more artifacts.</text>
 </card>
@@ -20620,6 +20608,17 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
 When this enters play or is put into a graveyard from anywhere, mill two cards.
 T: Add U.
 Cycling 2 (2, Discard this: Draw a card.)</text>
+</card>
+<card>
+ <name>TBLD Stitchers Laboratory</name>
+ <set picURL="/TBLD Stitchers Laboratory.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MUB</color>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>As this enters play, you may reveal a Zombie card from your hand. If you don’t, this enters play tapped.
+T: Add U or B.</text>
 </card>
 <card>
  <name>TBLD Haunted Mansion</name>
