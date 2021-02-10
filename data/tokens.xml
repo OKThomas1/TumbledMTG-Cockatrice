@@ -748,6 +748,19 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Merciless Killer</name>
+            <set picURL="/TBLD Merciless Killer.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Creature — Werewolf</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>Menace
+At each upkeep, if a player cast two or more spells last turn, transform this.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
             <name>TBLD Gleeful Predator</name>
             <set picURL="/TBLD Gleeful Predator.full.jpg">TBLDtoken</set>      
             <color>G</color>
