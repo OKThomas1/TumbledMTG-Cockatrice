@@ -519,8 +519,8 @@ Scavenge 1G (1G, Exile this from your graveyard: Put a number of +1/+1 counters 
  <set picURL="/TBLD Woodwraith Strangler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
 <new>TRUE</new>
- <manacost>BG</manacost>
-		<cmc>2</cmc>
+ <manacost>1BG</manacost>
+		<cmc>3</cmc>
  <type>Creature - Plant Zombie </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
