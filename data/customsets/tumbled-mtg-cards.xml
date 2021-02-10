@@ -19526,8 +19526,8 @@ Whenever you cast a sorcery spell, this deals 1 damage to any target.
 At your upkeep, discard your hand, then draw that many cards plus one.</text>
 </card>
 <card>
- <name>TBLD Jarad, Undercity Lich</name>
- <set picURL="/TBLD Jarad, Undercity Lich.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <name>TBLD Jarad Undercity Lich</name>
+ <set picURL="/TBLD Jarad Undercity Lich.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
 .<new>TRUE</new>
  <manacost>4BBGG</manacost>
