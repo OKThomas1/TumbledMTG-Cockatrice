@@ -1056,6 +1056,31 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Viziers Honor Guard Token</name>
+            <set picURL="/TBLD Viziers Honor Guard Token.full.jpg">TBLDtoken</set> 
+            <color>W</color>
+            <type>Token Creature — Zombie Human Warrior</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>First strike
+At each beginning of combat, target Zombie you control gets +1/+0 this turn.</text>
+            <token>1</token>
+            <reverse-related>TBLD Viziers Honor Guard</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Sacred Cat Token</name>
+            <set picURL="/TBLD Sacred Cat Token.full.jpg">TBLDtoken</set> 
+            <color>W</color>
+            <type>Token Creature — Zombie Cat</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
+            <reverse-related>TBLD Sacred Cat</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Ooze2</name>
             <set picURL="/TBLD Ooze2.full.jpg">TBLDtoken</set>         
             <color>G</color>
