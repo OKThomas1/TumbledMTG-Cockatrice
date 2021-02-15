@@ -728,7 +728,7 @@ Whenever a player discards a card, they lose 1 life.</text>
             <type>Creature — Lizard</type>
             <pt>3/6</pt>
             <tablerow>2</tablerow>
-            <text>Trample
+            <text>This can’t be blocked by more than one creature.
 When this transforms into Turbulent Grappler or attacks, you may switch this creature’s power and toughness this turn.</text>
             <token>1</token>
 <dfc></dfc>
