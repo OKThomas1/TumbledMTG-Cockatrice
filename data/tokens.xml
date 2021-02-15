@@ -550,6 +550,19 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
+            <name>TBLD Pesky Cave-Bat Token</name>
+            <set picURL="/TBLD Pesky Cave-Bat Token.full.jpg">TBLDtoken</set>      
+            <color>B</color>
+            <type>Token Creature — Bat</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, lifelink
+Experience (Whenever this attacks, if it has less than three +1/+1 counters, put a +1/+1 counter on it.)</text>
+            <token>1</token>
+            <reverse-related>TBLD Pesky Cave-Bat</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Sphinx</name>
             <set picURL="/TBLD Sphinx.full.jpg">TBLDtoken</set>      
             <color>U</color>
@@ -596,6 +609,17 @@ This has hexproof as long as its untapped.</text>
             <reverse-related>TBLD Spider Hatching</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Plant4</name>
+            <set picURL="/TBLD Plant4.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Plant</type>
+            <pt>0/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Stank Weed</reverse-related>
+        </card>
         <card>
             <name>TBLD Plant3</name>
             <set picURL="/TBLD Plant3.full.jpg">TBLDtoken</set>         
@@ -663,35 +687,74 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <set picURL="/TBLD Hissing Caretaker.full.jpg">TBLDtoken</set>   
             <color>G</color>
             <type>Creature — Snake</type>
-            <pt>2/2</pt>
+            <pt>2/4</pt>
             <tablerow>2</tablerow>
-            <text>Deathtouch
-For each +1/+1 counter this has, this can block an additional creature each combat.
-3G: Regenerate this.</text>
+            <text>Deathtouch, defender
+When this transforms into Hissing Caretaker, untap it.
+2G: Regenerate this. (The next time this would be destroyed this turn, remove all damage from it instead.)</text>
             <token>1</token>
 <dfc></dfc>
         </card>
 
         <card>
-            <name>TBLD Rabid Rodent</name>
-            <set picURL="/TBLD Rabid Rodent.full.jpg">TBLDtoken</set>   
+            <name>TBLD Blooming Titan</name>
+            <set picURL="/TBLD Blooming Titan.full.jpg">TBLDtoken</set>   
+            <color>G</color>
+            <type>Creature — Dinosaur Plant </type>
+            <pt>4/5</pt>
+            <tablerow>2</tablerow>
+            <text>Untap all creatures and lands you control during each other player’s untap step.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Brazen Poltergeist</name>
+            <set picURL="/TBLD Brazen Poltergeist.full.jpg">TBLDtoken</set>   
             <color>B</color>
-            <type>Creature — Rat</type>
-            <pt>5/2</pt>
+            <type>Creature — Spirit</type>
+            <pt>1/4</pt>
             <tablerow>2</tablerow>
-            <text>Menace</text>
+            <text>Whenever this deals damage to a player, they discard a card.
+Whenever a player discards a card, they lose 1 life.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
 
         <card>
-            <name>TBLD Lightning Mouse</name>
-            <set picURL="/TBLD Lightning Mouse.full.jpg">TBLDtoken</set>   
-            <color>R</color>
-            <type>Creature — Elemental Rat</type>
-            <pt>3/3</pt>
+            <name>TBLD Turbulent Grappler</name>
+            <set picURL="/TBLD Turbulent Grappler.full.jpg">TBLDtoken</set>   
+            <color>U</color>
+            <type>Creature — Lizard</type>
+            <pt>3/6</pt>
             <tablerow>2</tablerow>
-            <text>When this transforms into Lightning Mouse, it deals 3 damage to each opponent.</text>
+            <text>Trample
+When this transforms into Turbulent Grappler or attacks, you may switch this creature’s power and toughness this turn.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Fiery Brute</name>
+            <set picURL="/TBLD Fiery Brute.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Creature — Beast</type>
+            <pt>4/3</pt>
+            <tablerow>2</tablerow>
+            <text>Menace
+Whenever this untaps, creatures you control get +1/+0 this turn.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Earthshaker Hulk</name>
+            <set picURL="/TBLD Earthshaker Hulk.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Creature — Dinosaur</type>
+            <pt>3/5</pt>
+            <tablerow>2</tablerow>
+            <text>When this transforms into Earthshaker Hulk, creatures without flying can’t block this turn.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
