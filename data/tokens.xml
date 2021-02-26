@@ -132,14 +132,20 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Poison the Cup</reverse-related>
+            <reverse-related>TBLD Sink into Oblivion</reverse-related>
             <reverse-related>TBLD Radioactive Decay</reverse-related>
             <reverse-related>TBLD Kill Shot</reverse-related>
+            <reverse-related>TBLD Cosmic Intervention</reverse-related>
             <reverse-related>TBLD Contradict</reverse-related>
             <reverse-related>TBLD Unload</reverse-related>
+            <reverse-related>TBLD Burst Thunder</reverse-related>
+            <reverse-related>TBLD Alrunds Epiphany</reverse-related>
             <reverse-related>TBLD Burst Thunder</reverse-related>
             <reverse-related>TBLD Mammoth Growth</reverse-related>
             <reverse-related>TBLD Mox Crystal</reverse-related>
             <reverse-related>TBLD Wits End</reverse-related>
+            <reverse-related>TBLD Mystic Reflection</reverse-related>
         </card>
 
         <card>
@@ -213,7 +219,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
 
         <card>
             <name>TBLD Citys Blessing</name>
-            <set picURL="/TBLD Citys Blessing.full.jpg">TBLDtoken</set>        
+            <set picURL="/TBLD Citys Blessing.full.jpg">TBLDtoken</set>     
             <color></color>
             <type>Token</type>
             <pt></pt>
@@ -221,6 +227,18 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text></text>
             <token>1</token>
             <reverse-related>TBLD </reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Tribunal Hierarch Exile</name>
+            <set picURL="/TBLD Tribunal Hierarch Exile.full.jpg">TBLDtoken</set>     
+            <color></color>
+            <type>Token</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Tribunal Hierarch</reverse-related>
         </card>
 
         <card>
@@ -432,17 +450,28 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
-            <name>TBLD Angel</name>
-            <set picURL="/TBLD Angel.full.jpg">TBLDtoken</set>         
-            <color>W</color>
-            <type>Token Creature — Angel</type>
-            <pt>4/4</pt>
+            <name>TBLD Rabbit</name>
+            <set picURL="/TBLD Rabbit.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Rabbit</type>
+            <pt>4/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Hat Trick</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Bird4</name>
+            <set picURL="/TBLD Bird4.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Bird</type>
+            <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Divine Verdict</reverse-related>
+            <reverse-related>TBLD Hat Trick</reverse-related>
         </card>
-
         <card>
             <name>TBLD Bird3</name>
             <set picURL="/TBLD Bird3.full.jpg">TBLDtoken</set>         
@@ -547,6 +576,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text>Flying</text>
             <token>1</token>
             <reverse-related>TBLD Crow Storm</reverse-related>
+            <reverse-related>TBLD Unity_Strength</reverse-related>
         </card>
 
         <card>
@@ -730,6 +760,20 @@ Whenever a player discards a card, they lose 1 life.</text>
             <tablerow>2</tablerow>
             <text>This can’t be blocked by more than one creature.
 When this transforms into Turbulent Grappler or attacks, you may switch this creature’s power and toughness this turn.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Inscrutable Savant</name>
+            <set picURL="/TBLD Inscrutable Savant.full.jpg">TBLDtoken</set>   
+            <color>U</color>
+            <type>Creature — Fox</type>
+            <pt>4/2</pt>
+            <tablerow>2</tablerow>
+            <text>If a counter of any kind would be put on a creature you control, you may put it on any creature you control instead.
+3: Tap target permanent.
+1: Target player shuffles a card from their hand into their library, then draws a card.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -968,6 +1012,17 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Rat2</name>
+            <set picURL="/TBLD Rat2.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Rat</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Piper of the Swarm</reverse-related>
+        </card>
+        <card>
             <name>TBLD Rat</name>
             <set picURL="/TBLD Rat.full.jpg">TBLDtoken</set>         
             <color>B</color>
@@ -1004,6 +1059,17 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Centaur2</name>
+            <set picURL="/TBLD Centaur2.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Centaur</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>TBLD Sanctuary Guildmage</reverse-related>
+        </card>
+        <card>
             <name>TBLD Centaur</name>
             <set picURL="/TBLD Centaur.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -1012,7 +1078,6 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <tablerow>2</tablerow>
             <text>Trample</text>
             <token>1</token>
-            <reverse-related>TBLD Sanctuary Guildmage</reverse-related>
             <reverse-related>TBLD Conclaves Call</reverse-related>
         </card>
 
@@ -1167,6 +1232,18 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
         </card>
 
         <card>
+            <name>TBLD Angel</name>
+            <set picURL="/TBLD Angel.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Angel</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, vigilance</text>
+            <token>1</token>
+            <reverse-related>TBLD Justicars Sentence</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Elemental</name>
             <set picURL="/TBLD Elemental.full.jpg">TBLDtoken</set>         
             <color>MGW</color>
@@ -1175,6 +1252,7 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
             <tablerow>2</tablerow>
             <text>This creature’s power and toughness are each equal to the number of creatures you control.</text>
             <token>1</token>
+            <reverse-related>TBLD Conclave Guardian Grove</reverse-related>
             <reverse-related>TBLD Worldsoul Evangel</reverse-related>
         </card>
 
@@ -1429,7 +1507,6 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>TBLD History of Benalia</reverse-related>
             <reverse-related>TBLD History of Benalia</reverse-related>
         </card>
         <card>
