@@ -1465,18 +1465,6 @@ This deals 2 damage to each opponent.
 Add two mana in any combination of colors.</text>
 </card>
 <card>
- <name>TBLD Music_Muzzle</name>
- <set picURL="/TBLD Music_Muzzle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>MGU</color>
- <manacost>G // 1U</manacost>
-		<cmc>3</cmc>
- <type>Flash Sorcery // Flash Sorcery</type>
- <tablerow>3</tablerow>
- <text>Prevent all combat damage that would be dealt this turn.
---- 
-Counter target activated ability, triggered ability, or sorcery spell.</text>
-</card>
-<card>
  <name>TBLD Give_Take</name>
  <set picURL="/TBLD Give_Take.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
