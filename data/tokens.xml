@@ -20,7 +20,7 @@
             <name>!Player One Emblem</name>
             <set picURL="/!Player One Emblem.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token</type>
+            <type>Emblem</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -30,12 +30,13 @@
             <reverse-related>!Player Four Emblem</reverse-related>
             <reverse-related>!Player Five Emblem</reverse-related>
             <reverse-related>!Player Six Emblem</reverse-related>
+            <reverse-related>TBLD Command Seal</reverse-related>
         </card>
         <card>
             <name>!Player Two Emblem</name>
             <set picURL="/!Player Two Emblem.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token</type>
+            <type>Emblem</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text>You go second.</text>
@@ -45,12 +46,13 @@
             <reverse-related>!Player Four Emblem</reverse-related>
             <reverse-related>!Player Five Emblem</reverse-related>
             <reverse-related>!Player Six Emblem</reverse-related>
+            <reverse-related>TBLD Command Seal</reverse-related>
         </card>
         <card>
             <name>!Player Three Emblem</name>
             <set picURL="/!Player Three Emblem.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token</type>
+            <type>Emblem</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text>You go third.</text>
@@ -58,12 +60,13 @@
             <reverse-related>!Player Four Emblem</reverse-related>
             <reverse-related>!Player Five Emblem</reverse-related>
             <reverse-related>!Player Six Emblem</reverse-related>
+            <reverse-related>TBLD Command Seal</reverse-related>
         </card>
         <card>
             <name>!Player Four Emblem</name>
             <set picURL="/!Player Four Emblem.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token</type>
+            <type>Emblem</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text>You go fourth.</text>
@@ -71,26 +74,41 @@
             <reverse-related>!Player Three Emblem</reverse-related>
             <reverse-related>!Player Five Emblem</reverse-related>
             <reverse-related>!Player Six Emblem</reverse-related>
+            <reverse-related>TBLD Command Seal</reverse-related>
         </card>
         <card>
             <name>!Player Five Emblem</name>
             <set picURL="/!Player Five Emblem.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token</type>
+            <type>Emblem</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text>You go fifth.</text>
             <token>1</token>
             <reverse-related>!Player Six Emblem</reverse-related>
+            <reverse-related>TBLD Command Seal</reverse-related>
         </card>
         <card>
             <name>!Player Six Emblem</name>
             <set picURL="/!Player Six Emblem.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token</type>
+            <type>Emblem</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text>You go sixth.</text>
+            <token>1</token>
+            <reverse-related>TBLD Command Seal</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Command Seal</name>
+            <set picURL="/TBLD Command Seal.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Emblem - Command Seal</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>0, Exile this: Add one mana of any color. Spend this mana only to cast your captain.
+2, Exile this: Choose a card in exile, card in your graveyard, or creature you control. If it’s your captain, return it to your hand.</text>
             <token>1</token>
         </card>
 
@@ -173,6 +191,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Forum Moderator</reverse-related>
             <reverse-related>TBLD E-Commerce</reverse-related>
             <reverse-related>TBLD Surf the Web</reverse-related>
             <reverse-related>TBLD Cyber-Intelligence Operative</reverse-related>
@@ -593,6 +612,18 @@ Experience (Whenever this attacks, if it has less than three +1/+1 counters, put
         </card>
 
         <card>
+            <name>TBLD Sphinx2</name>
+            <set picURL="/TBLD Sphinx2.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Token Creature — Sphinx</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+This has hexproof as long as its untapped.</text>
+            <token>1</token>
+            <reverse-related>TBLD Warrant_Warden</reverse-related>
+        </card>
+        <card>
             <name>TBLD Sphinx</name>
             <set picURL="/TBLD Sphinx.full.jpg">TBLDtoken</set>      
             <color>U</color>
@@ -606,6 +637,18 @@ This has hexproof as long as its untapped.</text>
         </card>
 
         <card>
+            <name>TBLD Pest</name>
+            <set picURL="/TBLD Pest.full.jpg">TBLDtoken</set>         
+            <color>HBG</color>
+            <type>Token Creature — Pest</type>
+            <pt>1/2</pt>
+            <tablerow>2</tablerow>
+            <text>When this dies, gain 1 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Callous Bloodmage</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Spider3</name>
             <set picURL="/TBLD Spider3.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -614,7 +657,7 @@ This has hexproof as long as its untapped.</text>
             <tablerow>2</tablerow>
             <text>Reach</text>
             <token>1</token>
-            <reverse-related>TBLD Brood Spider</reverse-related>
+            <reverse-related>TBLD Mage-Eater Spider</reverse-related>
         </card>
         <card>
             <name>TBLD Spider2</name>
@@ -717,11 +760,11 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <set picURL="/TBLD Hissing Caretaker.full.jpg">TBLDtoken</set>   
             <color>G</color>
             <type>Creature — Snake</type>
-            <pt>2/4</pt>
+            <pt>3/4</pt>
             <tablerow>2</tablerow>
-            <text>Deathtouch, defender
+            <text>Deathtouch
 When this transforms into Hissing Caretaker, untap it.
-2G: Regenerate this. (The next time this would be destroyed this turn, remove all damage from it instead.)</text>
+3G: Regenerate this. (The next time this would be destroyed this turn, remove all damage from it instead.)</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -783,10 +826,10 @@ When this transforms into Turbulent Grappler or attacks, you may switch this cre
             <set picURL="/TBLD Fiery Brute.full.jpg">TBLDtoken</set>   
             <color>R</color>
             <type>Creature — Beast</type>
-            <pt>4/3</pt>
+            <pt>3/4</pt>
             <tablerow>2</tablerow>
             <text>Menace
-Whenever this untaps, creatures you control get +1/+0 this turn.</text>
+Whenever this untaps, it deals 4 damage to any target.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -833,10 +876,9 @@ Creatures your opponents control get -1/-0.</text>
             <set picURL="/TBLD Jovial Gadabout.full.jpg">TBLDtoken</set>   
             <color>G</color>
             <type>Creature — Treefolk</type>
-            <pt>2/4</pt>
+            <pt>3/4</pt>
             <tablerow>2</tablerow>
-            <text>Experience (Whenever this attacks, if it has less than three +1/+1 counters, put a +1/+1 counter on it.)
-When this transforms into Jovial Gadabout, put a +1/+1 counter on each other creature you control.</text>
+            <text>When this transforms into Jovial Gadabout, put a +1/+1 counter on each other creature you control.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1593,6 +1635,30 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Saproling10</name>
+            <set picURL="/TBLD Saproling10.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Woopip Scrounger</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Saproling9</name>
+            <set picURL="/TBLD Saproling9.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Saproling</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+        </card>
+        <card>
             <name>TBLD Saproling8</name>
             <set picURL="/TBLD Saproling8.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -1635,9 +1701,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Scatter the Seeds</reverse-related>
-            <reverse-related>TBLD Scatter the Seeds</reverse-related>
-            <reverse-related>TBLD Scatter the Seeds</reverse-related>
+            <reverse-related>TBLD Emmara Advocate for Peace</reverse-related>
             <reverse-related>TBLD Gentle Hierophant</reverse-related>
         </card>
         <card>
@@ -1649,7 +1713,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Woopip Scrounger</reverse-related>
+            <reverse-related>TBLD Fungal Infection</reverse-related>
         </card>
         <card>
             <name>TBLD Saproling3</name>
@@ -2075,6 +2139,18 @@ Equip 2</text>
             <text>Creatures you control get +1/+1.</text>
             <token>1</token>
             <reverse-related>TBLD Memorialize</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Inscutable Magistrate Token</name>
+            <set picURL="/TBLD Inscutable Magistrate Token.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Enchantment</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>During your turn, your opponents can’t cast spells or activate abilities unless they’re mana abilities.</text>
+            <token>1</token>
+            <reverse-related>TBLD Inscutable Magistrate</reverse-related>
         </card>
 
         <card>
