@@ -9309,8 +9309,8 @@ T: Add W or U.</text>
 1, T: Add BB.</text>
 </card>
 <card>
- <name>TBLD Offshore Surf</name>
- <set picURL="/TBLD Offshore Surf.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <name>TBLD Prairie Lodge</name>
+ <set picURL="/TBLD Prairie Lodge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
  <new>TRUE</new>
  <manacost></manacost>
@@ -9318,7 +9318,7 @@ T: Add W or U.</text>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, lose 1 life.
-1, T: Add UU.</text>
+1, T: Add WW.</text>
 </card>
 <card>
  <name>TBLD Offshore Surf</name>
