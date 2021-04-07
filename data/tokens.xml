@@ -191,6 +191,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Hired Hit</reverse-related>
             <reverse-related>TBLD Forum Moderator</reverse-related>
             <reverse-related>TBLD E-Commerce</reverse-related>
             <reverse-related>TBLD Surf the Web</reverse-related>
@@ -523,7 +524,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Strength_Unity</reverse-related>
+            <reverse-related>TBLD Unity_Strength</reverse-related>
             <reverse-related>TBLD Battle Screech</reverse-related>
             <reverse-related>TBLD Battle Screech</reverse-related>
         </card>
@@ -595,7 +596,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text>Flying</text>
             <token>1</token>
             <reverse-related>TBLD Crow Storm</reverse-related>
-            <reverse-related>TBLD Unity_Strength</reverse-related>
         </card>
 
         <card>
@@ -839,7 +839,7 @@ Whenever this untaps, it deals 4 damage to any target.</text>
             <set picURL="/TBLD Earthshaker Hulk.full.jpg">TBLDtoken</set>   
             <color>R</color>
             <type>Creature — Dinosaur</type>
-            <pt>3/5</pt>
+            <pt>4/3</pt>
             <tablerow>2</tablerow>
             <text>When this transforms into Earthshaker Hulk, creatures without flying can’t block this turn.</text>
             <token>1</token>
