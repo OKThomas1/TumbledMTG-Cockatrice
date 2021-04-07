@@ -10108,8 +10108,8 @@ Exile three Zombies you control: Create a 4/5 blue Zombie creature token. Activa
 When this enters play, name two nonland cards. Each opponent reveals their hand and discards a card of your choice with a chosen name.</text>
 </card>
 <card>
- <name>TBLD Master of the Veil</name>
- <set picURL="/TBLD Master of the Veil.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <name>TBLD Liliana Master of the Veil</name>
+ <set picURL="/TBLD Liliana Master of the Veil.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
  <new>TRUE</new>
  <manacost>3BB</manacost>
@@ -15122,18 +15122,6 @@ When you cycle this, target player discards a card.</text>
  <tablerow>1</tablerow>
  <text>T, Sacrifice this: Search your library for a card that shares a basic land type with a land you control, reveal it, and put it into your hand.
 2, T, Sacrifice this: Draw two cards, then put a card from your hand on the bottom of your library.</text>
-</card>
-<card>
- <name>TBLD Jeweled Lotus</name>
- <set picURL="/TBLD Jeweled Lotus.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>C</color>
-<new>FALSE</new>
- <manacost>0</manacost>
-		<cmc>0</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>T, Sacrifice this: Add three mana of any one color. Spend this mana only to pay a champion cost.
-Cycling 3 (3, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Sundial of the Infinite</name>
@@ -21814,7 +21802,7 @@ Whenever another creature enters play under your control, it fights target creat
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Captain—There are at least ten different creature types among cards in your starting deck.
-1GU: Put a +1/+1 counter on target creature. Can’t be activated at flash speed. Activate only if this is your captain.
+2GU: Put a +1/+1 counter on target creature. Can’t be activated at flash speed. Activate only if this is your captain.
 If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.</text>
 </card>
 <card>
