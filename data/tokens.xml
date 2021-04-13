@@ -159,7 +159,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Unload</reverse-related>
             <reverse-related>TBLD Burst Thunder</reverse-related>
             <reverse-related>TBLD Alrunds Epiphany</reverse-related>
-            <reverse-related>TBLD Burst Thunder</reverse-related>
             <reverse-related>TBLD Mammoth Growth</reverse-related>
             <reverse-related>TBLD Mox Crystal</reverse-related>
             <reverse-related>TBLD Wits End</reverse-related>
@@ -1526,6 +1525,7 @@ At the end step, sacrifice this.</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Cenns Enlistment</reverse-related>
+            <reverse-related>TBLD Prairie Lodge</reverse-related>
         </card>
 
         <card>
