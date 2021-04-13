@@ -3444,7 +3444,7 @@ T, Pay 2 life: Add U, R, or W.
  <name>TBLD Spooky Villa</name>
  <set picURL="/TBLD Spooky Villa.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3470,7 +3470,7 @@ T: Add W or B.
  <name>TBLD Bronze Bell Shrine</name>
  <set picURL="/TBLD Bronze Bell Shrine.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3521,7 +3521,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Fungus Gorge</name>
  <set picURL="/TBLD Fungus Gorge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3653,7 +3653,7 @@ T: Add B or R.</text>
  <name>TBLD Cemetery Hillock</name>
  <set picURL="/TBLD Cemetery Hillock.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -5545,7 +5545,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Timeworn Valley</name>
  <set picURL="/TBLD Timeworn Valley.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -6520,7 +6520,7 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Salt Mire</name>
  <set picURL="/TBLD Salt Mire.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -7429,7 +7429,7 @@ T: Untap up to three target Stations with different names.</text>
  <name>TBLD Quiet Space</name>
  <set picURL="/TBLD Quiet Space.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -8599,7 +8599,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Dusty Oasis</name>
  <set picURL="/TBLD Dusty Oasis.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -8861,7 +8861,7 @@ T, Pay 2 life: Add G, U, or R.
  <name>TBLD Chamber of Secrets</name>
  <set picURL="/TBLD Chamber of Secrets.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -8899,7 +8899,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Vibrant Seabed</name>
  <set picURL="/TBLD Vibrant Seabed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
-<new>FALSE</new>
+<new>TRUE</new>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
