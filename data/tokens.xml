@@ -157,7 +157,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Cosmic Intervention</reverse-related>
             <reverse-related>TBLD Contradict</reverse-related>
             <reverse-related>TBLD Unload</reverse-related>
-            <reverse-related>TBLD Burst Thunder</reverse-related>
+            <reverse-related>TBLD Crackling Burst</reverse-related>
             <reverse-related>TBLD Alrunds Epiphany</reverse-related>
             <reverse-related>TBLD Mammoth Growth</reverse-related>
             <reverse-related>TBLD Mox Crystal</reverse-related>
@@ -322,6 +322,17 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
+            <name>TBLD Zombie13</name>
+            <set picURL="/TBLD Zombie13.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Lilianas Mastery</reverse-related>
+        </card>
+        <card>
             <name>TBLD Zombie12</name>
             <set picURL="/TBLD Zombie12.full.jpg">TBLDtoken</set>         
             <color>B</color>
@@ -385,6 +396,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
+            <reverse-related>TBLD Seagraf Skallywag</reverse-related>
             <reverse-related>TBLD Stitch Cadaver</reverse-related>
         </card>
         <card>
@@ -788,7 +800,7 @@ When this transforms into Hissing Caretaker, untap it.
             <pt>1/4</pt>
             <tablerow>2</tablerow>
             <text>Whenever this deals damage to a player, they discard a card.
-Whenever a player discards a card, they lose 1 life.</text>
+Whenever a player discards a card, they lose 2 life.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
