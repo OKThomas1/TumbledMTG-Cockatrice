@@ -13,7 +13,7 @@
 <card>
  <name>TBLD Transguild Promenade</name>
  <set picURL="/TBLD Transguild Promenade.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -25,7 +25,7 @@ Lands you control have “T: Add one mana of any color.”</text>
 <card>
  <name>TBLD Power Plant</name>
  <set picURL="/TBLD Power Plant.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
@@ -3127,7 +3127,7 @@ T: Add C.
 <card>
  <name>TBLD Mindscape Panorama</name>
  <set picURL="/TBLD Mindscape Panorama.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <tags>UTILITY</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
@@ -3456,7 +3456,7 @@ T: Add R or W.
 <card>
  <name>TBLD Clockwork Portal</name>
  <set picURL="/TBLD Clockwork Portal.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Artifact Land</type>
@@ -3609,7 +3609,7 @@ Cycling 3</text>
 <card>
  <name>TBLD Crystal Garden</name>
  <set picURL="/TBLD Crystal Garden.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -4675,7 +4675,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
 <card>
  <name>TBLD Imperial Coliseum</name>
  <set picURL="/TBLD Imperial Coliseum.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -5600,7 +5600,7 @@ T: Add R or G.</text>
 <card>
  <name>TBLD Mana Confluence</name>
  <set picURL="/TBLD Mana Confluence.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -7734,7 +7734,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
 <card>
  <name>TBLD Shimmering Grotto</name>
  <set picURL="/TBLD Shimmering Grotto.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <tags>UTILITY</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
@@ -7818,7 +7818,7 @@ T: Add R or G.</text>
 <card>
  <name>TBLD Strange Utopia</name>
  <set picURL="/TBLD Strange Utopia.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <tags>UTILITY</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
@@ -8849,7 +8849,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
 <card>
  <name>TBLD Coruscating Cityscape</name>
  <set picURL="/TBLD Coruscating Cityscape.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -8897,7 +8897,7 @@ T: Add U or B.
 <card>
  <name>TBLD Unclaimed Territory</name>
  <set picURL="/TBLD Unclaimed Territory.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -18874,7 +18874,7 @@ Discard a card: This gains hexproof this turn. Tap it.</text>
 <card>
  <name>TBLD Inscutable Magistrate</name>
  <set picURL="/TBLD Inscutable Magistrate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>U</color>
+ <color>MWU</color>
  <tags></tags>
  <manacost>4WU</manacost>
 		<cmc>6</cmc>
@@ -23501,7 +23501,7 @@ Enchanted creature has first strike.</text>
 <card>
  <name>TBLD Grand Library of Paliano</name>
  <set picURL="/TBLD Grand Library of Paliano.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>HWUBRG</color>
+ <color>MWUBRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Restricted Land</type>
