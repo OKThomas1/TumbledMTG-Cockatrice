@@ -3202,12 +3202,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Empty Hamlet</name>
  <set picURL="/TBLD Empty Hamlet.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2GW. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1GW. When you do, search your library for a card and put it on top.
 T: Add G or W.</text>
 </card>
 <card>
@@ -3422,12 +3423,13 @@ T, Pay 2 life: Add R, B or G.
  <name>TBLD Ceremonial Boneyard</name>
  <set picURL="/TBLD Ceremonial Boneyard.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2UB. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1UB. When you do, search your library for a card and put it on top.
 T: Add U or B.</text>
 </card>
 <card>
@@ -3680,12 +3682,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Deserted Fairground</name>
  <set picURL="/TBLD Deserted Fairground.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2BR. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1BR. When you do, search your library for a card and put it on top.
 T: Add B or R.</text>
 </card>
 <card>
@@ -3767,12 +3770,13 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Exotic Habitat</name>
  <set picURL="/TBLD Exotic Habitat.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2GU. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1GU. When you do, search your library for a card and put it on top.
 T: Add U or G.</text>
 </card>
 <card>
@@ -4701,12 +4705,13 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Sparkling Bay</name>
  <set picURL="/TBLD Sparkling Bay.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2WU. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1WU. When you do, search your library for a card and put it on top.
 T: Add W or U.</text>
 </card>
 <card>
@@ -7530,12 +7535,13 @@ Cycling—Pay 3 life. (Pay 3 life, Discard this: Draw a card.)</text>
  <name>TBLD Ravine Passage</name>
  <set picURL="/TBLD Ravine Passage.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2RW. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1RW. When you do, search your library for a card and put it on top.
 T: Add R or W.</text>
 </card>
 <card>
@@ -7771,24 +7777,26 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Vivid Ridge</name>
  <set picURL="/TBLD Vivid Ridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2UR. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1UR. When you do, search your library for a card and put it on top.
 T: Add U or R.</text>
 </card>
 <card>
  <name>TBLD Spoiled Pasture</name>
  <set picURL="/TBLD Spoiled Pasture.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2WB. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1WB. When you do, search your library for a card and put it on top.
 T: Add W or B.</text>
 </card>
 <card>
@@ -7807,12 +7815,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Majestic Vale</name>
  <set picURL="/TBLD Majestic Vale.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2RG. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1RG. When you do, search your library for a card and put it on top.
 T: Add R or G.</text>
 </card>
 <card>
@@ -9068,12 +9077,13 @@ T: Add W or U.
  <name>TBLD Root Cavity</name>
  <set picURL="/TBLD Root Cavity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 2BG. When you do, search your library for a card and put it on top.
+When this enters play, you may pay 1BG. When you do, search your library for a card and put it on top.
 T: Add B or G.</text>
 </card>
 <card>
@@ -14740,16 +14750,6 @@ Each player sacrifices two creatures.</text>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Sacrifice this: Add B and gain 3 life.</text>
-</card>
-<card>
- <name>TBLD Sphere of Order</name>
- <set picURL="/TBLD Sphere of Order.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>W</color>
- <manacost>2WW</manacost>
-		<cmc>4</cmc>
- <type>Enchantment </type>
- <tablerow>1</tablerow>
- <text>If a red source would deal damage to you, prevent 2 of that damage.</text>
 </card>
 <card>
  <name>TBLD Dead Weight</name>
