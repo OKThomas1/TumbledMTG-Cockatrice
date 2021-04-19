@@ -167,6 +167,7 @@ When this enters play, gain 3 life and draw a card.</text>
  <name>TBLD Woopip Scrounger</name>
  <set picURL="/TBLD Woopip Scrounger.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Fungus </type>
@@ -179,7 +180,7 @@ When this dies, germinate. (Put a +1/+1 counter on a creature you control or cre
  <name>TBLD Carrion Feeder</name>
  <set picURL="/TBLD Carrion Feeder.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>SACOUTLET</tags>
+ <tags>SACOUTLET PLUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Zombie </type>
@@ -238,7 +239,7 @@ T, Exile a creature card from your graveyard: Each opponent loses 2 life.</text>
  <name>TBLD Voracious Null</name>
  <set picURL="/TBLD Voracious Null.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>SACOUTLET</tags>
+ <tags>SACOUTLET PLUSCOUNTER</tags>
  <manacost>1B</manacost>
 		<cmc>2</cmc>
  <type>Creature - Zombie </type>
@@ -276,6 +277,7 @@ Whenever you discard a noncreature, nonland card, draw a card.</text>
  <name>TBLD Sightless Ghoul</name>
  <set picURL="/TBLD Sightless Ghoul.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Creature - Zombie Soldier </type>
@@ -299,6 +301,7 @@ Undying (When this dies, if it had no +1/+1 counters, return it to play under it
  <name>TBLD Festering Mummy</name>
  <set picURL="/TBLD Festering Mummy.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Zombie </type>
@@ -393,6 +396,7 @@ Whenever this attacks, you may pay 2B. If you do, return target creature card fr
  <name>TBLD Sporecrown Thallid</name>
  <set picURL="/TBLD Sporecrown Thallid.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Fungus </type>
@@ -487,7 +491,7 @@ Encore 2B (2B, Exile this from your graveyard: For each opponent, create a token
  <name>TBLD Drudge Beetle</name>
  <set picURL="/TBLD Drudge Beetle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Insect </type>
@@ -512,7 +516,7 @@ Scavenge 1G (1G, Exile this from your graveyard: Put a number of +1/+1 counters 
  <name>TBLD Corpsejack Menace</name>
  <set picURL="/TBLD Corpsejack Menace.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2BG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Fungus </type>
@@ -549,7 +553,7 @@ Scavenge 1G (1G, Exile this from your graveyard: Put a number of +1/+1 counters 
  <name>TBLD Slathering Grave-Troll</name>
  <set picURL="/TBLD Slathering Grave-Troll.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HBG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1B/GB/G</manacost>
 		<cmc>3</cmc>
  <type>Creature - Zombie Troll </type>
@@ -665,7 +669,7 @@ Rebound (If you cast this from your hand, exile it as it resolves. At your next 
  <name>TBLD Unbreakable Formation</name>
  <set picURL="/TBLD Unbreakable Formation.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2W</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -709,6 +713,7 @@ Cycling—Sacrifice a land. (Sacrifice a land, Discard this: Draw a card.)</text
  <name>TBLD Enter the Unknown</name>
  <set picURL="/TBLD Enter the Unknown.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -721,7 +726,7 @@ You may play an additional land this turn.</text>
  <name>TBLD Pump it Up</name>
  <set picURL="/TBLD Pump it Up.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -862,6 +867,7 @@ Draw a card.</text>
  <name>TBLD Corpsebind</name>
  <set picURL="/TBLD Corpsebind.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Enchantment</type>
@@ -1085,7 +1091,7 @@ Transmute 1UB (1UB, Discard this: Search your library for a card with the same m
  <name>TBLD Unravel</name>
  <set picURL="/TBLD Unravel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>2UB</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery</type>
@@ -1180,7 +1186,7 @@ Target creature gets -2/-2 this turn.</text>
  <name>TBLD Snakeskin Veil</name>
  <set picURL="/TBLD Snakeskin Veil.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -1250,6 +1256,7 @@ Revive—3BB, Discard a card. (3BB, Discard a card, Exile this from your graveya
  <name>TBLD Hypnotic Sprite</name>
  <set picURL="/TBLD Hypnotic Sprite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU // 2U</manacost>
 		<cmc>2</cmc>
  <type>Creature - Faerie // Flash Sorcery - Adventure </type>
@@ -1448,7 +1455,7 @@ Exchange control of two target creatures.</text>
  <name>TBLD Find_Finality</name>
  <set picURL="/TBLD Find_Finality.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>WIPE</tags>
+ <tags>WIPE PLUSCOUNTER</tags>
  <manacost>B/GB/G // 4BG</manacost>
 		<cmc>8</cmc>
  <type>Sorcery // Sorcery</type>
@@ -1474,7 +1481,7 @@ Create a 4/4 blue Sphinx token with flying and “This has hexproof as long as i
  <name>TBLD Might_Magic</name>
  <set picURL="/TBLD Might_Magic.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G // 1R</manacost>
 		<cmc>3</cmc>
  <type>Sorcery // Flash Sorcery</type>
@@ -1488,7 +1495,7 @@ Add two mana in any combination of colors.</text>
  <name>TBLD Give_Take</name>
  <set picURL="/TBLD Give_Take.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2G // 1U</manacost>
 		<cmc>5</cmc>
  <type>Sorcery // Sorcery</type>
@@ -1516,6 +1523,7 @@ Return target card from your graveyard to your hand.</text>
  <name>TBLD Music_Muzzle</name>
  <set picURL="/TBLD Music_Muzzle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>G // 1U</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery // Flash Sorcery</type>
@@ -1542,6 +1550,7 @@ Exile target card from a graveyard. Create a 2/2 black Zombie creature token tha
  <name>TBLD Trounce_Trace</name>
  <set picURL="/TBLD Trounce_Trace.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU // RR</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery // Flash Sorcery</type>
@@ -1592,6 +1601,7 @@ Tap all lands your opponents control.</text>
  <name>TBLD Replicate Form</name>
  <set picURL="/TBLD Replicate Form.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1GU</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -1715,6 +1725,7 @@ Spells you cast that target enchanted player cost 2 less to cast.</text>
  <name>TBLD Seacoast Caretaker</name>
  <set picURL="/TBLD Seacoast Caretaker.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Merfolk Shaman </type>
@@ -1794,7 +1805,7 @@ Foretell W (During your turn, you may pay 2 and exile this from your hand face d
  <name>TBLD Devious Cover-Up</name>
  <set picURL="/TBLD Devious Cover-Up.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>2UU</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery</type>
@@ -1991,7 +2002,7 @@ Sacrifice this: Exile all cards from target player’s graveyard.</text>
  <name>TBLD Planar Outburst</name>
  <set picURL="/TBLD Planar Outburst.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags>WIPE</tags>
+ <tags>WIPE PLUSCOUNTER</tags>
  <manacost>3WW</manacost>
 		<cmc>5</cmc>
  <type>Sorcery</type>
@@ -2284,6 +2295,7 @@ When this enters play, exile each other non-Angel creature until this leaves pla
  <name>TBLD Mindnet Sentinel</name>
  <set picURL="/TBLD Mindnet Sentinel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Creature - Angel </type>
@@ -2355,7 +2367,7 @@ When this enters play, exile any number of other target creatures you control, t
  <name>TBLD Youthful Valkyrie</name>
  <set picURL="/TBLD Youthful Valkyrie.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Creature - Angel </type>
@@ -2393,7 +2405,7 @@ Pay 3 life: Return this from your graveyard to your hand. Activate only if you h
  <name>TBLD Galloping Blaze</name>
  <set picURL="/TBLD Galloping Blaze.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>RR</manacost>
 		<cmc>2</cmc>
  <type>Creature - Elemental Horse </type>
@@ -2406,7 +2418,7 @@ As long as this has three or more +1/+1 counters, it has trample.</text>
  <name>TBLD Mythic Thunderbird</name>
  <set picURL="/TBLD Mythic Thunderbird.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1RW</manacost>
 		<cmc>3</cmc>
  <type>Creature - Elemental Bird </type>
@@ -2420,7 +2432,7 @@ Whenever this attacks, it deals X damage divided among any number of targets, wh
  <name>TBLD Tidepool Scavenger</name>
  <set picURL="/TBLD Tidepool Scavenger.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Creature - Crab </type>
@@ -2433,7 +2445,7 @@ T: Target player mills X cards, where X is twice the number of +1/+1 counters on
  <name>TBLD Volatile Simulacrum</name>
  <set picURL="/TBLD Volatile Simulacrum.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags>WIPE</tags>
+ <tags>WIPE PLUSCOUNTER</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Artifact Creature - Homunculus </type>
@@ -2446,7 +2458,7 @@ Whenever a +1/+1 counter is put on this, if this has three or more +1/+1 counter
  <name>TBLD Lucky Tomcat</name>
  <set picURL="/TBLD Lucky Tomcat.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags>RAMP</tags>
+ <tags>RAMP PLUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Creature - Cat </type>
@@ -2487,7 +2499,7 @@ Whenever this attacks, you may cast a sorcery spell from your hand without payin
  <name>TBLD Annointer Exarch</name>
  <set picURL="/TBLD Annointer Exarch.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>PLUSCOUNTER MINUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Flash Creature - Phyrexian </type>
@@ -2542,7 +2554,7 @@ Bloodrush — 4GG, Discard this: Target attacking creature gets +9/+9 and gains 
  <name>TBLD Deadbridge Goliath</name>
  <set picURL="/TBLD Deadbridge Goliath.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2GG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Insect </type>
@@ -2554,7 +2566,7 @@ Bloodrush — 4GG, Discard this: Target attacking creature gets +9/+9 and gains 
  <name>TBLD Stank Weed</name>
  <set picURL="/TBLD Stank Weed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Plant </type>
@@ -2567,7 +2579,7 @@ Whenever one or more +1/+1 counters are put on this, create a 0/1 Plant token.</
  <name>TBLD Sporiagoyf</name>
  <set picURL="/TBLD Sporiagoyf.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3BG</manacost>
 		<cmc>5</cmc>
  <type>Creature - Lhurgoyf </type>
@@ -2580,7 +2592,7 @@ Scavenge 1BG (1BG, Exile this from your graveyard: Put a number of +1/+1 counter
  <name>TBLD Pesky Cave-Bat</name>
  <set picURL="/TBLD Pesky Cave-Bat.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Creature - Bat </type>
@@ -2606,7 +2618,7 @@ When this dies, if it isn’t a token, create a token that’s a copy of it.</te
  <name>TBLD Burning-Tree Bloodcrow</name>
  <set picURL="/TBLD Burning-Tree Bloodcrow.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HRG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>R/G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Human Shaman </type>
@@ -2713,7 +2725,7 @@ Bloodrush — 3RR, Discard this: Target attacking creature gets +3/+3 and gains 
  <name>TBLD Skarrgan Firebird</name>
  <set picURL="/TBLD Skarrgan Firebird.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2RRR</manacost>
 		<cmc>5</cmc>
  <type>Creature - Elemental Bird </type>
@@ -2727,7 +2739,7 @@ RRR: Return this from your graveyard to your hand. Activate only if an opponent 
  <name>TBLD Viashino Fangtail</name>
  <set picURL="/TBLD Viashino Fangtail.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1RR</manacost>
 		<cmc>3</cmc>
  <type>Creature - Lizard Warrior </type>
@@ -3277,6 +3289,7 @@ T, Pay 2 life: Add R, W, or B.
  <name>TBLD Besieged Battlements</name>
  <set picURL="/TBLD Besieged Battlements.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3338,6 +3351,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Briar Scarp</name>
  <set picURL="/TBLD Briar Scarp.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3399,6 +3413,7 @@ T, Remove X storage counters from this: Add X mana in any combination of W and/o
  <name>TBLD Carnivorous Coppice</name>
  <set picURL="/TBLD Carnivorous Coppice.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3497,6 +3512,7 @@ T: Add W or U.</text>
  <name>TBLD Regents Court</name>
  <set picURL="/TBLD Regents Court.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3658,6 +3674,7 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Muggy Parish</name>
  <set picURL="/TBLD Muggy Parish.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -5568,6 +5585,7 @@ T, Remove any number of storage counters from lands you control: Add C for each 
  <name>TBLD Magma Sink</name>
  <set picURL="/TBLD Magma Sink.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -5652,6 +5670,7 @@ T: Add U or R.
  <name>TBLD Moat of Thorns</name>
  <set picURL="/TBLD Moat of Thorns.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -6621,6 +6640,7 @@ T, Pay 2 life: Add B, G, or U.
  <name>TBLD Piranha Marsh</name>
  <set picURL="/TBLD Piranha Marsh.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -8945,6 +8965,7 @@ T: Add U or B.</text>
  <name>TBLD Unstable Geyser</name>
  <set picURL="/TBLD Unstable Geyser.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -9029,6 +9050,7 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Wax-Comb Hives</name>
  <set picURL="/TBLD Wax-Comb Hives.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -9404,7 +9426,7 @@ T: Add W or U.</text>
  <name>TBLD Frothy Surf</name>
  <set picURL="/TBLD Frothy Surf.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>UTILITY</tags>
+ <tags>UTILITY COUNTERSPELL</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -9430,7 +9452,7 @@ When this dies, your opponents vote to elect either gas or sand. If gas is elect
  <name>TBLD Breakbot</name>
  <set picURL="/TBLD Breakbot.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>RW</manacost>
 		<cmc>2</cmc>
  <type>Artifact Creature - Construct </type>
@@ -9665,6 +9687,7 @@ Put target spell or permanent on the top or bottom of its owner’s library. If 
  <name>TBLD Diffuse</name>
  <set picURL="/TBLD Diffuse.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>WU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -9700,6 +9723,7 @@ Destroy target creature.</text>
  <name>TBLD Maim</name>
  <set picURL="/TBLD Maim.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -9824,7 +9848,7 @@ Enchanted creature gets +2/+1 and can’t block.</text>
  <name>TBLD Neoform</name>
  <set picURL="/TBLD Neoform.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
- <tags>SACOUTLET</tags>
+ <tags>SACOUTLET PLUSCOUNTER</tags>
  <manacost>GU</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -9896,6 +9920,7 @@ Lifelink (Damage dealt by this creature also causes you to gain that much life.)
  <name>TBLD Queens Agent</name>
  <set picURL="/TBLD Queens Agent.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3B</manacost>
 		<cmc>4</cmc>
  <type>Creature - Vampire Scout </type>
@@ -9932,6 +9957,7 @@ When this enters play, if it was kicked, return target creature card from your g
  <name>TBLD Flourishing Fox</name>
  <set picURL="/TBLD Flourishing Fox.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Creature - Fox </type>
@@ -9991,6 +10017,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Evernight Shade</name>
  <set picURL="/TBLD Evernight Shade.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3B</manacost>
 		<cmc>4</cmc>
  <type>Creature - Spirit </type>
@@ -10080,7 +10107,7 @@ Morbid — 3B: Return this from your graveyard to play. Activate only if a creat
  <name>TBLD Deeproot Champion</name>
  <set picURL="/TBLD Deeproot Champion.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>ADDED NEW</tags>
+ <tags>ADDED NEW PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Merfolk Shaman </type>
@@ -10199,7 +10226,7 @@ Whenever you cast a spell during an opponent’s turn, create a 1/1 black Faerie
  <name>TBLD Jace Prodigious Telepath</name>
  <set picURL="/TBLD Jace Prodigious Telepath.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Restricted Flash Creature - Human Wizard </type>
@@ -10516,6 +10543,7 @@ Discard two cards: Create a Treasure token. (It’s an artifact with “T, Sacri
  <name>TBLD Midvast Inquisitor</name>
  <set picURL="/TBLD Midvast Inquisitor.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Creature - Human Cleric </type>
@@ -10565,7 +10593,7 @@ Whenever this is dealt damage, create a 1/1 green Insect creature token.</text>
  <name>TBLD Mighty Beetle</name>
  <set picURL="/TBLD Mighty Beetle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2GG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Insect </type>
@@ -10578,7 +10606,7 @@ This can’t be blocked by more than one creature.</text>
  <name>TBLD Plucky Weed</name>
  <set picURL="/TBLD Plucky Weed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGW</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GW</manacost>
 		<cmc>2</cmc>
  <type>Creature - Plant </type>
@@ -10605,7 +10633,7 @@ When this enters play, mill four cards, then return a nonland card from your gra
  <name>TBLD Quakestep Behemoth</name>
  <set picURL="/TBLD Quakestep Behemoth.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>5GGG</manacost>
 		<cmc>8</cmc>
  <type>Creature - Rhino </type>
@@ -10841,6 +10869,7 @@ Choose a creature you control. Search your library for a creature card with less
  <name>TBLD Usurp</name>
  <set picURL="/TBLD Usurp.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2UUBB</manacost>
 		<cmc>6</cmc>
  <type>Flash Sorcery</type>
@@ -10875,6 +10904,7 @@ Choose a number between 0 and 5. Destroy all nonland permanents with mana value 
  <name>TBLD Disallow</name>
  <set picURL="/TBLD Disallow.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1UU</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -10885,6 +10915,7 @@ Choose a number between 0 and 5. Destroy all nonland permanents with mana value 
  <name>TBLD Disconnect</name>
  <set picURL="/TBLD Disconnect.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1UU</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -10896,6 +10927,7 @@ Counter target spell. If you do, put it on the bottom of its owner’s library i
  <name>TBLD Exclude</name>
  <set picURL="/TBLD Exclude.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2U</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -10907,6 +10939,7 @@ Draw a card.</text>
  <name>TBLD Admirals Order</name>
  <set picURL="/TBLD Admirals Order.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2U</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -10918,7 +10951,7 @@ Counter target spell.</text>
  <name>TBLD Spell Snuff</name>
  <set picURL="/TBLD Spell Snuff.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>2U</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -10931,6 +10964,7 @@ If you have 7 or less life, draw a card.</text>
  <name>TBLD Confirm Suspicions</name>
  <set picURL="/TBLD Confirm Suspicions.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>3UU</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -10942,7 +10976,7 @@ Investigate three times. (Create three colorless Clue enchantment tokens with �
  <name>TBLD Bar the Way</name>
  <set picURL="/TBLD Bar the Way.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>2UU</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery</type>
@@ -10954,7 +10988,7 @@ Journey three times. (To journey, exile the top card of your library. Whenever a
  <name>TBLD Spell Blast</name>
  <set picURL="/TBLD Spell Blast.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>XU</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -10966,6 +11000,7 @@ Counter target spell with mana value X. Its controller can’t cast spells this 
  <name>TBLD Summary Dismissal</name>
  <set picURL="/TBLD Summary Dismissal.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2UU</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery</type>
@@ -10976,6 +11011,7 @@ Counter target spell with mana value X. Its controller can’t cast spells this 
  <name>TBLD Antimagic Flux</name>
  <set picURL="/TBLD Antimagic Flux.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UR</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -10997,6 +11033,7 @@ Counter target sorcery spell.</text>
  <name>TBLD Ionize</name>
  <set picURL="/TBLD Ionize.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1UR</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -11007,7 +11044,7 @@ Counter target sorcery spell.</text>
  <name>TBLD Flashfreeze</name>
  <set picURL="/TBLD Flashfreeze.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>CHANGED NEW</tags>
+ <tags>CHANGED NEW COUNTERSPELL</tags>
  <manacost>4U</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -11029,7 +11066,7 @@ Counter target spell. If you do, exile it instead of putting it into a graveyard
  <name>TBLD Refute</name>
  <set picURL="/TBLD Refute.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11040,7 +11077,7 @@ Counter target spell. If you do, exile it instead of putting it into a graveyard
  <name>TBLD Quell</name>
  <set picURL="/TBLD Quell.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11051,7 +11088,7 @@ Counter target spell. If you do, exile it instead of putting it into a graveyard
  <name>TBLD Thought Collapse</name>
  <set picURL="/TBLD Thought Collapse.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>1UU</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -11063,6 +11100,7 @@ Cycling 3 (3, Discard this: Draw a card.)</text>
  <name>TBLD Deprive</name>
  <set picURL="/TBLD Deprive.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11074,6 +11112,7 @@ Counter target spell.</text>
  <name>TBLD Disdainful Stroke</name>
  <set picURL="/TBLD Disdainful Stroke.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11084,6 +11123,7 @@ Counter target spell.</text>
  <name>TBLD Condescend</name>
  <set picURL="/TBLD Condescend.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>XU</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -11095,7 +11135,7 @@ Scry 2. (Look at the top two cards of your library, then put any number of them 
  <name>TBLD Contradict</name>
  <set picURL="/TBLD Contradict.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>3UU</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -11117,6 +11157,7 @@ Foretell 1UU (During your turn, you may pay 2 and exile this from your hand face
  <name>TBLD Logic Knot</name>
  <set picURL="/TBLD Logic Knot.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>XUU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11128,6 +11169,7 @@ Counter target spell unless its controller pays X.</text>
  <name>TBLD Spellstutter Sprite</name>
  <set picURL="/TBLD Spellstutter Sprite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Creature - Faerie Wizard </type>
@@ -11188,6 +11230,7 @@ Whenever this deals combat damage to a player, draw a card.</text>
  <name>TBLD Psychobstruct</name>
  <set picURL="/TBLD Psychobstruct.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -11198,6 +11241,7 @@ Whenever this deals combat damage to a player, draw a card.</text>
  <name>TBLD Spell Pierce</name>
  <set picURL="/TBLD Spell Pierce.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -11208,6 +11252,7 @@ Whenever this deals combat damage to a player, draw a card.</text>
  <name>TBLD Interrupt</name>
  <set picURL="/TBLD Interrupt.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -11219,6 +11264,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD End Dispute</name>
  <set picURL="/TBLD End Dispute.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11230,6 +11276,7 @@ Counter target flash spell.</text>
  <name>TBLD Invalidate</name>
  <set picURL="/TBLD Invalidate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11240,6 +11287,7 @@ Counter target flash spell.</text>
  <name>TBLD Disconcert</name>
  <set picURL="/TBLD Disconcert.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -11251,6 +11299,7 @@ Counter target spell unless its controller pays 2 for each time this was kicked.
  <name>TBLD Mana Leak</name>
  <set picURL="/TBLD Mana Leak.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11272,6 +11321,7 @@ Storm (When you cast this, copy it for each spell cast before it this turn.)</te
  <name>TBLD Memory Lapse</name>
  <set picURL="/TBLD Memory Lapse.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11282,7 +11332,7 @@ Storm (When you cast this, copy it for each spell cast before it this turn.)</te
  <name>TBLD Frazzle</name>
  <set picURL="/TBLD Frazzle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11293,6 +11343,7 @@ Storm (When you cast this, copy it for each spell cast before it this turn.)</te
  <name>TBLD Essence Scatter</name>
  <set picURL="/TBLD Essence Scatter.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11304,6 +11355,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Essence Capture</name>
  <set picURL="/TBLD Essence Capture.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL PLUSCOUNTER</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11314,6 +11366,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Flummox</name>
  <set picURL="/TBLD Flummox.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -11336,6 +11389,7 @@ When you cycle this, each opponent may scry 1.</text>
  <name>TBLD Nix</name>
  <set picURL="/TBLD Nix.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -11412,6 +11466,7 @@ This creature’s power is equal to the number of sorcery cards in your graveyar
  <name>TBLD Fabled Hero</name>
  <set picURL="/TBLD Fabled Hero.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1WW</manacost>
 		<cmc>3</cmc>
  <type>Creature - Human Soldier </type>
@@ -11483,6 +11538,7 @@ Heroic — Whenever you cast a spell that targets this, each opponent sacrifices
  <name>TBLD Caustic Crawler</name>
  <set picURL="/TBLD Caustic Crawler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>2BB</manacost>
 		<cmc>4</cmc>
  <type>Creature - Insect </type>
@@ -11718,6 +11774,7 @@ Destroy all nontoken creatures.</text>
  <name>TBLD Stormbound Geist</name>
  <set picURL="/TBLD Stormbound Geist.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1UU</manacost>
 		<cmc>3</cmc>
  <type>Creature - Spirit </type>
@@ -12242,7 +12299,7 @@ Whenever you cast a Merfolk spell, this gets +1/+1 this turn. Tap or untap up to
  <name>TBLD Coldwater Paladin</name>
  <set picURL="/TBLD Coldwater Paladin.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Merfolk Knight </type>
@@ -12343,6 +12400,7 @@ Target creature gets -4/-4 until end of turn.</text>
  <name>TBLD Zhur-Taa Goblin</name>
  <set picURL="/TBLD Zhur-Taa Goblin.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>RG</manacost>
 		<cmc>2</cmc>
  <type>Creature - Goblin Berserker </type>
@@ -12425,6 +12483,7 @@ At your upkeep, target player draws two cards and loses 2 life.</text>
  <name>TBLD Archdemon of Murmers</name>
  <set picURL="/TBLD Archdemon of Murmers.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3BBB</manacost>
 		<cmc>6</cmc>
  <type>Creature - Demon </type>
@@ -12535,7 +12594,7 @@ Transmute 1UU (1UU, Discard this: Search your library for a card with the same m
  <name>TBLD Muddle the Mixture</name>
  <set picURL="/TBLD Muddle the Mixture.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -12822,7 +12881,7 @@ Overload 3UR (You may cast this for its overload cost. If you do, change its tex
  <name>TBLD Scatter Arc</name>
  <set picURL="/TBLD Scatter Arc.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>2UU</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery</type>
@@ -12893,6 +12952,7 @@ Jump-start (You may cast this from your graveyard by discarding a card in additi
  <name>TBLD Setessan Oathsworn</name>
  <set picURL="/TBLD Setessan Oathsworn.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Satyr Soldier </type>
@@ -13230,7 +13290,7 @@ G, T, Exile target land card from a graveyard: Gain 3 life.</text>
  <name>TBLD Scab-Clan Mauler</name>
  <set picURL="/TBLD Scab-Clan Mauler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>RG</manacost>
 		<cmc>2</cmc>
  <type>Creature - Human Berserker </type>
@@ -13270,7 +13330,7 @@ Whenever you cast a creature spell, you may return this to its owner’s hand.</
  <name>TBLD Frontier Rover</name>
  <set picURL="/TBLD Frontier Rover.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>RAMP</tags>
+ <tags>RAMP PLUSCOUNTER</tags>
  <manacost>2G</manacost>
 		<cmc>3</cmc>
  <type>Creature - Orc Scout Warrior </type>
@@ -13283,7 +13343,7 @@ Whenever this attacks, search your library for a land card with a basic land typ
  <name>TBLD Rubblebelt Runner</name>
  <set picURL="/TBLD Rubblebelt Runner.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1RG</manacost>
 		<cmc>3</cmc>
  <type>Creature - Lizard Warrior </type>
@@ -13386,7 +13446,7 @@ Whenever this deals combat damage to an opponent, you may pay RG. When you do, d
  <name>TBLD Barkmarrow Ghoul</name>
  <set picURL="/TBLD Barkmarrow Ghoul.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>3</cmc>
  <type>Creature - Zombie Plant </type>
@@ -13437,7 +13497,7 @@ All creatures able to block this do so.</text>
  <name>TBLD Dreg Mangler</name>
  <set picURL="/TBLD Dreg Mangler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1BG</manacost>
 		<cmc>3</cmc>
  <type>Creature - Plant Zombie </type>
@@ -13500,7 +13560,7 @@ Bloodrush — 1RG, Discard this: Target attacking creature gets +X/+X this turn,
  <name>TBLD Nivmagus Elemental</name>
  <set picURL="/TBLD Nivmagus Elemental.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HUR</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>U/R</manacost>
 		<cmc>1</cmc>
  <type>Creature - Elemental </type>
@@ -13524,7 +13584,7 @@ Bloodrush — 1RG, Discard this: Target attacking creature gets +X/+X this turn,
  <name>TBLD Savageborn Hydra</name>
  <set picURL="/TBLD Savageborn Hydra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>XRG</manacost>
 		<cmc>2</cmc>
  <type>Creature - Hydra </type>
@@ -13637,6 +13697,7 @@ Creature cards you own in any zone and other creatures you control get +1/+1 and
  <name>TBLD Vindictive Changeling</name>
  <set picURL="/TBLD Vindictive Changeling.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Shapeshifter </type>
@@ -13689,7 +13750,7 @@ Sacrifice this: Put a -1/-1 counter on target creature.</text>
  <name>TBLD Clachan Unity</name>
  <set picURL="/TBLD Clachan Unity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HGW</color>
- <tags>CHANGED NEW</tags>
+ <tags>CHANGED NEW PLUSCOUNTER</tags>
  <manacost>1G/WG/W</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
@@ -14120,6 +14181,7 @@ Destroy target land.</text>
  <name>TBLD Timberprong</name>
  <set picURL="/TBLD Timberprong.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGW</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3GW</manacost>
 		<cmc>5</cmc>
  <type>Enchantment Creature - Elemental </type>
@@ -14169,6 +14231,7 @@ Search your library for a land card and put it into play.</text>
  <name>TBLD Gelatinous Hydra</name>
  <set picURL="/TBLD Gelatinous Hydra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>XGG</manacost>
 		<cmc>2</cmc>
  <type>Creature - Hydra Ooze </type>
@@ -14181,6 +14244,7 @@ When this dies, if it had two or more +1/+1 counters, create two tokens with no 
  <name>TBLD Reagent Ooze</name>
  <set picURL="/TBLD Reagent Ooze.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GU</manacost>
 		<cmc>2</cmc>
  <type>Creature - Ooze </type>
@@ -14244,7 +14308,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Curiosity Charm</name>
  <set picURL="/TBLD Curiosity Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14271,6 +14335,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Endurance Charm</name>
  <set picURL="/TBLD Endurance Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWBG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>WBG</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14297,6 +14362,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Focus Charm</name>
  <set picURL="/TBLD Focus Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MURW</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>URW</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14324,6 +14390,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Ingenuity Charm</name>
  <set picURL="/TBLD Ingenuity Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UR</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14337,6 +14404,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Instinct Charm</name>
  <set picURL="/TBLD Instinct Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGUR</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>GUR</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14363,7 +14431,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Majesty Charm</name>
  <set picURL="/TBLD Majesty Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGRW</color>
- <tags>WIPE</tags>
+ <tags>WIPE PLUSCOUNTER</tags>
  <manacost>GRW</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14377,6 +14445,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Paranoia Charm</name>
  <set picURL="/TBLD Paranoia Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>UB</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14416,7 +14485,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Savagery Charm</name>
  <set picURL="/TBLD Savagery Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRBG</color>
- <tags>WIPE</tags>
+ <tags>WIPE PLUSCOUNTER</tags>
  <manacost>RBG</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14444,6 +14513,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Spite Charm</name>
  <set picURL="/TBLD Spite Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>BR</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14524,7 +14594,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Winter Charm</name>
  <set picURL="/TBLD Winter Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14565,7 +14635,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Spring Charm</name>
  <set picURL="/TBLD Spring Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GG</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -14910,7 +14980,7 @@ Entwine 1B (Choose both if you pay the entwine cost.)</text>
  <name>TBLD Natures Embrace</name>
  <set picURL="/TBLD Natures Embrace.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>SACOUTLET</tags>
+ <tags>SACOUTLET PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -15009,6 +15079,7 @@ Discard your hand, then draw two cards.</text>
  <name>TBLD Circular Logic</name>
  <set picURL="/TBLD Circular Logic.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2U</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -15062,6 +15133,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Infectious Outbreak</name>
  <set picURL="/TBLD Infectious Outbreak.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -15072,6 +15144,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Erode to Nothing</name>
  <set picURL="/TBLD Erode to Nothing.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>XB</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -15407,6 +15480,7 @@ T, Exile this: Exile all cards from all graveyards.</text>
  <name>TBLD Halt Order</name>
  <set picURL="/TBLD Halt Order.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -15506,6 +15580,7 @@ Storm (When you cast this, copy it for each spell cast before it this turn.)</te
  <name>TBLD Bog Rebirth</name>
  <set picURL="/TBLD Bog Rebirth.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -15769,18 +15844,6 @@ At each players upkeep, that player sacrifices a permanent for each soot counter
  <text>T, Sacrifice this: Shuffle up to one target card you own from exile into your library. Draw a card.</text>
 </card>
 <card>
- <name>TBLD Gamblers Bauble</name>
- <set picURL="/TBLD Gamblers Bauble.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>C</color>
- <tags></tags>
- <manacost>1</manacost>
-		<cmc>1</cmc>
- <type>Artifact</type>
- <tablerow>1</tablerow>
- <text>T, Sacrifice this: Draw a card and gain 2 life.
-T, Sacrifice this: Flip a coin. If you win the flip, draw two cards and gain 4 life.</text>
-</card>
-<card>
  <name>TBLD Chromatic Bauble</name>
  <set picURL="/TBLD Chromatic Bauble.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
@@ -15930,6 +15993,7 @@ T: You may cast a creature card from your hand with mana value 3 or less without
  <name>TBLD Sojourn</name>
  <set picURL="/TBLD Sojourn.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -16022,6 +16086,7 @@ When this enters play, put up to one target sorcery card from your graveyard on 
  <name>TBLD Forerunner of the Heralds</name>
  <set picURL="/TBLD Forerunner of the Heralds.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3G</manacost>
 		<cmc>4</cmc>
  <type>Creature - Merfolk Scout </type>
@@ -16034,6 +16099,7 @@ Whenever another Merfolk enters play under your control, put a +1/+1 counter on 
  <name>TBLD Battlewise Hoplite</name>
  <set picURL="/TBLD Battlewise Hoplite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>WU</manacost>
 		<cmc>2</cmc>
  <type>Creature - Human Soldier </type>
@@ -16080,6 +16146,7 @@ Whenever a creature an opponent controls dies, that player loses 2 life and you 
  <name>TBLD Phalanx Leader</name>
  <set picURL="/TBLD Phalanx Leader.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>WW</manacost>
 		<cmc>2</cmc>
  <type>Creature - Human Soldier </type>
@@ -16091,6 +16158,7 @@ Whenever a creature an opponent controls dies, that player loses 2 life and you 
  <name>TBLD Dawnbringer Charioteers</name>
  <set picURL="/TBLD Dawnbringer Charioteers.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2WW</manacost>
 		<cmc>4</cmc>
  <type>Creature - Human Soldier </type>
@@ -16103,6 +16171,7 @@ Heroic — Whenever you cast a spell that targets this, put two +1/+1 counters o
  <name>TBLD Skophos Reformed</name>
  <set picURL="/TBLD Skophos Reformed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Creature - Minotaur Soldier </type>
@@ -16114,6 +16183,7 @@ Heroic — Whenever you cast a spell that targets this, put two +1/+1 counters o
  <name>TBLD Satyr Hoplite</name>
  <set picURL="/TBLD Satyr Hoplite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>R</manacost>
 		<cmc>1</cmc>
  <type>Creature - Satyr Soldier </type>
@@ -16337,6 +16407,7 @@ Draw a card.</text>
  <name>TBLD River Heralds Boon</name>
  <set picURL="/TBLD River Heralds Boon.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -16369,6 +16440,7 @@ Rebound (If you cast this from your hand, exile it as it resolves. At your next 
  <name>TBLD Junk Hunk</name>
  <set picURL="/TBLD Junk Hunk.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>X</manacost>
 		<cmc>0</cmc>
  <type>Artifact Creature - Construct </type>
@@ -16383,6 +16455,7 @@ Remove two +1/+1 counters from this: Put target noncreature artifact card from y
  <name>TBLD Roving Ballista</name>
  <set picURL="/TBLD Roving Ballista.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>XX</manacost>
 		<cmc>0</cmc>
  <type>Artifact Creature - Construct </type>
@@ -16551,7 +16624,7 @@ Destroy all enchantments.</text>
  <name>TBLD Abzan Ascendancy</name>
  <set picURL="/TBLD Abzan Ascendancy.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWBG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>WBG</manacost>
 		<cmc>3</cmc>
  <type>Enchantment</type>
@@ -16651,6 +16724,7 @@ Whenever a land enters play under your control, put two +1/+1 counters on up to 
  <name>TBLD Bant Ascendancy</name>
  <set picURL="/TBLD Bant Ascendancy.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGWU</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GWU</manacost>
 		<cmc>3</cmc>
  <type>Enchantment</type>
@@ -16793,7 +16867,7 @@ Creatures you control get +3/+3 and gain trample this turn.</text>
  <name>TBLD Strength of the Pack</name>
  <set picURL="/TBLD Strength of the Pack.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2G</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
@@ -16829,6 +16903,7 @@ Search your library for a creature card, reveal it, and put it into your hand.</
  <name>TBLD Failed Inspection</name>
  <set picURL="/TBLD Failed Inspection.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2/U2/U2/U</manacost>
 		<cmc>6</cmc>
  <type>Flash Sorcery</type>
@@ -16850,6 +16925,7 @@ Draw two cards, then discard two cards.</text>
  <name>TBLD Primeval Hydra</name>
  <set picURL="/TBLD Primeval Hydra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2/G2/G2/G</manacost>
 		<cmc>6</cmc>
  <type>Creature - Hydra </type>
@@ -16862,6 +16938,7 @@ Draw two cards, then discard two cards.</text>
  <name>TBLD Ironscale Hydra</name>
  <set picURL="/TBLD Ironscale Hydra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2GG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Hydra </type>
@@ -16964,6 +17041,7 @@ Return target nonland permanent with mana value 2 or less to its owners hand.</t
  <name>TBLD Haughty Obstruction</name>
  <set picURL="/TBLD Haughty Obstruction.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1H/U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -16986,6 +17064,7 @@ This deals 1 damage to any target.</text>
  <name>TBLD Balga Sen Maneater</name>
  <set picURL="/TBLD Balga Sen Maneater.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1GG</manacost>
 		<cmc>3</cmc>
  <type>Creature - Hydra </type>
@@ -17078,6 +17157,7 @@ Flashback R</text>
  <name>TBLD Zen</name>
  <set picURL="/TBLD Zen.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -17148,6 +17228,7 @@ When this enters play, draw a card.</text>
  <name>TBLD Fated Sovereign</name>
  <set picURL="/TBLD Fated Sovereign.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <related>TBLD The Monarch</related>
  <manacost>3W</manacost>
 		<cmc>4</cmc>
@@ -17349,7 +17430,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
  <set picURL="/TBLD Hissing Ambusher.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Hissing Caretaker</related>
@@ -17371,7 +17452,7 @@ When this transforms into Hissing Caretaker, untap it.
  <set picURL="/TBLD Slinking Spectre.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>B</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Brazen Poltergeist</related>
@@ -17392,7 +17473,7 @@ Whenever a player discards a card, they lose 2 life.</text>
  <set picURL="/TBLD Grumpy Squatters.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Jovial Gadabout</related>
@@ -17412,7 +17493,7 @@ When this transforms into Jovial Gadabout, put a +1/+1 counter on each other cre
  <set picURL="/TBLD Budding Chick.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Blooming Titan</related>
@@ -17432,7 +17513,7 @@ Untap all creatures and lands you control during each other player’s untap ste
  <set picURL="/TBLD Feisty Runt.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Fiery Brute</related>
@@ -17453,7 +17534,7 @@ Whenever this untaps, it deals 4 damage to any target.</text>
  <set picURL="/TBLD Elusive Trickster.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Inscrutable Savant</related>
@@ -17475,7 +17556,7 @@ If a counter of any kind would be put on a creature you control, you may put it 
  <set picURL="/TBLD Happy Paddler.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Turbulent Grappler</related>
@@ -17496,7 +17577,7 @@ When this transforms into Turbulent Grappler or attacks, you may switch this cre
  <set picURL="/TBLD Nibbling Whelp.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Earthshaker Hulk</related>
@@ -17516,7 +17597,7 @@ When this transforms into Earthshaker Hulk, creatures without flying can’t blo
  <set picURL="/TBLD Stinging Floater.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Tentacled Kraken</related>
@@ -17589,6 +17670,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
  <name>TBLD Hungry Whelp</name>
  <set picURL="/TBLD Hungry Whelp.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Hydra </type>
@@ -17651,7 +17733,7 @@ Untap this. Prevent all combat damage this would deal this turn. This gains hexp
  <name>TBLD Novijen Sages</name>
  <set picURL="/TBLD Novijen Sages.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>U</manacost>
 		<cmc>4</cmc>
  <type>Creature - Human Advisor Mutant </type>
@@ -17678,7 +17760,7 @@ Untap this. Prevent all combat damage this would deal this turn. This gains hexp
  <name>TBLD Zhur-Taa Gore Swine</name>
  <set picURL="/TBLD Zhur-Taa Gore Swine.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>RRGG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Boar </type>
@@ -17720,7 +17802,7 @@ T, Sacrifice a Food: Add one mana of any color.</text>
  <name>TBLD Woopip Sage</name>
  <set picURL="/TBLD Woopip Sage.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>SACOUTLET RAMP</tags>
+ <tags>SACOUTLET RAMP PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Fungus Shaman </type>
@@ -17733,6 +17815,7 @@ T, Sacrifice a Food: Add one mana of any color.</text>
  <name>TBLD Rot Shambler</name>
  <set picURL="/TBLD Rot Shambler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Fungus </type>
@@ -17796,7 +17879,7 @@ At your upkeep, investigate twice. (Create two colorless Clue enchantment tokens
  <name>TBLD Mycoloth</name>
  <set picURL="/TBLD Mycoloth.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>SACOUTLET</tags>
+ <tags>SACOUTLET PLUSCOUNTER</tags>
  <manacost>3GG</manacost>
 		<cmc>5</cmc>
  <type>Creature - Fungus </type>
@@ -17937,6 +18020,7 @@ When this enters play, you may destroy target creature with flying.</text>
  <name>TBLD Honeypot Spider</name>
  <set picURL="/TBLD Honeypot Spider.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Spider </type>
@@ -18034,7 +18118,7 @@ Destroy target creature with mana value 2 or less. If this spell was kicked, ins
  <name>TBLD Fungal Infection</name>
  <set picURL="/TBLD Fungal Infection.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -18242,7 +18326,7 @@ T: Draw a card, then discard a card.</text>
  <name>TBLD Veteran of the Depths</name>
  <set picURL="/TBLD Veteran of the Depths.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2W</manacost>
 		<cmc>3</cmc>
  <type>Creature - Merfolk Soldier </type>
@@ -18322,6 +18406,7 @@ Tap seven untapped Merfolk you control: Counter target spell.</text>
  <name>TBLD Jade Bearer</name>
  <set picURL="/TBLD Jade Bearer.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Merfolk Shaman </type>
@@ -18343,6 +18428,7 @@ Tap seven untapped Merfolk you control: Counter target spell.</text>
  <name>TBLD Trickbind</name>
  <set picURL="/TBLD Trickbind.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -18395,6 +18481,7 @@ Search your library for a creature card with mana value X or less and put it int
  <name>TBLD Stifle</name>
  <set picURL="/TBLD Stifle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -18611,6 +18698,7 @@ Menace (This cant be blocked except by two or more creatures.)
  <name>TBLD Game-Trail Changeling</name>
  <set picURL="/TBLD Game-Trail Changeling.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>XG</manacost>
 		<cmc>1</cmc>
  <type>Creature - Shapeshifter </type>
@@ -18649,7 +18737,7 @@ Trample</text>
  <name>TBLD Jade Fang Gorgon</name>
  <set picURL="/TBLD Jade Fang Gorgon.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Gorgon Warrior </type>
@@ -18714,7 +18802,7 @@ Whenever a creature you control becomes the target of a spell or ability an oppo
  <name>TBLD Morphic Lump</name>
  <set picURL="/TBLD Morphic Lump.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GU</manacost>
 		<cmc>2</cmc>
  <type>Creature - Shapeshifter </type>
@@ -18727,7 +18815,7 @@ GU: This becomes a copy of target creature, except it has experience and this ab
  <name>TBLD Undergrowth Mystic</name>
  <set picURL="/TBLD Undergrowth Mystic.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>RAMP</tags>
+ <tags>RAMP PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Elf Shaman </type>
@@ -18813,6 +18901,7 @@ This deals 3 damage to each creature.</text>
  <name>TBLD Unnatural Predation</name>
  <set picURL="/TBLD Unnatural Predation.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>H/G</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -18861,7 +18950,7 @@ When this dies, you may pay 2H/U. If you do, draw two cards.</text>
  <name>TBLD Neosteel Stealth Unit</name>
  <set picURL="/TBLD Neosteel Stealth Unit.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>4UUU</manacost>
 		<cmc>7</cmc>
  <type>Flash Artifact Creature - Construct </type>
@@ -18914,6 +19003,7 @@ Whenever you draw a card, target creature gets +2/+0 this turn.</text>
  <name>TBLD Devour the Weak</name>
  <set picURL="/TBLD Devour the Weak.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1H/GH/GH/G</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -18936,6 +19026,7 @@ Target creature you control fights another target creature.</text>
  <name>TBLD Hunger of the Howlpack</name>
  <set picURL="/TBLD Hunger of the Howlpack.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -19264,6 +19355,7 @@ Dash 4G (You may cast this for its dash cost. If you do, it gains haste, and it�
  <name>TBLD Magus of the Stacks</name>
  <set picURL="/TBLD Magus of the Stacks.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2R</manacost>
 		<cmc>3</cmc>
  <type>Creature - Human Wizard </type>
@@ -19500,6 +19592,7 @@ Encore 1R (1R, Exile this from your graveyard: For each opponent, create a token
  <name>TBLD Avenger of Zendikar</name>
  <set picURL="/TBLD Avenger of Zendikar.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>5GG</manacost>
 		<cmc>7</cmc>
  <type>Creature - Elemental </type>
@@ -19726,6 +19819,7 @@ This gets +1/+0 for each artifact your control.</text>
  <name>TBLD Noosegraf Mob</name>
  <set picURL="/TBLD Noosegraf Mob.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3BB</manacost>
 		<cmc>5</cmc>
  <type>Creature - Zombie </type>
@@ -19738,6 +19832,7 @@ Whenever a player casts a spell, remove a +1/+1 counter from this. If you do, cr
  <name>TBLD Drakestown Forgotten</name>
  <set picURL="/TBLD Drakestown Forgotten.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER MINUSCOUNTER</tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Creature - Zombie </type>
@@ -19936,7 +20031,7 @@ Arcane mastery — If there are three or more sorcery cards in your graveyard, t
  <name>TBLD Stealth Mission</name>
  <set picURL="/TBLD Stealth Mission.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -20072,6 +20167,7 @@ Flashback R (You may cast this from your graveyard for its flashback cost. Then 
  <name>TBLD Miracle Growth</name>
  <set picURL="/TBLD Miracle Growth.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -20212,6 +20308,7 @@ Cycling 3 (3, Discard this: Draw a card.)</text>
  <name>TBLD Primordial Beat</name>
  <set picURL="/TBLD Primordial Beat.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3G</manacost>
 		<cmc>4</cmc>
  <type>Enchantment</type>
@@ -20329,6 +20426,7 @@ Enchanted creature gets +2/+0 and has flying.</text>
  <name>TBLD Light of Promise</name>
  <set picURL="/TBLD Light of Promise.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Enchantment - Aura </type>
@@ -20485,6 +20583,7 @@ When enchanted creature dies, return this from your graveyard to your hand.</tex
  <name>TBLD Hydras Growth</name>
  <set picURL="/TBLD Hydras Growth.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2G</manacost>
 		<cmc>3</cmc>
  <type>Enchantment - Aura </type>
@@ -20497,6 +20596,7 @@ At your upkeep, double the number of +1/+1 counters on enchanted creature.</text
  <name>TBLD Unsettling Embrace</name>
  <set picURL="/TBLD Unsettling Embrace.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2G</manacost>
 		<cmc>3</cmc>
  <type>Enchantment - Aura </type>
@@ -20595,6 +20695,7 @@ Target creature gets +6/+6 this turn.</text>
  <name>TBLD Force Spike</name>
  <set picURL="/TBLD Force Spike.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -20766,7 +20867,7 @@ Addendum — If you cast this during your main phase, it deals 5 damage instead.
  <name>TBLD Rain Dance</name>
  <set picURL="/TBLD Rain Dance.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -20848,6 +20949,7 @@ When this enters play, return a Zombie card chosen at random from your graveyard
  <name>TBLD Foraging Oozeling</name>
  <set picURL="/TBLD Foraging Oozeling.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HBG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>B/G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Ooze </type>
@@ -21110,7 +21212,7 @@ Whenever an opponent casts a spell, if this is suspended, remove a time counter 
  <name>TBLD Resplendent Griffin</name>
  <set picURL="/TBLD Resplendent Griffin.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>WU</manacost>
 		<cmc>2</cmc>
  <type>Creature - Griffin </type>
@@ -21229,6 +21331,7 @@ Whenever a spell or ability you control counters a spell, you may draw a card. I
  <name>TBLD Mucksoaker</name>
  <set picURL="/TBLD Mucksoaker.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2GG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Ooze </type>
@@ -21241,6 +21344,7 @@ Whenever another creature you control dies, put +1/+1 counter on this.</text>
  <name>TBLD Skarrgan Pit-Skulk</name>
  <set picURL="/TBLD Skarrgan Pit-Skulk.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Human Warrior </type>
@@ -21323,6 +21427,7 @@ Spells you cast that target this cost 1 less to cast.</text>
  <name>TBLD Young Wolf</name>
  <set picURL="/TBLD Young Wolf.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Wolf </type>
@@ -21370,6 +21475,7 @@ Dash 2BB (You may cast this for its dash cost. If you do, it gains haste, and it
  <name>TBLD Hound of Griselbrand</name>
  <set picURL="/TBLD Hound of Griselbrand.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2RR</manacost>
 		<cmc>4</cmc>
  <type>Creature - Devil Dog </type>
@@ -21780,6 +21886,7 @@ You may cast artifact creature cards from your graveyard. Spells cast this way c
  <name>TBLD Arcbound Worker</name>
  <set picURL="/TBLD Arcbound Worker.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1</manacost>
 		<cmc>1</cmc>
  <type>Artifact Creature - Construct </type>
@@ -21912,6 +22019,7 @@ Vigilance</text>
  <name>TBLD Arcbound Hydra</name>
  <set picURL="/TBLD Arcbound Hydra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>XX</manacost>
 		<cmc>0</cmc>
  <type>Artifact Creature - Hydra </type>
@@ -21924,6 +22032,7 @@ Modular X (This enters play with X +1/+1 counters. When it dies, you may put its
  <name>TBLD Brass Overseer</name>
  <set picURL="/TBLD Brass Overseer.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2</manacost>
 		<cmc>2</cmc>
  <type>Artifact Creature - Construct </type>
@@ -21982,6 +22091,7 @@ Modular X (This enters play with X +1/+1 counters. When it dies, you may put its
  <name>TBLD Arcbound Bruiser</name>
  <set picURL="/TBLD Arcbound Bruiser.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>4</manacost>
 		<cmc>4</cmc>
  <type>Artifact Creature - Golem </type>
@@ -22072,7 +22182,7 @@ Battalion — Whenever this and at least two other creatures attack, this deals 
  <name>TBLD Assimilator Slime</name>
  <set picURL="/TBLD Assimilator Slime.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Ooze  </type>
@@ -22098,7 +22208,7 @@ Whenever this attacks, you may return target creature card from your graveyard t
  <name>TBLD Rokna the Primordial</name>
  <set picURL="/TBLD Rokna the Primordial.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>SACOUTLET</tags>
+ <tags>SACOUTLET PLUSCOUNTER</tags>
  <manacost>1BB</manacost>
 		<cmc>3</cmc>
  <type>Restricted Creature - Ooze </type>
@@ -22155,7 +22265,7 @@ Whenever another creature enters play under your control, it fights target creat
  <name>TBLD Speaker Zegana Utopian</name>
  <set picURL="/TBLD Speaker Zegana Utopian.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GU</manacost>
 		<cmc>2</cmc>
  <type>Restricted Creature - Merfolk Wizard </type>
@@ -22241,7 +22351,7 @@ UUU: Return this to its owner’s hand.</text>
  <name>TBLD Nissa Revane Animist</name>
  <set picURL="/TBLD Nissa Revane Animist.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1GG</manacost>
 		<cmc>3</cmc>
  <type>Restricted Creature - Elf Shaman </type>
@@ -22390,6 +22500,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.
  <name>TBLD Indelible Hydra</name>
  <set picURL="/TBLD Indelible Hydra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>XG</manacost>
 		<cmc>1</cmc>
  <type>Creature - Hydra </type>
@@ -22453,7 +22564,7 @@ When this enters play, create a treasure token.</text>
  <set picURL="/TBLD Stromkirk Noble.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>R</manacost>
 		<cmc>1</cmc>
  <type>Creature - Vampire Noble </type>
@@ -22611,7 +22722,7 @@ Discard a card: This gets +1/+1 this turn.</text>
  <set picURL="/TBLD Lyxchoas Quetzalcoatl.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>3U</manacost>
 		<cmc>4</cmc>
  <type>Creature - Snake </type>
@@ -22627,7 +22738,7 @@ Madness 1U (If you discard this, discard it into exile, then cast it for its mad
  <set picURL="/TBLD Rootwater Drowner.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>5UU</manacost>
 		<cmc>7</cmc>
  <type>Creature - Merfolk </type>
@@ -22681,7 +22792,7 @@ picURLSt="">TBLD</set>
  <set picURL="/TBLD Oran-Rief Ooze.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2G</manacost>
 		<cmc>3</cmc>
  <type>Creature - Ooze </type>
@@ -22782,6 +22893,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <set picURL="/TBLD Starving Vorapede.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>4G</manacost>
 		<cmc>5</cmc>
  <type>Creature - Insect </type>
@@ -22832,6 +22944,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Flayer of the Hatebound</name>
  <set picURL="/TBLD Flayer of the Hatebound.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>5R</manacost>
 		<cmc>6</cmc>
  <type>Creature - Devil </type>
@@ -22972,6 +23085,7 @@ When this enters play, if its madness cost was paid, you may return target creat
  <name>TBLD Souldrinker</name>
  <set picURL="/TBLD Souldrinker.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2BB</manacost>
 		<cmc>4</cmc>
  <type>Creature - Demon </type>
@@ -22997,6 +23111,7 @@ When this enters play, you may search your library for exactly two cards not nam
  <name>TBLD Geralfs Mindcrusher</name>
  <set picURL="/TBLD Geralfs Mindcrusher.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>4UU</manacost>
 		<cmc>6</cmc>
  <type>Creature - Zombie </type>
@@ -23020,6 +23135,7 @@ Undying (When this dies, if it had no +1/+1 counters, return it to play under it
  <name>TBLD Akroan Skyguard</name>
  <set picURL="/TBLD Akroan Skyguard.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Flash Creature - Human Soldier </type>
@@ -23032,6 +23148,7 @@ Heroic — Whenever you cast a spell that targets this, put a +1/+1 counter on t
  <name>TBLD Sage of Hours</name>
  <set picURL="/TBLD Sage of Hours.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Creature - Human Wizard </type>
@@ -23067,6 +23184,7 @@ When this dies, you may put an enchantment card from your graveyard on top of yo
  <name>TBLD Conclave Mentor</name>
  <set picURL="/TBLD Conclave Mentor.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGW</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>GW</manacost>
 		<cmc>2</cmc>
  <type>Creature - Centaur Cleric </type>
@@ -23185,6 +23303,7 @@ When this enters play, create two 2/2 black Zombie tokens that can’t block.</t
  <name>TBLD Stensia Masquerade</name>
  <set picURL="/TBLD Stensia Masquerade.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>2R</manacost>
 		<cmc>3</cmc>
  <type>Enchantment</type>
@@ -23208,6 +23327,7 @@ Metalcraft — Creatures you control get an additional +1/+1 as long as you cont
  <name>TBLD Rhythm of the Wild</name>
  <set picURL="/TBLD Rhythm of the Wild.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1RG</manacost>
 		<cmc>3</cmc>
  <type>Enchantment</type>
@@ -23263,7 +23383,7 @@ Each flash creature and each creature with haste you control gets +1/+0.</text>
  <name>TBLD One on One</name>
  <set picURL="/TBLD One on One.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Enchantment</type>
@@ -23340,6 +23460,7 @@ When enchanted creature dies, target player loses X life and you gain X life, wh
  <name>TBLD Malignant Pact</name>
  <set picURL="/TBLD Malignant Pact.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>MINUSCOUNTER</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Enchantment - Aura </type>
@@ -23592,6 +23713,7 @@ You may put a creature card from your hand into play. It gains haste. Sacrifice 
  <name>TBLD Deft Disruption</name>
  <set picURL="/TBLD Deft Disruption.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -23821,6 +23943,7 @@ Metalcraft — This deals 4 damage instead if you control three or more artifact
  <name>TBLD Metallic Rebuke</name>
  <set picURL="/TBLD Metallic Rebuke.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>2U</manacost>
 		<cmc>3</cmc>
  <type>Flash Sorcery</type>
@@ -24341,6 +24464,7 @@ Draw three cards.</text>
  <name>TBLD Subtle Misstep</name>
  <set picURL="/TBLD Subtle Misstep.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -24352,6 +24476,7 @@ Counter target spell with mana value 1. Scry 2.</text>
  <name>TBLD Annul</name>
  <set picURL="/TBLD Annul.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>COUNTERSPELL</tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
