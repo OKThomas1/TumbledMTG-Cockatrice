@@ -5,7 +5,7 @@
 <name>TBLD</name>
 <longname>TumbledMTG</longname>
   <settype>Custom</settype>
-  <releasedate>4-18-2021</releasedate>
+  <releasedate>5-17-2021</releasedate>
 </set>
 </sets>
 <cards>
@@ -1103,7 +1103,7 @@ Transmute 1UB (1UB, Discard this: Search your library for a card with the same m
  <name>TBLD Sink into Oblivion</name>
  <set picURL="/TBLD Sink into Oblivion.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>3BB</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -1162,7 +1162,7 @@ Destroy target enchantment.</text>
  <name>TBLD Savage Twister</name>
  <set picURL="/TBLD Savage Twister.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>XRG</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -1536,7 +1536,7 @@ Counter target activated ability, triggered ability, or sorcery spell.</text>
  <name>TBLD Never_Return</name>
  <set picURL="/TBLD Never_Return.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>1BB // 2B</manacost>
 		<cmc>6</cmc>
  <type>Sorcery // Sorcery</type>
@@ -2213,15 +2213,15 @@ Jump-start (You may cast this from your graveyard by discarding a card in additi
  <name>TBLD Embodiment of Valor</name>
  <set picURL="/TBLD Embodiment of Valor.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <manacost>1W</manacost>
-		<cmc>2</cmc>
+ <tags>CHANGED NEW</tags>
+ <manacost>2W</manacost>
+		<cmc>3</cmc>
  <type>Creature - Avatar </type>
  <pt>*/3</pt>
  <tablerow>2</tablerow>
  <text>Flying, vigilance
 This creature’s power is equal to the number of exiled cards you own.
-When this enters play, exile each other permanent you control.
-When this leaves play, return each card exiled with this to play under their owner’s control.</text>
+When this enters play, exile each other permanent you control until this leaves play.</text>
 </card>
 <card>
  <name>TBLD Doomed Traveler</name>
@@ -2672,7 +2672,7 @@ Whenever you cast a sorcery spell, creature you control get +1/+0 this turn.</te
  <name>TBLD Leyline Whomper</name>
  <set picURL="/TBLD Leyline Whomper.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>2RG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Elemental </type>
@@ -2826,7 +2826,7 @@ Enchanted creature gets +20/+20.</text>
  <name>TBLD Bad Moon Rising</name>
  <set picURL="/TBLD Bad Moon Rising.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>2BB</manacost>
 		<cmc>4</cmc>
  <type>Enchantment</type>
@@ -3068,7 +3068,7 @@ Gain 3 life.</text>
  <name>TBLD Wits End</name>
  <set picURL="/TBLD Wits End.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>5BB</manacost>
 		<cmc>7</cmc>
  <type>Sorcery</type>
@@ -3080,7 +3080,7 @@ Foretell 3BB (During your turn, you may pay 2 and exile this from your hand face
  <name>TBLD Prophesied Calamity</name>
  <set picURL="/TBLD Prophesied Calamity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>6B</manacost>
 		<cmc>7</cmc>
  <type>Sorcery</type>
@@ -3093,7 +3093,7 @@ Foretell 2BB (During your turn, you may pay 2 and exile this from your hand face
  <name>TBLD Terminal Event</name>
  <set picURL="/TBLD Terminal Event.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>4BB</manacost>
 		<cmc>6</cmc>
  <type>Sorcery</type>
@@ -3151,19 +3151,6 @@ You have no maximum hand size.
 T: Add one mana of any color.</text>
 </card>
 <card>
- <name>TBLD House of Nightmares</name>
- <set picURL="/TBLD House of Nightmares.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>C</color>
- <tags>UTILITY</tags>
- <manacost></manacost>
-		<cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>Hellbent — This enters play tapped unless you have no cards in hand.
-When this enters play, each player discards a card.
-T: Add C.</text>
-</card>
-<card>
  <name>TBLD Winding Waterway</name>
  <set picURL="/TBLD Winding Waterway.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
@@ -3214,7 +3201,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Empty Hamlet</name>
  <set picURL="/TBLD Empty Hamlet.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3438,7 +3425,7 @@ T, Pay 2 life: Add R, B or G.
  <name>TBLD Ceremonial Boneyard</name>
  <set picURL="/TBLD Ceremonial Boneyard.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3498,14 +3485,13 @@ T, Pay 2 life: Add U, R, or W.
  <name>TBLD Spooky Villa</name>
  <set picURL="/TBLD Spooky Villa.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add W or U.</text>
 </card>
 <card>
@@ -3525,14 +3511,13 @@ T: Add W or B.
  <name>TBLD Bronze Bell Shrine</name>
  <set picURL="/TBLD Bronze Bell Shrine.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add R or W.</text>
 </card>
 <card>
@@ -3577,14 +3562,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Fungus Gorge</name>
  <set picURL="/TBLD Fungus Gorge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add B or G.</text>
 </card>
 <card>
@@ -3699,7 +3683,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Deserted Fairground</name>
  <set picURL="/TBLD Deserted Fairground.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -3712,14 +3696,13 @@ T: Add B or R.</text>
  <name>TBLD Cemetery Hillock</name>
  <set picURL="/TBLD Cemetery Hillock.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add B or R.</text>
 </card>
 <card>
@@ -3787,7 +3770,7 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Exotic Habitat</name>
  <set picURL="/TBLD Exotic Habitat.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -4363,6 +4346,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Forest55</name>
  <set picURL="/TBLD Forest55.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Forest </type>
@@ -4722,7 +4706,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Sparkling Bay</name>
  <set picURL="/TBLD Sparkling Bay.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -4837,6 +4821,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Island10</name>
  <set picURL="/TBLD Island10.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Island </type>
@@ -4847,6 +4832,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Island11</name>
  <set picURL="/TBLD Island11.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Island </type>
@@ -5227,6 +5213,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Island49</name>
  <set picURL="/TBLD Island49.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Island </type>
@@ -5610,14 +5597,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Timeworn Valley</name>
  <set picURL="/TBLD Timeworn Valley.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add R or G.</text>
 </card>
 <card>
@@ -5991,6 +5977,7 @@ When you cycle this, gain 1 life.</text>
  <name>TBLD Mountain29</name>
  <set picURL="/TBLD Mountain29.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -6321,6 +6308,7 @@ When you cycle this, gain 1 life.</text>
  <name>TBLD Mountain62</name>
  <set picURL="/TBLD Mountain62.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Basic Land - Mountain </type>
@@ -6588,14 +6576,13 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Salt Mire</name>
  <set picURL="/TBLD Salt Mire.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add W or B.</text>
 </card>
 <card>
@@ -7473,7 +7460,7 @@ T, Remove X storage counters from this: Add X mana in any combination of G and/o
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add C.
-T: Untap up to two target Stations.</text>
+1, T: Untap up to three target Stations.</text>
 </card>
 <card>
  <name>TBLD Cracked Wasteland</name>
@@ -7504,14 +7491,13 @@ T: Untap up to two target Stations.</text>
  <name>TBLD Quiet Space</name>
  <set picURL="/TBLD Quiet Space.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add G or W.</text>
 </card>
 <card>
@@ -7555,7 +7541,7 @@ Cycling—Pay 3 life. (Pay 3 life, Discard this: Draw a card.)</text>
  <name>TBLD Ravine Passage</name>
  <set picURL="/TBLD Ravine Passage.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -7797,7 +7783,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Vivid Ridge</name>
  <set picURL="/TBLD Vivid Ridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -7810,7 +7796,7 @@ T: Add U or R.</text>
  <name>TBLD Spoiled Pasture</name>
  <set picURL="/TBLD Spoiled Pasture.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -7835,7 +7821,7 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Majestic Vale</name>
  <set picURL="/TBLD Majestic Vale.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -8687,14 +8673,13 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Dusty Oasis</name>
  <set picURL="/TBLD Dusty Oasis.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add U or R.</text>
 </card>
 <card>
@@ -8951,14 +8936,13 @@ T, Pay 2 life: Add G, U, or R.
  <name>TBLD Chamber of Secrets</name>
  <set picURL="/TBLD Chamber of Secrets.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add U or B.</text>
 </card>
 <card>
@@ -8990,14 +8974,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Vibrant Seabed</name>
  <set picURL="/TBLD Vibrant Seabed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
- <tags></tags>
+ <tags>CHANGED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life.
-When this enters play, look at the top two cards of your library and exile one of them.
+When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
 T: Add G or U.</text>
 </card>
 <card>
@@ -9099,7 +9082,7 @@ T: Add W or U.
  <name>TBLD Root Cavity</name>
  <set picURL="/TBLD Root Cavity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -9387,14 +9370,14 @@ T: Add W or U.</text>
  <name>TBLD Rugged Peaks</name>
  <set picURL="/TBLD Rugged Peaks.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>UTILITY</tags>
+ <tags>CHANGED NEW UTILITY</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>When this enters play, lose 1 life.
 1, T: Add RR.
-1R, Discard this: Player’s can’t gain life this turn.</text>
+2R, Discard this: This deals 1 damage to target player. They can’t gain life this turn.</text>
 </card>
 <card>
  <name>TBLD Eerie Bog</name>
@@ -9434,6 +9417,76 @@ T: Add W or U.</text>
  <text>When this enters play, lose 1 life.
 1, T: Add UU.
 2U, Discard this: Counter target activated or triggered ability.</text>
+</card>
+<card>
+ <name>TBLD Haunted Veldt</name>
+ <set picURL="/TBLD Haunted Veldt.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>W</color>
+ <tags>ADDED NEW UTILITY</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This enters play tapped.
+When this enters play, each player discards a card.
+T: Add W.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>TBLD Haunted Lake</name>
+ <set picURL="/TBLD Haunted Lake.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>U</color>
+ <tags>ADDED NEW UTILITY</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This enters play tapped.
+When this enters play, each player discards a card.
+T: Add U.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>TBLD Haunted Tomb</name>
+ <set picURL="/TBLD Haunted Tomb.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>B</color>
+ <tags>ADDED NEW UTILITY</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This enters play tapped.
+When this enters play, each player discards a card.
+T: Add B.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>TBLD Haunted Cave</name>
+ <set picURL="/TBLD Haunted Cave.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <tags>ADDED NEW UTILITY</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This enters play tapped.
+When this enters play, each player discards a card.
+T: Add R.
+1, T: Add one mana of any color.</text>
+</card>
+<card>
+ <name>TBLD Haunted Woodland</name>
+ <set picURL="/TBLD Haunted Woodland.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>G</color>
+ <tags>ADDED NEW UTILITY</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This enters play tapped.
+When this enters play, each player discards a card.
+T: Add G.
+1, T: Add one mana of any color.</text>
 </card>
 <card>
  <name>TBLD Mechashredder</name>
@@ -9675,7 +9728,7 @@ Target opponent reveals their hand and discards a card of your choice.</text>
  <name>TBLD Scornful Rejection</name>
  <set picURL="/TBLD Scornful Rejection.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>4U</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -9699,7 +9752,7 @@ Counter target spell unless its controller pays 1. If that spell is countered th
  <name>TBLD Desecrate</name>
  <set picURL="/TBLD Desecrate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>5BB</manacost>
 		<cmc>7</cmc>
  <type>Sorcery</type>
@@ -9711,7 +9764,7 @@ Put up to two target nonsorcery cards from an opponent’s graveyard into play u
  <name>TBLD Brainblast</name>
  <set picURL="/TBLD Brainblast.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>3B</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -9744,7 +9797,7 @@ Destroy target creature.</text>
  <name>TBLD Forced March</name>
  <set picURL="/TBLD Forced March.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>XBBB</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
@@ -9768,7 +9821,7 @@ Destroy all creatures.</text>
  <name>TBLD Subvert</name>
  <set picURL="/TBLD Subvert.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>1H/B</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -10055,7 +10108,7 @@ B: This gains menace this turn.</text>
  <name>TBLD Orzhov Enforcer</name>
  <set picURL="/TBLD Orzhov Enforcer.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>1B</manacost>
 		<cmc>2</cmc>
  <type>Creature - Human Rogue </type>
@@ -10068,7 +10121,7 @@ Afterlife 1 (When this dies, create a 1/1 white and black Spirit token with flyi
  <name>TBLD Seagraf Skallywag</name>
  <set picURL="/TBLD Seagraf Skallywag.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Zombie Rogue </type>
@@ -10081,7 +10134,7 @@ T, Tap two other untapped Zombies you control: Return a creature card chosen at 
  <name>TBLD Diregraf Wriggler</name>
  <set picURL="/TBLD Diregraf Wriggler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Zombie </type>
@@ -10095,7 +10148,7 @@ Morbid — 3B: Return this from your graveyard to play. Activate only if a creat
  <name>TBLD Deeproot Guerrilla</name>
  <set picURL="/TBLD Deeproot Guerrilla.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Merfolk Warrior </type>
@@ -10107,7 +10160,7 @@ Morbid — 3B: Return this from your graveyard to play. Activate only if a creat
  <name>TBLD Deeproot Champion</name>
  <set picURL="/TBLD Deeproot Champion.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>ADDED NEW PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Merfolk Shaman </type>
@@ -10226,15 +10279,30 @@ Whenever you cast a spell during an opponent’s turn, create a 1/1 black Faerie
  <name>TBLD Jace Prodigious Telepath</name>
  <set picURL="/TBLD Jace Prodigious Telepath.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>COUNTERSPELL</tags>
+ <tags>CHANGED NEW COUNTERSPELL</tags>
  <manacost>UU</manacost>
 		<cmc>2</cmc>
  <type>Restricted Flash Creature - Human Wizard </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-When this enters play, return target sorcery spell to its owner’s hand.
+When this enters play, look at the top four cards of target player’s library, then put them back in any order.
 Whenever you draw one or more cards, target player mills that many cards.</text>
+</card>
+<card>
+ <name>TBLD Gobe The Slug Mossbrow</name>
+ <set picURL="/TBLD Gobe The Slug Mossbrow.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>G</color>
+ <tags>ADDED NEW COUNTERSPELL</tags>
+ <manacost>3GG</manacost>
+		<cmc>5</cmc>
+ <type>Restricted Creature - Troll </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Captain
+This spell can’t be countered.
+Ward 3 (Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3.)
+Persist (When this dies, if it had no -1/-1 counters, return it to play under its owner’s control with a -1/-1 counter.)</text>
 </card>
 <card>
  <name>TBLD Rashida the Discerning</name>
@@ -10279,7 +10347,7 @@ Exile three Zombies you control: Create a 4/5 blue Zombie token. Activate only d
  <name>TBLD Davriel Cane Diabolist</name>
  <set picURL="/TBLD Davriel Cane Diabolist.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>1BB</manacost>
 		<cmc>3</cmc>
  <type>Restricted Creature - Human Wizard </type>
@@ -10292,14 +10360,14 @@ When this enters play, name two nonland, nonrestricted cards. Each opponent reve
  <name>TBLD Liliana Master of the Veil</name>
  <set picURL="/TBLD Liliana Master of the Veil.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags></tags>
- <manacost>3BB</manacost>
-		<cmc>5</cmc>
+ <tags>CHANGED NEW</tags>
+ <manacost>4BB</manacost>
+		<cmc>6</cmc>
  <type>Restricted Creature - Human Wizard </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-When this enters play, target player sacrifices a creature. Then you lose 3 life and return up to one target creature card from your graveyard to your hand.</text>
+When this enters play, each opponent sacrifices a creature, then you may return a creature card from your graveyard to your hand.</text>
 </card>
 <card>
  <name>TBLD Gideon Defender of Justice</name>
@@ -10347,14 +10415,14 @@ Whenever you cast a sorcery spell, exile the top card of your library. You may p
  <name>TBLD Kwitz the Red Rector</name>
  <set picURL="/TBLD Kwitz the Red Rector.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags></tags>
- <manacost>R</manacost>
-		<cmc>1</cmc>
+ <tags>CHANGED NEW</tags>
+ <manacost>1R</manacost>
+		<cmc>2</cmc>
  <type>Restricted Creature - Human Cleric </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Captain
-Ward—Pay 3 life. (Whenever this becomes the target of a spell or ability an opponent controls, counter it unless that player pays Pay 3 life.)
+Whenever a Cleric you control dies, this deals 1 damage to any target.
 Whenever another creature enters play under your control, you may have it gain haste this turn. If you do, return it to your hand at the next end step.</text>
 </card>
 <card>
@@ -10396,21 +10464,78 @@ Mountains you control have “T, Sacrifice this: Add RR.”</text>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-Whenever one or more nontoken creatures you control attack, create that many 3/3 green Beast tokens that are tapped and attacking.</text>
+Whenever you attack, create a 3/3 green Beast token that’s tapped and attacking.</text>
 </card>
 <card>
  <name>TBLD Vivien Arkbow Summoner</name>
  <set picURL="/TBLD Vivien Arkbow Summoner.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>1GG</manacost>
 		<cmc>3</cmc>
- <type>Restricted Creature - Human Scout </type>
+ <type>Flash Restricted Creature - Human Scout </type>
  <pt>2/3</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
 Reach
-When this enters play, you may search your library for a creature card, reveal it, and put it on top.</text>
+When this enters play, you may search your library for a creature card and cast it. (You still need to pay its costs.)</text>
+</card>
+<card>
+ <name>TBLD Emry Lady of the Loch</name>
+ <set picURL="/TBLD Emry Lady of the Loch.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>U</color>
+ <tags>ADDED NEW</tags>
+ <manacost>1U</manacost>
+		<cmc>2</cmc>
+ <type>Restricted Creature - Merfolk Wizard </type>
+ <pt>1/2</pt>
+ <tablerow>2</tablerow>
+ <text>Captain
+Spirited (When this enters play, you may activate one of its activated abilities without paying its cost.)
+3U, T, Discard a card: Mill two cards, then return a noncreature artifact card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>TBLD Thalia Selfless Cathar</name>
+ <set picURL="/TBLD Thalia Selfless Cathar.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>W</color>
+ <tags>ADDED NEW</tags>
+ <manacost>1WW</manacost>
+		<cmc>3</cmc>
+ <type>Restricted Creature - Human Soldier </type>
+ <pt>2/1</pt>
+ <tablerow>2</tablerow>
+ <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
+First strike
+Noncreature spells with mana value 2 or less cost 1 more to cast.
+Sacrifice this: Counter target noncreature spell unless its controller pays 1.</text>
+</card>
+<card>
+ <name>TBLD Sorin Vampire Bloodlord</name>
+ <set picURL="/TBLD Sorin Vampire Bloodlord.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>B</color>
+ <tags>ADDED NEW</tags>
+ <manacost>2BB</manacost>
+		<cmc>4</cmc>
+ <type>Restricted Creature - Vampire Noble </type>
+ <pt>1/1</pt>
+ <tablerow>2</tablerow>
+ <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
+Spirited (When this enters play, you may activate one of its activated abilities without paying its cost.)
+5B: This deal 2 damage to target creature.
+Whenever this deals damage, put a +1/+1 counter on this and gain 2 life.</text>
+</card>
+<card>
+ <name>TBLD Jannia Irontide</name>
+ <set picURL="/TBLD Jannia Irontide.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <tags>ADDED NEW</tags>
+ <manacost>1RR</manacost>
+		<cmc>3</cmc>
+ <type>Restricted Creature - Human Warrior </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
+Whenever this deals combat damage to a player, each player sacrifices a permanent.</text>
 </card>
 <card>
  <name>TBLD Trostani Voice of Selesnya</name>
@@ -11044,7 +11169,7 @@ Counter target sorcery spell.</text>
  <name>TBLD Flashfreeze</name>
  <set picURL="/TBLD Flashfreeze.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>CHANGED NEW COUNTERSPELL</tags>
+ <tags>COUNTERSPELL</tags>
  <manacost>4U</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -12764,7 +12889,7 @@ Whenever this attacks, exile the top ten cards of each opponent’s library.</te
  <name>TBLD Titanfall</name>
  <set picURL="/TBLD Titanfall.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>CHANGED NEW TRON</tags>
+ <tags>TRON</tags>
  <manacost>4</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -12775,7 +12900,7 @@ Whenever this attacks, exile the top ten cards of each opponent’s library.</te
  <name>TBLD Mindless Bloodlust</name>
  <set picURL="/TBLD Mindless Bloodlust.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>3R</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -12787,7 +12912,7 @@ Untap target creature and gain control of it this turn. It gains trample and has
  <name>TBLD Combust</name>
  <set picURL="/TBLD Combust.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>4R</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -13750,7 +13875,7 @@ Sacrifice this: Put a -1/-1 counter on target creature.</text>
  <name>TBLD Clachan Unity</name>
  <set picURL="/TBLD Clachan Unity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HGW</color>
- <tags>CHANGED NEW PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1G/WG/W</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
@@ -14068,6 +14193,20 @@ Golems you control have flying.</text>
 When this enters play, exile the top card of your library. This turn, you may play that card.</text>
 </card>
 <card>
+ <name>TBLD Mistfire Disciple</name>
+ <set picURL="/TBLD Mistfire Disciple.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>U</color>
+ <tags>ADDED NEW</tags>
+ <manacost>1U</manacost>
+		<cmc>2</cmc>
+ <type>Creature - Human Monk </type>
+ <pt>2/2</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, choose one —
+• This gets +1/+1 this turn.
+• Target creature gains flying this turn.</text>
+</card>
+<card>
  <name>TBLD Tigers Claw Apprentice</name>
  <set picURL="/TBLD Tigers Claw Apprentice.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
@@ -14139,6 +14278,17 @@ Evoke 3R (You may cast this for its evoke cost. If you do, its sacrificed when i
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Destroy all lands.</text>
+</card>
+<card>
+ <name>TBLD Rakdoss Return</name>
+ <set picURL="/TBLD Rakdoss Return.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MBR</color>
+ <tags>ADDED NEW</tags>
+ <manacost>XBR</manacost>
+		<cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This deals X damage to target opponent. That player discards X cards.</text>
 </card>
 <card>
  <name>TBLD Stone Rain</name>
@@ -14239,6 +14389,19 @@ Search your library for a land card and put it into play.</text>
  <tablerow>2</tablerow>
  <text>This enters play with X +1/+1 counters.
 When this dies, if it had two or more +1/+1 counters, create two tokens with no mana cost that are copies of this. Put a number of +1/+1 counters on each of them equal to half the number of +1/+1 counters that were on this, rounded down.</text>
+</card>
+<card>
+ <name>TBLD Cryptborn Horror</name>
+ <set picURL="/TBLD Cryptborn Horror.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>HBR</color>
+ <tags>ADDED NEW</tags>
+ <manacost>B/RB/R</manacost>
+		<cmc>2</cmc>
+ <type>Creature - Horror </type>
+ <pt>0/0</pt>
+ <tablerow>2</tablerow>
+ <text>Trample
+This enters play with X +1/+1 counters on it, where X is the total life lost by your opponents this turn.</text>
 </card>
 <card>
  <name>TBLD Reagent Ooze</name>
@@ -14670,7 +14833,7 @@ Morbid — That creature gets -13/-13 this turn instead if a creature died this 
  <name>TBLD Shrivel</name>
  <set picURL="/TBLD Shrivel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>1B</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -14727,7 +14890,7 @@ Evoke 1G (You may cast this for its evoke cost. If you do, its sacrificed when i
  <name>TBLD Shadow Ritual</name>
  <set picURL="/TBLD Shadow Ritual.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW RAMP</tags>
+ <tags>RAMP</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -15033,7 +15196,7 @@ Entwine 1U (Choose both if you pay the entwine cost.)</text>
  <name>TBLD Fiery Fusillade</name>
  <set picURL="/TBLD Fiery Fusillade.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>1R</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -15300,12 +15463,12 @@ Foretell RR (During your turn, you may pay 2 and exile this from your hand face 
  <name>TBLD Call of the Clocktower</name>
  <set picURL="/TBLD Call of the Clocktower.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target player mills three cards for each artifact you control.</text>
+ <text>Target player mills four cards for each artifact you control.</text>
 </card>
 <card>
  <name>TBLD Last of Us</name>
@@ -15344,7 +15507,7 @@ Create a 2/2 white Knight creature token with vigilance.</text>
  <name>TBLD Twist of Fate</name>
  <set picURL="/TBLD Twist of Fate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>2BB</manacost>
 		<cmc>4</cmc>
  <type>Flash Sorcery</type>
@@ -15356,7 +15519,7 @@ Scry 2.</text>
  <name>TBLD Hail of Daggers</name>
  <set picURL="/TBLD Hail of Daggers.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>3BB</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery</type>
@@ -15470,11 +15633,13 @@ T, Exile this: Exile all cards from all graveyards.</text>
  <name>TBLD Wilted Lotus</name>
  <set picURL="/TBLD Wilted Lotus.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>CHANGED NEW</tags>
  <manacost>2</manacost>
 		<cmc>2</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>1, T, Sacrifice this: Add three mana of any one color.</text>
+ <text>This enters play tapped.
+1, T, Sacrifice this: Add three mana of any one color.</text>
 </card>
 <card>
  <name>TBLD Halt Order</name>
@@ -15533,14 +15698,14 @@ Flashback 5B (You may cast this from your graveyard for its flashback cost. Then
  <name>TBLD Flurry of Fists</name>
  <set picURL="/TBLD Flurry of Fists.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>1W</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Create a 1/1 white Monk creature token with prowess.
 Storm (When you cast this, copy it for each spell cast before it this turn.)
-Flashback 2W (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Flashback 3W (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
 </card>
 <card>
  <name>TBLD Blazing Vortex</name>
@@ -15903,7 +16068,7 @@ Foretell 0 (During your turn, you may pay 2 and exile this from your hand face d
  <name>TBLD Mox Pyrite</name>
  <set picURL="/TBLD Mox Pyrite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>CHANGED NEW RAMP</tags>
+ <tags>RAMP</tags>
  <manacost>0</manacost>
 		<cmc>0</cmc>
  <type>Artifact</type>
@@ -16610,6 +16775,17 @@ Destroy all enchantments.</text>
 4W, Sacrifice this: Create a 4/4 white Angel creature token with flying and vigilance.</text>
 </card>
 <card>
+ <name>TBLD Pain Magnification</name>
+ <set picURL="/TBLD Pain Magnification.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MBR</color>
+ <tags>ADDED NEW</tags>
+ <manacost>BR</manacost>
+		<cmc>2</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever an opponent is dealt 3 or more damage by a single source, that player loses 3 life unless they discard a card.</text>
+</card>
+<card>
  <name>TBLD Mirror March</name>
  <set picURL="/TBLD Mirror March.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
@@ -17050,17 +17226,6 @@ Return target nonland permanent with mana value 2 or less to its owners hand.</t
 Counter target spell that targets an artifact, creature, or player.</text>
 </card>
 <card>
- <name>TBLD Gut Shot</name>
- <set picURL="/TBLD Gut Shot.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>C</color>
- <manacost>H/R</manacost>
-		<cmc>1</cmc>
- <type>Flash Sorcery</type>
- <tablerow>3</tablerow>
- <text>(H/R can be paid with either R or 2 life.)
-This deals 1 damage to any target.</text>
-</card>
-<card>
  <name>TBLD Balga Sen Maneater</name>
  <set picURL="/TBLD Balga Sen Maneater.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
@@ -17276,10 +17441,10 @@ Whenever another creature enters play under your control, gain 1 life.</text>
  <manacost>2WU</manacost>
 		<cmc>4</cmc>
  <type>Restricted Creature - Sphinx </type>
- <pt>3/3</pt>
+ <pt>3/5</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-Flying, ward 3
+Flying
 Whenever a player attacks with three or more creatures or casts their second spell in a turn, each other player draws two cards.</text>
 </card>
 <card>
@@ -18081,6 +18246,84 @@ Reach, deathtouch</text>
 2G: This gains deathtouch this turn.</text>
 </card>
 <card>
+ <name>TBLD Heliods Intervention</name>
+ <set picURL="/TBLD Heliods Intervention.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>W</color>
+ <tags>ADDED NEW</tags>
+ <manacost>XWW</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Destroy X target artifacts and/or enchantments.
+• Target player gains twice X life.</text>
+</card>
+<card>
+ <name>TBLD Ereboss Intervention</name>
+ <set picURL="/TBLD Ereboss Intervention.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>B</color>
+ <tags>ADDED NEW</tags>
+ <manacost>XB</manacost>
+		<cmc>1</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Target creature gets -X/-X this turn. Gain X life.
+• Exile up to twice X target cards from graveyards.</text>
+</card>
+<card>
+ <name>TBLD Ereboss Intervention</name>
+ <set picURL="/TBLD Ereboss Intervention.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>B</color>
+ <tags>ADDED NEW</tags>
+ <manacost>XB</manacost>
+		<cmc>1</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Target creature gets -X/-X this turn. Gain X life.
+• Exile up to twice X target cards from graveyards.</text>
+</card>
+<card>
+ <name>TBLD Purphoross Intervention</name>
+ <set picURL="/TBLD Purphoross Intervention.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <tags>ADDED NEW</tags>
+ <manacost>XR</manacost>
+		<cmc>1</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Create an X/X red Elemental token with trample and haste. Sacrifice it at the next end step.
+• This deals twice X damage to target creature.</text>
+</card>
+<card>
+ <name>TBLD Nyleas Intervention</name>
+ <set picURL="/TBLD Nyleas Intervention.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>G</color>
+ <tags>ADDED NEW</tags>
+ <manacost>XGG</manacost>
+		<cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Search your library for up to X land cards, reveal them, and put them into your hand.
+• This deals twice X damage to each creature with flying.</text>
+</card>
+<card>
+ <name>TBLD Thassas Intervention</name>
+ <set picURL="/TBLD Thassas Intervention.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>U</color>
+ <tags>ADDED NEW COUNTERSPELL</tags>
+ <manacost>XUU</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Choose one —
+• Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
+• Counter target spell unless its controller pays twice X.</text>
+</card>
+<card>
  <name>TBLD Territory Dispute</name>
  <set picURL="/TBLD Territory Dispute.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
@@ -18094,7 +18337,7 @@ Reach, deathtouch</text>
  <name>TBLD Maul</name>
  <set picURL="/TBLD Maul.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>4G</manacost>
 		<cmc>5</cmc>
  <type>Sorcery</type>
@@ -18266,7 +18509,7 @@ Afterlife 1 (When this dies, create a 1/1 white Spirit creature token with flyin
  <name>TBLD Priestess of the Deep</name>
  <set picURL="/TBLD Priestess of the Deep.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>UR</manacost>
 		<cmc>2</cmc>
  <type>Creature - Merfolk Cleric </type>
@@ -18828,14 +19071,14 @@ GU: This becomes a copy of target creature, except it has experience and this ab
  <name>TBLD From the Furnace</name>
  <set picURL="/TBLD From the Furnace.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>1H/R</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>(H/R can be paid with either R or 2 life.)
-Target sorcery card in your graveyard gains flashback this turn. The flashback cost is equal to its mana cost. If this was cast for its flashback cost, instead each sorcery card in your graveyard gains flashback this turn.
-Flashback 7H/R (You may cast this from your graveyard for its flashback cost. Then exile it.)</text>
+Target sorcery card in your graveyard gains flashback this turn. The flashback cost is equal to its mana cost.
+Overload 5H/R (You may cast this for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
 </card>
 <card>
  <name>TBLD Crackling Burst</name>
@@ -19072,7 +19315,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Roast</name>
  <set picURL="/TBLD Roast.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>1R</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -19151,7 +19394,7 @@ Add RRRRR. (Five)</text>
  <name>TBLD Tremor</name>
  <set picURL="/TBLD Tremor.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>R</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -19162,7 +19405,7 @@ Add RRRRR. (Five)</text>
  <name>TBLD Electrify</name>
  <set picURL="/TBLD Electrify.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>RR</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -19173,7 +19416,7 @@ Add RRRRR. (Five)</text>
  <name>TBLD Flame Wave</name>
  <set picURL="/TBLD Flame Wave.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>ADDED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>3RRRR</manacost>
 		<cmc>7</cmc>
  <type>Sorcery</type>
@@ -19184,7 +19427,7 @@ Add RRRRR. (Five)</text>
  <name>TBLD Mizzium Mortars</name>
  <set picURL="/TBLD Mizzium Mortars.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>ADDED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>1R</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -19442,7 +19685,7 @@ Whenever you cast a noncreature spell, you may have this become a copy of anothe
  <name>TBLD Sparkweaver Kirin</name>
  <set picURL="/TBLD Sparkweaver Kirin.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW RAMP</tags>
+ <tags>RAMP</tags>
  <manacost>R</manacost>
 		<cmc>1</cmc>
  <type>Creature - Spirit </type>
@@ -19972,7 +20215,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
  <name>TBLD Radioactive Decay</name>
  <set picURL="/TBLD Radioactive Decay.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW WIPE</tags>
+ <tags>WIPE</tags>
  <manacost>2R</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
@@ -20111,7 +20354,7 @@ Jump-start (You may cast this from your graveyard by discarding a card in additi
  <name>TBLD Devils Bargain</name>
  <set picURL="/TBLD Devils Bargain.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>R</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -20231,12 +20474,25 @@ Upload the top card of your library. (Exile it. Pay 2 during your turn to put an
  <name>TBLD Curse of Malware</name>
  <set picURL="/TBLD Curse of Malware.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
+ <tags>CHANGED NEW</tags>
  <manacost>1R</manacost>
 		<cmc>2</cmc>
  <type>Enchantment - Aura Curse </type>
  <tablerow>1</tablerow>
  <text>Enchant player
-At enchanted player’s upkeep, flip a coin until you lose a flip. This deals 1 damage to that player for each flip you won. If you didn’t win any flips, scry 1.</text>
+At enchanted player’s upkeep, exile the top card of their library. If it’s a nonland card with mana value 3 or less, this deals 2 damage to that player.</text>
+</card>
+<card>
+ <name>TBLD Tin Street Market</name>
+ <set picURL="/TBLD Tin Street Market.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>R</color>
+ <tags>ADDED NEW</tags>
+ <manacost>1R</manacost>
+		<cmc>2</cmc>
+ <type>Enchantment - Aura </type>
+ <tablerow>1</tablerow>
+ <text>Enchant land
+Enchanted land has “T, Discard a card: Draw a card.”</text>
 </card>
 <card>
  <name>TBLD Righteous Authority</name>
@@ -20286,11 +20542,12 @@ At the draw step of enchanted creature’s controller, that player draws an addi
  <name>TBLD Astral Slide</name>
  <set picURL="/TBLD Astral Slide.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>CHANGED NEW</tags>
  <manacost>2W</manacost>
 		<cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>Whenever a player cycles a card while this is in play, exile target creature until the next end step. (It returns under its owner’s control.)
+ <text>Whenever a player cycles a card while this is in play, exile target creature. At the next end step, return it to play under its owner’s control.
 Cycling 3 (3, Discard this: Draw a card.)</text>
 </card>
 <card>
@@ -20366,7 +20623,7 @@ Enchanted creature gets +2/+0 and has first strike.
  <name>TBLD Stalking Predators</name>
  <set picURL="/TBLD Stalking Predators.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>4G</manacost>
 		<cmc>5</cmc>
  <type>Enchantment - Aura </type>
@@ -20879,9 +21136,10 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Norns Disdain</name>
  <set picURL="/TBLD Norns Disdain.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>CHANGED NEW</tags>
  <manacost>H/W</manacost>
 		<cmc>1</cmc>
- <type>Sorcery</type>
+ <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
  <text>(H/W can be paid with either W or 2 life.)
 Target player sacrifices an enchantment.</text>
@@ -20901,7 +21159,7 @@ Target player sacrifices an enchantment.</text>
  <name>TBLD Lord of the Accursed</name>
  <set picURL="/TBLD Lord of the Accursed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Creature - Zombie </type>
@@ -21054,7 +21312,7 @@ Return target creature card from a graveyard to its owner’s hand.</text>
  <name>TBLD Trumpeting Herd</name>
  <set picURL="/TBLD Trumpeting Herd.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>2GG</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -21294,7 +21552,7 @@ B, Exile three cards from your graveyard: This gains indestructible this turn.</
  <name>TBLD Mischief Steward</name>
  <set picURL="/TBLD Mischief Steward.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>2B</manacost>
 		<cmc>3</cmc>
  <type>Creature - Rat Warrior </type>
@@ -21945,7 +22203,7 @@ When this has twenty or more charge counters on it, you win the game.</text>
  <name>TBLD Aetherspec Goggles</name>
  <set picURL="/TBLD Aetherspec Goggles.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>2</manacost>
 		<cmc>2</cmc>
  <type>Artifact</type>
@@ -22195,14 +22453,14 @@ Battalion — Whenever this and at least two other creatures attack, this deals 
  <set picURL="/TBLD Kyra Vengeful Wraith.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
  <tags></tags>
- <manacost>3B</manacost>
-		<cmc>4</cmc>
+ <manacost>2B</manacost>
+		<cmc>3</cmc>
  <type>Restricted Creature - Spirit </type>
- <pt>3/1</pt>
+ <pt>2/1</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
 Flying
-Whenever this attacks, you may return target creature card from your graveyard to play tapped and attacking. If you do, lose life equal to its mana value.</text>
+Whenever this attacks, you may return target Spirit card from your graveyard to play tapped and attacking. If you do, lose life equal to its mana value.</text>
 </card>
 <card>
  <name>TBLD Rokna the Primordial</name>
@@ -22223,13 +22481,13 @@ Sacrifice three creatures: Return this from your graveyard to play.</text>
  <set picURL="/TBLD Roba the Hood.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
  <tags></tags>
- <manacost>2G</manacost>
-		<cmc>3</cmc>
+ <manacost>1G</manacost>
+		<cmc>2</cmc>
  <type>Restricted Flash Creature - Snake Rogue  </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-Ward 2, dauntless (This can’t be blocked by creatures with power 2 or less.)
+Dauntless (This can’t be blocked by creatures with power 2 or less.)
 When this enters play, untap target creature.
 You may cast creature spells at flash speed.</text>
 </card>
@@ -22252,28 +22510,29 @@ As long as this dealt damage to a player this turn, if a land you control is tap
  <name>TBLD Domri Rade Wild Anarch</name>
  <set picURL="/TBLD Domri Rade Wild Anarch.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>2RG</manacost>
 		<cmc>4</cmc>
  <type>Restricted Creature - Human Berserker </type>
  <pt>3/2</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-Whenever another creature enters play under your control, it fights target creature you don’t control.</text>
+Riot (This enters play with your choice of a +1/+1 counter or haste.)
+When this enters play, another creature you control chosen at random fights a creature target player controls chosen at random.</text>
 </card>
 <card>
  <name>TBLD Speaker Zegana Utopian</name>
  <set picURL="/TBLD Speaker Zegana Utopian.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
- <tags>PLUSCOUNTER</tags>
+ <tags>CHANGED NEW PLUSCOUNTER</tags>
  <manacost>GU</manacost>
 		<cmc>2</cmc>
  <type>Restricted Creature - Merfolk Wizard </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-2GU: Put a +1/+1 counter on target creature. Can’t be activated at flash speed.
-If one or more +1/+1 counters would be put on another creature you control, put that many counters on this as well.</text>
+ <text>Captain
+Other nontoken creatures you control enter play with an additional +1/+1 counter.
+G/UG/U: Move a +1/+1 counter from target creature you control onto another target creature. Can’t be activated at flash speed.</text>
 </card>
 <card>
  <name>TBLD Ral Zarek Explosive Intellect</name>
@@ -22302,7 +22561,7 @@ As long as this has attacked this turn, sorcery cards in your graveyard have fla
 This spell can’t be countered.
 Flying
 Whenever you cast a sorcery spell, draw a card.
-Whenever you draw a card, this deals 1 damage to any target.</text>
+At each end step, this deals damage to any target equal to the number of cards you’ve drawn this turn.</text>
 </card>
 <card>
  <name>TBLD Avacyn Hope of Innistrad</name>
@@ -22323,7 +22582,7 @@ W: All damage that would be dealt to target creature or player this turn is deal
  <name>TBLD Ob Nixilis the Hateful</name>
  <set picURL="/TBLD Ob Nixilis the Hateful.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>RAMP</tags>
+ <tags>CHANGED NEW RAMP</tags>
  <manacost>2BB</manacost>
 		<cmc>4</cmc>
  <type>Restricted Creature - Demon </type>
@@ -22331,7 +22590,7 @@ W: All damage that would be dealt to target creature or player this turn is deal
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
 Flying
-Whenever this enters play or attacks, lose 2 life, then search your library for a Swamp card and put it into play tapped.</text>
+Whenever this enters play or attacks, lose 3 life, then search your library for a Swamp card and put it into play tapped.</text>
 </card>
 <card>
  <name>TBLD Ligura Godstream Ancient</name>
@@ -22351,28 +22610,28 @@ UUU: Return this to its owner’s hand.</text>
  <name>TBLD Nissa Revane Animist</name>
  <set picURL="/TBLD Nissa Revane Animist.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>PLUSCOUNTER</tags>
+ <tags>CHANGED NEW PLUSCOUNTER</tags>
  <manacost>1GG</manacost>
 		<cmc>3</cmc>
  <type>Restricted Creature - Elf Shaman </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-Landfall — Whenever a land enters play under your control, put three +1/+1 counters on up to one target land. It becomes a 0/0 Elemental creature with haste in addition to its other types.</text>
+Landfall — Whenever a land enters play under your control, put two +1/+1 counters on up to one target land. It becomes a 0/0 Elemental creature with haste in addition to its other types.</text>
 </card>
 <card>
  <name>TBLD Jarad Undercity Lich</name>
  <set picURL="/TBLD Jarad Undercity Lich.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>3BBGG</manacost>
 		<cmc>7</cmc>
  <type>Restricted Creature - Zombie Elf Wizard </type>
  <pt>7/4</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
-Spirited (When this enters play, you may activate one of its activated abilities without paying its cost.)
-5BG, Exile four cards from your graveyard: Return target creature card from your graveyard to play.</text>
+When this enters play, mill seven cards.
+At your upkeep, choose a card at random in your graveyard. If it’s a creature card, put it into play. Otherwise, put it into your hand.</text>
 </card>
 <card>
  <name>TBLD Vraska Assassin Unseen</name>
@@ -22393,15 +22652,15 @@ Whenever another creature with deathtouch you control deals damage to a player, 
  <name>TBLD Mighty Borborygmos</name>
  <set picURL="/TBLD Mighty Borborygmos.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
- <manacost>1RRGG</manacost>
-		<cmc>5</cmc>
+ <tags>CHANGED NEW</tags>
+ <manacost>3RRGG</manacost>
+		<cmc>7</cmc>
  <type>Restricted Creature - Giant Berserker </type>
  <pt>5/7</pt>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
 Reach
-When this enters play, reveal the top three cards of your library. Put each creature card from among them into your hand and the rest into your graveyard.</text>
+When this enters play, reveal the top card of your library. If it’s a creature or land card, put it into your hand. If you do, you may repeat this process.</text>
 </card>
 <card>
  <name>TBLD Lazav Maestro of Whispers</name>
@@ -22415,7 +22674,7 @@ When this enters play, reveal the top three cards of your library. Put each crea
  <tablerow>2</tablerow>
  <text>Captain
 Whenever you attack, target creature with power 2 or less can’t be blocked this turn.
-2UB: Exile target creature card from a graveyard. This becomes a copy of that card this turn.</text>
+3UB: Choose a creature card in a graveyard. This becomes a copy of that card this turn.</text>
 </card>
 <card>
  <name>TBLD Circo Sinister Lobotomist</name>
@@ -22494,7 +22753,7 @@ Whenever this enters play or attacks, it deals 1 damage to each creature.</text>
  <tablerow>2</tablerow>
  <text>Captain (At start of game, you may exile a card from your hand to put your captain into your hand from your sideboard.)
 Whenever a creature you control deals combat damage to a player, draw a card.
-1U: Scry 1.</text>
+1U, T: Scry X, where X is the number of Merfolk you control.</text>
 </card>
 <card>
  <name>TBLD Indelible Hydra</name>
@@ -22869,12 +23128,15 @@ picURLSt="">TBLD</set>
  <name>TBLD Gamblers Bauble</name>
  <set picURL="/TBLD Gamblers Bauble.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
+ <tags>CHANGED NEW</tags>
  <manacost>1</manacost>
 		<cmc>1</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>T, Sacrifice this: Draw a card and gain 2 life.
-T, Sacrifice this: Flip a coin. If you win the flip, draw two cards and gain 4 life.</text>
+ <text>T, Sacrifice this: Choose one —
+• Draw a card and gain 1 life.
+• Flip a coin. If you win the flip, draw two cards and gain 2 life.
+• Flip two coins. If you win both flips, draw three cards and gain 3 life.</text>
 </card>
 <card>
  <name>TBLD Commanders Bauble</name>
@@ -23098,7 +23360,7 @@ Madness 1BB (If you discard this, discard it into exile, then cast it for its ma
  <name>TBLD Burning-Rune Demon</name>
  <set picURL="/TBLD Burning-Rune Demon.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>4BB</manacost>
 		<cmc>6</cmc>
  <type>Creature - Demon </type>
@@ -23270,7 +23532,7 @@ Knights you control get +2/+1 this turn.</text>
  <name>TBLD Lilianas Mastery</name>
  <set picURL="/TBLD Lilianas Mastery.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>3BB</manacost>
 		<cmc>5</cmc>
  <type>Enchantment</type>
@@ -23713,12 +23975,34 @@ You may put a creature card from your hand into play. It gains haste. Sacrifice 
  <name>TBLD Deft Disruption</name>
  <set picURL="/TBLD Deft Disruption.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>COUNTERSPELL</tags>
+ <tags>CHANGED NEW COUNTERSPELL</tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
  <tablerow>3</tablerow>
- <text>Counter target spell if its mana value is 2 or less. If an opponent has eight or more cards in their graveyard, counter that spell if its mana value is 4 or less instead.</text>
+ <text>Counter target spell if its mana value is 2 or less. If its controller has eight or more cards in their graveyard, instead counter that spell.</text>
+</card>
+<card>
+ <name>TBLD Potent Denial</name>
+ <set picURL="/TBLD Potent Denial.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>U</color>
+ <tags>ADDED NEW COUNTERSPELL</tags>
+ <manacost>UU</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Counter target spell with mana value 3 or less.</text>
+</card>
+<card>
+ <name>TBLD Helping Hand</name>
+ <set picURL="/TBLD Helping Hand.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>W</color>
+ <tags>ADDED NEW PLUSCOUNTER</tags>
+ <manacost>1W</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Put two +1/+1 counters on target creature. It gains lifelink this turn.</text>
 </card>
 <card>
  <name>TBLD Suffocating Fumes</name>

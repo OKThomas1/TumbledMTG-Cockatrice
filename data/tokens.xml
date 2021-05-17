@@ -1297,6 +1297,17 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
         </card>
 
         <card>
+            <name>TBLD Elemental2</name>
+            <set picURL="/TBLD Elemental2.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Elemental</type>
+            <pt>*/*</pt>
+            <tablerow>2</tablerow>
+            <text>This creature’s power and toughness are each equal to the number of creatures you control.</text>
+            <token>1</token>
+            <reverse-related>TBLD Purphoross Intervention</reverse-related>
+        </card>
+        <card>
             <name>TBLD Elemental</name>
             <set picURL="/TBLD Elemental.full.jpg">TBLDtoken</set>         
             <color>MGW</color>
@@ -2223,7 +2234,7 @@ Equip 2</text>
             <name>TBLD Clue8</name>
             <set picURL="/TBLD Clue8.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2234,7 +2245,7 @@ Equip 2</text>
             <name>TBLD Clue7</name>
             <set picURL="/TBLD Clue7.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2245,7 +2256,7 @@ Equip 2</text>
             <name>TBLD Clue6</name>
             <set picURL="/TBLD Clue6.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2256,7 +2267,7 @@ Equip 2</text>
             <name>TBLD Clue5</name>
             <set picURL="/TBLD Clue5.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2268,7 +2279,7 @@ Equip 2</text>
             <name>TBLD Clue4</name>
             <set picURL="/TBLD Clue4.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2280,7 +2291,7 @@ Equip 2</text>
             <name>TBLD Clue3</name>
             <set picURL="/TBLD Clue3.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2291,7 +2302,7 @@ Equip 2</text>
             <name>TBLD Clue2</name>
             <set picURL="/TBLD Clue2.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2302,7 +2313,7 @@ Equip 2</text>
             <name>TBLD Clue</name>
             <set picURL="/TBLD Clue.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Artifact — Clue</type>
+            <type>Token Enchantment — Clue</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text></text>
