@@ -9501,8 +9501,8 @@ T: Add G.
  <set picURL="/TBLD Dustrier.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
  <tags>ADDED NEW UTILITY</tags>
- <manacost>1</manacost>
-		<cmc>1</cmc>
+ <manacost></manacost>
+		<cmc>0</cmc>
  <type>Land Creature - Desert Horse </type>
  <tablerow>0</tablerow>
  <text>(This isn’t a spell.)
