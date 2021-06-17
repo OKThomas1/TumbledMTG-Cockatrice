@@ -193,7 +193,7 @@ Sacrifice a creature: Put a +1/+1 counter on this.</text>
  <name>TBLD Stitchers Lackey</name>
  <set picURL="/TBLD Stitchers Lackey.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Homunculus </type>
@@ -569,14 +569,13 @@ B/G, Discard a card: Put two +1/+1 counters on this. Regenerate this.</text>
  <name>TBLD Prodigious Hellcrab</name>
  <set picURL="/TBLD Prodigious Hellcrab.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost>6U</manacost>
 		<cmc>7</cmc>
  <type>Creature - Crab </type>
  <pt>6/7</pt>
  <tablerow>2</tablerow>
- <text>When this enters play, each player mills five cards.
-When this dies, draw two cards.
+ <text>When this enters play, each player mills seven cards.
 Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
@@ -683,7 +682,7 @@ Addendum — If you cast this during your main phase, put a +1/+1 counter on eac
  <name>TBLD Shared Nightmare</name>
  <set picURL="/TBLD Shared Nightmare.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW REANIMATE</tags>
+ <tags>REANIMATE</tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -1378,7 +1377,7 @@ Target player shuffles their graveyard into their library, then takes an extra t
  <name>TBLD Clubs_Spades</name>
  <set picURL="/TBLD Clubs_Spades.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>ADDED NEW REANIMATE</tags>
+ <tags>REANIMATE</tags>
  <manacost>2G // 1B</manacost>
 		<cmc>5</cmc>
  <type>Flash Sorcery // Sorcery</type>
@@ -2159,7 +2158,7 @@ Storm (When you cast this, copy it for each spell cast before it this turn.)</te
  <name>TBLD Psychic Surgery</name>
  <set picURL="/TBLD Psychic Surgery.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>U</manacost>
 		<cmc>1</cmc>
  <type>Enchantment</type>
@@ -2272,7 +2271,7 @@ Whenever you cast a noncreature spell, this gains lifelink this turn.</text>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Return target creature card from your graveyard to play with a -1/-1 counter.
-Overload 6WB (You may cast this for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
+Overload 7WB (You may cast this for its overload cost. If you do, change its text by replacing all instances of “target” with “each”.)</text>
 </card>
 <card>
  <name>TBLD Hat Trick</name>
@@ -3162,12 +3161,14 @@ T: Add one mana of any color.</text>
  <name>TBLD Winding Waterway</name>
  <set picURL="/TBLD Winding Waterway.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Plains or Island card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Plains or Island card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Savanna Mesa</name>
@@ -3209,38 +3210,40 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Empty Hamlet</name>
  <set picURL="/TBLD Empty Hamlet.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1GW. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay GW. When you do, search your library for a card and put it on top.
 T: Add G or W.</text>
 </card>
 <card>
  <name>TBLD Arbor Loft</name>
  <set picURL="/TBLD Arbor Loft.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Forest Plains </type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add G or W.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>(T: Add G or W.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Arcane Sanctum</name>
  <set picURL="/TBLD Arcane Sanctum.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWUB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add W, U, or B.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
@@ -3259,14 +3262,14 @@ T: Add C.</text>
  <name>TBLD Azorius Chancery</name>
  <set picURL="/TBLD Azorius Chancery.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add WU.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add WU.</text>
 </card>
 <card>
  <name>TBLD Wartorn Field</name>
@@ -3309,13 +3312,14 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Ashen Stronghold</name>
  <set picURL="/TBLD Ashen Stronghold.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add B or R.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>(T: Add B or R.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Bloods-Soaked Dungeon</name>
@@ -3333,14 +3337,14 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Boros Garrison</name>
  <set picURL="/TBLD Boros Garrison.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add RW.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add RW.</text>
 </card>
 <card>
  <name>TBLD Briar Scarp</name>
@@ -3433,13 +3437,13 @@ T, Pay 2 life: Add R, B or G.
  <name>TBLD Ceremonial Boneyard</name>
  <set picURL="/TBLD Ceremonial Boneyard.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1UB. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay UB. When you do, search your library for a card and put it on top.
 T: Add U or B.</text>
 </card>
 <card>
@@ -3457,13 +3461,14 @@ T: Add U or B.</text>
  <name>TBLD Classy Theater</name>
  <set picURL="/TBLD Classy Theater.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add R or W.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
+T: Add R or W.</text>
 </card>
 <card>
  <name>TBLD Clockwork Portal</name>
@@ -3493,13 +3498,13 @@ T, Pay 2 life: Add U, R, or W.
  <name>TBLD Spooky Villa</name>
  <set picURL="/TBLD Spooky Villa.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+When this enters play, you may pay WU. When you do, search your library for a card and put it on top.
 T: Add W or U.</text>
 </card>
 <card>
@@ -3519,14 +3524,14 @@ T: Add W or B.
  <name>TBLD Bronze Bell Shrine</name>
  <set picURL="/TBLD Bronze Bell Shrine.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Mountain Plains </type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
-T: Add R or W.</text>
+ <text>(T: Add R or W.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Conductor Array</name>
@@ -3570,26 +3575,27 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Fungus Gorge</name>
  <set picURL="/TBLD Fungus Gorge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
 T: Add B or G.</text>
 </card>
 <card>
  <name>TBLD Hermit Shack</name>
  <set picURL="/TBLD Hermit Shack.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add B or G.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>(T: Add B or G.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Corsairs Cove</name>
@@ -3607,13 +3613,14 @@ T, Pay 2 life: Add B, U, or R.
  <name>TBLD Crumbling Necropolis</name>
  <set picURL="/TBLD Crumbling Necropolis.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUBR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add U, B, or R.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
@@ -3691,26 +3698,26 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Deserted Fairground</name>
  <set picURL="/TBLD Deserted Fairground.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1BR. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay BR. When you do, search your library for a card and put it on top.
 T: Add B or R.</text>
 </card>
 <card>
  <name>TBLD Cemetery Hillock</name>
  <set picURL="/TBLD Cemetery Hillock.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
 T: Add B or R.</text>
 </card>
 <card>
@@ -3729,14 +3736,14 @@ T, Pay 2 life: Add W, G, or U.
  <name>TBLD Dimir Aqueduct</name>
  <set picURL="/TBLD Dimir Aqueduct.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add UB.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add UB.</text>
 </card>
 <card>
  <name>TBLD Dreadship Reef</name>
@@ -3755,12 +3762,14 @@ T, Remove X storage counters from this: Add X mana in any combination of U and/o
  <name>TBLD Dreamy Fen</name>
  <set picURL="/TBLD Dreamy Fen.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for an Island or Swamp card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for an Island or Swamp card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Embernut Orchard</name>
@@ -3778,13 +3787,13 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Exotic Habitat</name>
  <set picURL="/TBLD Exotic Habitat.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
- <tags></tags>
+ <tags>CHANGED ADDED</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1GU. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay GU. When you do, search your library for a card and put it on top.
 T: Add U or G.</text>
 </card>
 <card>
@@ -3803,12 +3812,14 @@ T: Add U or G.</text>
  <name>TBLD Foreboding Entrance</name>
  <set picURL="/TBLD Foreboding Entrance.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Swamp or Mountain card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Swamp or Mountain card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Forest1</name>
@@ -4615,13 +4626,14 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Frontier Bivouac</name>
  <set picURL="/TBLD Frontier Bivouac.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGUR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add U, R, or G.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
@@ -4641,12 +4653,14 @@ T, Remove X storage counters from this: Add X mana in any combination of R and/o
  <name>TBLD Garden Path</name>
  <set picURL="/TBLD Garden Path.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Forest or Plains card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Forest or Plains card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Root of Origin</name>
@@ -4676,14 +4690,14 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Golgari Rot Farm</name>
  <set picURL="/TBLD Golgari Rot Farm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add BG.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add BG.</text>
 </card>
 <card>
  <name>TBLD Imperial Coliseum</name>
@@ -4701,14 +4715,14 @@ T, Pay 1 life: Add one mana of any color.</text>
  <name>TBLD Gruul Turf</name>
  <set picURL="/TBLD Gruul Turf.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add RG.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add RG.</text>
 </card>
 <card>
  <name>TBLD Sparkling Bay</name>
@@ -4717,11 +4731,11 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Plains Island </type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1WU. When you do, search your library for a card and put it on top.
-T: Add W or U.</text>
+ <text>(T: Add W or U.)
+When this enters play, it doesn't untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Ice Float</name>
@@ -5542,26 +5556,27 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Izzet Boilerworks</name>
  <set picURL="/TBLD Izzet Boilerworks.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add RG.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add RG.</text>
 </card>
 <card>
  <name>TBLD Jungle Shrine</name>
  <set picURL="/TBLD Jungle Shrine.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRGW</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add R, G, or W.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
@@ -5605,13 +5620,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Timeworn Valley</name>
  <set picURL="/TBLD Timeworn Valley.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
 T: Add R or G.</text>
 </card>
 <card>
@@ -5652,13 +5667,14 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Oceanic Trench</name>
  <set picURL="/TBLD Oceanic Trench.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add U or R.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>This enters play tapped.
+When this enters play, you may pay UR. When you do, search your library for a card and put it on top.
+T: Add U or R.</text>
 </card>
 <card>
  <name>TBLD Moat of Thorns</name>
@@ -6520,53 +6536,56 @@ T, Remove X storage counters from this: Add X mana in any combination of B and/o
  <name>TBLD Mystic Monastery</name>
  <set picURL="/TBLD Mystic Monastery.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MURW</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add R, W, or U.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
  <name>TBLD Nomad Outpost</name>
  <set picURL="/TBLD Nomad Outpost.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRWB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add W, B, or R.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
  <name>TBLD Opulent Palace</name>
  <set picURL="/TBLD Opulent Palace.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBGU</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add G, U, or B.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
  <name>TBLD Orzhov Basilica</name>
  <set picURL="/TBLD Orzhov Basilica.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add WB.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add WB.</text>
 </card>
 <card>
  <name>TBLD Overgrown Crypt</name>
@@ -6584,13 +6603,13 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Salt Mire</name>
  <set picURL="/TBLD Salt Mire.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+ <text>This enters play tapped unless you control three or more other lands.
+When this enters play, gain 1 life.
 T: Add W or B.</text>
 </card>
 <card>
@@ -7499,13 +7518,13 @@ T: Add C.
  <name>TBLD Quiet Space</name>
  <set picURL="/TBLD Quiet Space.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
 T: Add G or W.</text>
 </card>
 <card>
@@ -7524,14 +7543,14 @@ T: Add G or W.</text>
  <name>TBLD Rakdos Carnarium</name>
  <set picURL="/TBLD Rakdos Carnarium.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add BR.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add BR.</text>
 </card>
 <card>
  <name>TBLD Ramshackle Windmill</name>
@@ -7549,13 +7568,13 @@ Cycling—Pay 3 life. (Pay 3 life, Discard this: Draw a card.)</text>
  <name>TBLD Ravine Passage</name>
  <set picURL="/TBLD Ravine Passage.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1RW. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay RW. When you do, search your library for a card and put it on top.
 T: Add R or W.</text>
 </card>
 <card>
@@ -7631,11 +7650,11 @@ T, Remove X storage counters from this: Add X mana in any combination of W and/o
  <color>MRG</color>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Mountain Forest </type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add R or G.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>(T: Add R or G.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Moonlit Dunes</name>
@@ -7666,50 +7685,55 @@ T, Remove X storage counters from this: Add X mana in any combination of G and/o
  <name>TBLD Sandsteppe Citadel</name>
  <set picURL="/TBLD Sandsteppe Citadel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWBG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 2, T: Add BGW.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
  <name>TBLD Savage Lands</name>
  <set picURL="/TBLD Savage Lands.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBRG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add B, G, or W.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
  <name>TBLD Scenic Landscape</name>
  <set picURL="/TBLD Scenic Landscape.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWR</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Mountain or Plains card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Mountain or Plains card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Seaside Citadel</name>
  <set picURL="/TBLD Seaside Citadel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGWU</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 T: Add G, W, or U.
-When you cycle this or it enters play, gain 3 life.
+When this enters play, lose 1 life. Then look at the top two cards of your library and exile one of them.
 Cycling 3</text>
 </card>
 <card>
@@ -7731,25 +7755,27 @@ When you cycle this, gain 1 life.</text>
  <name>TBLD Selesnya Sanctuary</name>
  <set picURL="/TBLD Selesnya Sanctuary.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add GW.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add GW.</text>
 </card>
 <card>
  <name>TBLD Withering Woods</name>
  <set picURL="/TBLD Withering Woods.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Swamp or Forest card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Swamp or Forest card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Shimmering Grotto</name>
@@ -7767,51 +7793,53 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Simic Growth Chamber</name>
  <set picURL="/TBLD Simic Growth Chamber.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
 When this enters play, return a land you control to its owner’s hand.
-T: Add GU.
-Cycling 2 (2, Discard this: Draw a card.)</text>
+T: Add GU.</text>
 </card>
 <card>
  <name>TBLD Spanning Swale</name>
  <set picURL="/TBLD Spanning Swale.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Plains or Swamp card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Plains or Swamp card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Vivid Ridge</name>
  <set picURL="/TBLD Vivid Ridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Island Mountain </type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1UR. When you do, search your library for a card and put it on top.
-T: Add U or R.</text>
+ <text>(T: Add U or R.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Spoiled Pasture</name>
  <set picURL="/TBLD Spoiled Pasture.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Plains Swamp </type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1WB. When you do, search your library for a card and put it on top.
-T: Add W or B.</text>
+ <text>(T: Add W or B.)
+When this enters play, it doesn't untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Sacred Standing Stones</name>
@@ -7829,13 +7857,13 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Majestic Vale</name>
  <set picURL="/TBLD Majestic Vale.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1RG. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay RG. When you do, search your library for a card and put it on top.
 T: Add R or G.</text>
 </card>
 <card>
@@ -8667,39 +8695,30 @@ When you cycle this, gain 1 life.</text>
  <text></text>
 </card>
 <card>
- <name>TBLD Sweltering Spill</name>
- <set picURL="/TBLD Sweltering Spill.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>MUR</color>
- <manacost></manacost>
-		<cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for an Island or Mountain card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
-</card>
-<card>
  <name>TBLD Dusty Oasis</name>
  <set picURL="/TBLD Dusty Oasis.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUR</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
 T: Add U or R.</text>
 </card>
 <card>
  <name>TBLD Tangled Trail</name>
  <set picURL="/TBLD Tangled Trail.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Mountain or Forest card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Mountain or Forest card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Tectonic Edge</name>
@@ -8861,12 +8880,14 @@ When this enters play, sacrifice it unless you pay 3 life. (You may tap it for m
  <name>TBLD Tropic Channel</name>
  <set picURL="/TBLD Tropic Channel.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>T, Sacrifice this: Search your library for a Forest or Island card and put it into play tapped. This ability can’t be countered.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>This enters play tapped.
+T, Sacrifice this: Search your library for a Forest or Island card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Coruscating Cityscape</name>
@@ -8908,13 +8929,14 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Twilit Dojo</name>
  <set picURL="/TBLD Twilit Dojo.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add U or B.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>This enters play tapped unless you control three or more other lands.
+When this enters play, gain 1 life.
+T: Add U or B.</text>
 </card>
 <card>
  <name>TBLD Unclaimed Territory</name>
@@ -8944,14 +8966,14 @@ T, Pay 2 life: Add G, U, or R.
  <name>TBLD Chamber of Secrets</name>
  <set picURL="/TBLD Chamber of Secrets.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUB</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Island Swamp </type>
  <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
-T: Add U or B.</text>
+ <text>(T: Add U or B.)
+When this enters play, it doesn’t untap during your next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Unstable Geyser</name>
@@ -8982,26 +9004,40 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Vibrant Seabed</name>
  <set picURL="/TBLD Vibrant Seabed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
- <tags></tags>
+ <tags>CHANGED NEW </tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>This enters play tapped unless you control at least three other lands.
+When this enters play, gain 1 life.
+T: Add G or U.</text>
+</card>
+<card>
+ <name>TBLD Sweltering Spill</name>
+ <set picURL="/TBLD Sweltering Spill.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MUR</color>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
  <text>This enters play tapped.
-When this enters play, gain 1 life. Then look at the top two cards of your library and exile one of them.
-T: Add G or U.</text>
+T, Sacrifice this: Search your library for an Island or Mountain card and put it into play. This ability can’t be countered.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Elder Pines</name>
  <set picURL="/TBLD Elder Pines.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MUG</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
- <type>Land</type>
+ <type>Land - Forest Island </type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add G or U.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>(T: Add G or U.)
+When this enters play, it doesn’t untap during its next untap step.
+2, Discard this: Untap target permanent.</text>
 </card>
 <card>
  <name>TBLD Volcanic Depths</name>
@@ -9066,37 +9102,51 @@ When this enters play, target opponent may exile a card from their hand. If they
  <name>TBLD Shrouded Square</name>
  <set picURL="/TBLD Shrouded Square.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWB</color>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add W or B.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>This enters play tapped.
+When this enters play, you may pay WB. When you do, search your library for a card and put it on top.
+T: Add W or B.</text>
 </card>
 <card>
  <name>TBLD Expansive Tundra</name>
  <set picURL="/TBLD Expansive Tundra.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
+ <tags>CHANGED NEW </tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>.This enters play tapped unless you control three or more other lands.
-T: Add W or U.
-2, Discard this: Tap or untap target permanent.</text>
+ <text>This enters play tapped unless you control three or more other lands.
+When this enters play, gain 1 life.
+T: Add W or U.</text>
+</card>
+<card>
+ <name>TBLD Summoned Stairway</name>
+ <set picURL="/TBLD Summoned Stairway.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>HWUBRG</color>
+ <tags>ADDED NEW </tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Land</type>
+ <tablerow>0</tablerow>
+ <text>T, Sacrifice this: Search your library for a land card with a basic land type and put it into play tapped. This ability can’t be countered.
+Cycling 1 (1, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Root Cavity</name>
  <set picURL="/TBLD Root Cavity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags></tags>
+ <tags>CHANGING NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
  <tablerow>0</tablerow>
- <text>When this enters play, it doesn’t untap during your next untap step.
-When this enters play, you may pay 1BG. When you do, search your library for a card and put it on top.
+ <text>This enters play tapped.
+When this enters play, you may pay BG. When you do, search your library for a card and put it on top.
 T: Add B or G.</text>
 </card>
 <card>
@@ -9500,7 +9550,7 @@ T: Add G.
  <name>TBLD Dustrier</name>
  <set picURL="/TBLD Dustrier.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW UTILITY</tags>
+ <tags>UTILITY</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land Creature - Desert Horse </type>
@@ -9526,7 +9576,7 @@ When this dies, your opponents vote to elect either gas or sand. If gas is elect
  <name>TBLD Breakbot</name>
  <set picURL="/TBLD Breakbot.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
- <tags>CHANGED NEW PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>RW</manacost>
 		<cmc>2</cmc>
  <type>Artifact Creature - Construct </type>
@@ -9973,7 +10023,7 @@ When this enters play, it explores. (Reveal the top card of your library. Put it
  <name>TBLD Nullpriest of Oblivion</name>
  <set picURL="/TBLD Nullpriest of Oblivion.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW REANIMATE</tags>
+ <tags>REANIMATE</tags>
  <manacost>1B</manacost>
 		<cmc>2</cmc>
  <type>Creature - Vampire Cleric </type>
@@ -10023,7 +10073,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Prolific Necromancer</name>
  <set picURL="/TBLD Prolific Necromancer.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>B</manacost>
 		<cmc>1</cmc>
  <type>Creature - Human Wizard </type>
@@ -12453,11 +12503,12 @@ When this enters play, destroy up to one target Merfolk.</text>
  <name>TBLD Breakthrough</name>
  <set picURL="/TBLD Breakthrough.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
+ <tags>CHANGED ADDED</tags>
  <manacost>XU</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Draw five cards, then choose X cards in your hand and discard the rest.</text>
+ <text>Draw four cards, then choose X cards in your hand and discard the rest.</text>
 </card>
 <card>
  <name>TBLD Braingeyser</name>
@@ -13424,7 +13475,7 @@ Whenever you cast a creature spell, you may return this to its owner’s hand.</
  <name>TBLD Frontier Rover</name>
  <set picURL="/TBLD Frontier Rover.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW RAMP PLUSCOUNTER</tags>
+ <tags>RAMP PLUSCOUNTER</tags>
  <manacost>2G</manacost>
 		<cmc>3</cmc>
  <type>Creature - Orc Scout Warrior </type>
@@ -14316,7 +14367,7 @@ Evoke 1GW (You may cast this for its evoke cost. If you do, its sacrificed when 
  <name>TBLD Eureka</name>
  <set picURL="/TBLD Eureka.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>2GG</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -14836,10 +14887,11 @@ All creatures get -1/-1 this turn. If a creature would die this turn, exile it i
  <name>TBLD Bitterwhelk</name>
  <set picURL="/TBLD Bitterwhelk.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
+ <tags>CHANGED ADDED</tags>
  <manacost>2BB</manacost>
 		<cmc>4</cmc>
  <type>Enchantment Creature - Elemental </type>
- <pt>2/2</pt>
+ <pt>1/3</pt>
  <tablerow>2</tablerow>
  <text>Deathtouch
 When this leaves play, target player discards two cards.
@@ -15567,7 +15619,7 @@ When you cycle this, target player discards a card.</text>
  <name>TBLD Ancient Seal</name>
  <set picURL="/TBLD Ancient Seal.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>3</manacost>
 		<cmc>3</cmc>
  <type>Artifact</type>
@@ -16040,7 +16092,7 @@ T: Add one mana of any color. Shuffle this into your library.</text>
  <name>TBLD Capricious Idol</name>
  <set picURL="/TBLD Capricious Idol.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>CHANGED NEW RAMP</tags>
+ <tags>RAMP</tags>
  <manacost>1</manacost>
 		<cmc>1</cmc>
  <type>Artifact</type>
@@ -17270,6 +17322,29 @@ Cycling—Tap three untapped creatures you control.
 When you cycle this, create a 1/1 green Saproling token.</text>
 </card>
 <card>
+ <name>TBLD Hunting Pack</name>
+ <set picURL="/TBLD Hunting Pack.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>G</color>
+ <tags>ADDED NEW</tags>
+ <manacost>5GG</manacost>
+		<cmc>7</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Create a 4/4 green Beast token.
+Storm (When you cast this, copy it for each spell cast before it this turn.)</text>
+</card>
+<card>
+ <name>TBLD Blessed Respite</name>
+ <set picURL="/TBLD Blessed Respite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>G</color>
+ <tags>ADDED NEW</tags>
+ <manacost>1G</manacost>
+		<cmc>2</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player shuffles their graveyard into their library. Prevent all combat damage that would be dealt this turn.</text>
+</card>
+<card>
  <name>TBLD Spiral into Madness</name>
  <set picURL="/TBLD Spiral into Madness.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
@@ -17848,7 +17923,7 @@ Untap this. Prevent all combat damage this would deal this turn. This gains hexp
  <name>TBLD Greenweald Advocate</name>
  <set picURL="/TBLD Greenweald Advocate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW RAMP</tags>
+ <tags>RAMP</tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Creature - Nymph </type>
@@ -17993,7 +18068,7 @@ Suspend 3—2W (Rather than cast this from your hand, you may pay 2W and exile i
  <name>TBLD Lyxchan Seer</name>
  <set picURL="/TBLD Lyxchan Seer.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Snake Shaman </type>
@@ -18097,7 +18172,7 @@ After your postcombat main phase, there is an additional beginning phase. (The b
  <name>TBLD Mage-Eater Spider</name>
  <set picURL="/TBLD Mage-Eater Spider.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Spider </type>
@@ -19197,7 +19272,7 @@ Whenever you draw a card, target creature gets +2/+0 this turn.</text>
  <name>TBLD Devour the Weak</name>
  <set picURL="/TBLD Devour the Weak.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>CHANGED NEW PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER</tags>
  <manacost>1H/GH/G</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
@@ -21263,7 +21338,7 @@ Return target creature card from a graveyard to its owner’s hand.</text>
  <name>TBLD Cleanse with Fire</name>
  <set picURL="/TBLD Cleanse with Fire.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>H/R</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
@@ -21287,7 +21362,7 @@ Rebound (If you cast this from your hand, exile it as it resolves. At your next 
  <name>TBLD Wheel of Fate</name>
  <set picURL="/TBLD Wheel of Fate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
- <tags>CHANGED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Sorcery</type>
@@ -22377,6 +22452,17 @@ T, Remove three charge counters from this: Destroy target permanent.</text>
 You may have this enter play as a copy of any artifact in play, except it has indestructible.</text>
 </card>
 <card>
+ <name>TBLD Sol Talisman</name>
+ <set picURL="/TBLD Sol Talisman.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>C</color>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact</type>
+ <tablerow>1</tablerow>
+ <text>Suspend 3—1 (Rather than cast this from your hand, pay 1 and exile it with three time counters. At your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)
+T: Add CC.</text>
+</card>
+<card>
  <name>TBLD Firemane Avenger</name>
  <set picURL="/TBLD Firemane Avenger.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MRW</color>
@@ -23191,6 +23277,19 @@ Whenever this or another creature enters play from your graveyard, that creature
 When this dies, it deals 1 damage to any target.</text>
 </card>
 <card>
+ <name>TBLD Rakdos Headliner</name>
+ <set picURL="/TBLD Rakdos Headliner.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MBR</color>
+ <tags>ADDED NEW</tags>
+ <manacost>BR</manacost>
+		<cmc>2</cmc>
+ <type>Creature - Devil </type>
+ <pt>3/3</pt>
+ <tablerow>2</tablerow>
+ <text>Haste
+Echo—Discard a card. (At your upkeep, if this came under your control since your last upkeep, sacrifice it unless you pay its echo cost.)</text>
+</card>
+<card>
  <name>TBLD Stormfront Hellkite</name>
  <set picURL="/TBLD Stormfront Hellkite.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>R</color>
@@ -23833,6 +23932,149 @@ T: Add U.
 T, Sacrifice this: Add UU. At your next end step, search your library for a Swamp card, reveal it, and put it into your hand.</text>
 </card>
 <card>
+ <name>TBLD Thornglint Bridge</name>
+ <set picURL="/TBLD Thornglint Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MGW</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add G or W.</text>
+</card>
+<card>
+ <name>TBLD Tanglepool Bridge</name>
+ <set picURL="/TBLD Tanglepool Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MGU</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add G or U.</text>
+</card>
+<card>
+ <name>TBLD Silverbluff Bridge</name>
+ <set picURL="/TBLD Silverbluff Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MUR</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add U or R.</text>
+</card>
+<card>
+ <name>TBLD Slagwoods Bridge</name>
+ <set picURL="/TBLD Slagwoods Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MRG</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add R or G.</text>
+</card>
+<card>
+ <name>TBLD Rustvale Bridge</name>
+ <set picURL="/TBLD Rustvale Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MRW</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add R or W.</text>
+</card>
+<card>
+ <name>TBLD Silverbluff Bridge</name>
+ <set picURL="/TBLD Silverbluff Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MUR</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add U or R.</text>
+</card>
+<card>
+ <name>TBLD Razortide Bridge</name>
+ <set picURL="/TBLD Razortide Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MWU</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add W or U.</text>
+</card>
+<card>
+ <name>TBLD Darkmoss Bridge</name>
+ <set picURL="/TBLD Darkmoss Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MBG</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add B or G.</text>
+</card>
+<card>
+ <name>TBLD Drossforge Bridge</name>
+ <set picURL="/TBLD Drossforge Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MBR</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add B or R.</text>
+</card>
+<card>
+ <name>TBLD Goldmire Bridge</name>
+ <set picURL="/TBLD Goldmire Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MWB</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add W or B.</text>
+</card>
+<card>
+ <name>TBLD Mistvault Bridge</name>
+ <set picURL="/TBLD Mistvault Bridge.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>MUB</color>
+ <tags>ADDED NEW</tags>
+ <manacost></manacost>
+		<cmc>0</cmc>
+ <type>Artifact Land</type>
+ <tablerow>3</tablerow>
+ <text>This enters play tapped.
+Indestructible
+T: Add U or B.</text>
+</card>
+<card>
  <name>TBLD Blade Projection</name>
  <set picURL="/TBLD Blade Projection.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
@@ -24259,7 +24501,7 @@ Destroy target creature. Its controller loses 2 life.</text>
  <name>TBLD Kings Arsenal</name>
  <set picURL="/TBLD Kings Arsenal.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -24271,7 +24513,7 @@ Destroy target creature. Its controller loses 2 life.</text>
  <name>TBLD Quickwater Brook</name>
  <set picURL="/TBLD Quickwater Brook.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -24283,7 +24525,7 @@ Destroy target creature. Its controller loses 2 life.</text>
  <name>TBLD Abandoned Mansion</name>
  <set picURL="/TBLD Abandoned Mansion.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -24295,7 +24537,7 @@ Destroy target creature. Its controller loses 2 life.</text>
  <name>TBLD Astral Gate</name>
  <set picURL="/TBLD Astral Gate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -24307,7 +24549,7 @@ Destroy target creature. Its controller loses 2 life.</text>
  <name>TBLD Alchemists Workshop</name>
  <set picURL="/TBLD Alchemists Workshop.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>C</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
@@ -24569,7 +24811,7 @@ T: Add R.</text>
  <name>TBLD Zombify</name>
  <set picURL="/TBLD Zombify.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW REANIMATE</tags>
+ <tags>REANIMATE</tags>
  <manacost>3B</manacost>
 		<cmc>4</cmc>
  <type>Sorcery</type>
@@ -24582,7 +24824,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Ever After</name>
  <set picURL="/TBLD Ever After.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW REANIMATE</tags>
+ <tags>REANIMATE</tags>
  <manacost>4BB</manacost>
 		<cmc>6</cmc>
  <type>Sorcery</type>
@@ -24593,7 +24835,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Rise and Shine</name>
  <set picURL="/TBLD Rise and Shine.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>1U</manacost>
 		<cmc>2</cmc>
  <type>Sorcery</type>
@@ -24605,7 +24847,7 @@ Overload 4UU (You may cast this for its overload cost. If you do, change its tex
  <name>TBLD Lucid Dreams</name>
  <set picURL="/TBLD Lucid Dreams.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>U</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>3UU</manacost>
 		<cmc>5</cmc>
  <type>Sorcery</type>
@@ -24780,10 +25022,10 @@ Counter target artifact or enchantment spell.</text>
 Mountaincycling 1 (1, Discard this: Search your library for a Mountain card, reveal it, and put it into your hand.)</text>
 </card>
 <card>
- <name>TBLD Shoddy Reconstruction</name>
- <set picURL="/TBLD Shoddy Reconstruction.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <name>TBLD Night Call</name>
+ <set picURL="/TBLD Night Call.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBR</color>
- <tags>ADDED NEW REANIMATE</tags>
+ <tags>ADDED CHANGED NEW REANIMATE</tags>
  <manacost>BBR</manacost>
 		<cmc>3</cmc>
  <type>Sorcery</type>
