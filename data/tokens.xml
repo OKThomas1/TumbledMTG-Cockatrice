@@ -942,6 +942,7 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
+            <reverse-related>TBLD Orzhov Enforcer</reverse-related>
             <reverse-related>TBLD Tithe Taker</reverse-related>
         </card>
         <card>
@@ -1135,6 +1136,17 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Beast3</name>
+            <set picURL="/TBLD Beast3.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Beast</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Hunting Pack</reverse-related>
+        </card>
+        <card>
             <name>TBLD Beast2</name>
             <set picURL="/TBLD Beast2.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -1296,6 +1308,17 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
             <reverse-related>TBLD Justicars Sentence</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Elemental3</name>
+            <set picURL="/TBLD Elemental3.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Elemental</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Arizoa Tender</reverse-related>
+        </card>
         <card>
             <name>TBLD Elemental2</name>
             <set picURL="/TBLD Elemental2.full.jpg">TBLDtoken</set>         
@@ -2165,15 +2188,15 @@ Equip 2</text>
         </card>
 
         <card>
-            <name>TBLD Inscutable Magistrate Token</name>
-            <set picURL="/TBLD Inscutable Magistrate Token.full.jpg">TBLDtoken</set>         
+            <name>TBLD Inscrutable Magistrate Token</name>
+            <set picURL="/TBLD Inscrutable Magistrate Token.full.jpg">TBLDtoken</set>         
             <color>W</color>
             <type>Token Enchantment</type>
             <pt></pt>
             <tablerow>2</tablerow>
             <text>During your turn, your opponents can’t cast spells or activate abilities unless they’re mana abilities.</text>
             <token>1</token>
-            <reverse-related>TBLD Inscutable Magistrate</reverse-related>
+            <reverse-related>TBLD Inscrutable Magistrate</reverse-related>
         </card>
 
         <card>
