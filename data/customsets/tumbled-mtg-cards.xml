@@ -4928,7 +4928,7 @@ T: Add RG.</text>
  <name>TBLD Sparkling Bay</name>
  <set picURL="/TBLD Sparkling Bay.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MWU</color>
- <tags></tags>
+ <tags>CHANGED NEW</tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land - Plains Island </type>
@@ -9340,7 +9340,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <name>TBLD Root Cavity</name>
  <set picURL="/TBLD Root Cavity.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>CHANGING NEW</tags>
+ <tags></tags>
  <manacost></manacost>
 		<cmc>0</cmc>
  <type>Land</type>
