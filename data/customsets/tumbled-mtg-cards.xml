@@ -5,7 +5,7 @@
 <name>TBLD</name>
 <longname>TumbledMTG</longname>
   <settype>Custom</settype>
-  <releasedate>8-02-2021</releasedate>
+  <releasedate>8-03-2021</releasedate>
 </set>
 </sets>
 <cards>
@@ -1845,11 +1845,12 @@ Choose any number of target creatures you control. For each, create a token with
  <name>TBLD Glimpse of Glory</name>
  <set picURL="/TBLD Glimpse of Glory.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
+ <tags>CHANGED NEW</tags>
  <manacost>W</manacost>
 		<cmc>1</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Whenever you cast a creature spell this turn, draw a card.</text>
+ <text>Whenever you cast a creature spell with mana value 1 or greater this turn, draw a card.</text>
 </card>
 <card>
  <name>TBLD Scout the Terrain</name>
@@ -10673,7 +10674,7 @@ At your end step, you may sacrifice three Zombies. When you do, create a 4/5 blu
  <type>Legendary Creature - Human Wizard </type>
  <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>When this enters play, name two nonland, nonrestricted cards. Each opponent reveals their hand and discards a card of your choice with a chosen name.
+ <text>When this enters play, name two nonland, nonlegendary cards. Each opponent reveals their hand and discards a card of your choice with a chosen name.
 Demoncycling 2 (2, Discard this: Search your library for a Demon card, reveal it, and put it into your hand.)</text>
 </card>
 <card>
@@ -13136,7 +13137,7 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Reflex 3R (You may cast this at flash speed for 3R.)
-Create three 1/1 red Goblin tokens that can't attack or block.</text>
+Create three 1/1 red Goblin tokens that can't attack or block alone.</text>
 </card>
 <card>
  <name>TBLD Ulamogs Crusher</name>
@@ -16044,11 +16045,12 @@ Flashback 5B (You may cast this from your graveyard for its flashback cost. Then
  <set picURL="/TBLD Flurry of Fists.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
  <tags>CHANGED NEW</tags>
- <manacost>2W</manacost>
-		<cmc>3</cmc>
+ <manacost>1W</manacost>
+		<cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Create a 1/1 white Monk creature token with prowess.
+ <text>Reflex 1WW (You may cast this at flash speed for 1WW.)
+Create a 1/1 white Monk token with prowess.
 Storm (When you cast this, copy it for each spell cast before it this turn.)</text>
 </card>
 <card>
@@ -21991,7 +21993,7 @@ B, Exile three cards from your graveyard: This gains indestructible this turn.</
  <type>Creature - Rat Warrior </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>At your upkeep, your opponents vote to elect either flog or rabble. If flog is elected, each opponent discards a card. If rabble is elected, create two 1/1 black Rat tokens. Players with no cards in hand must vote for rabble.</text>
+ <text>At your upkeep, your opponents vote to elect either flog or rabble. If flog is elected, each opponent discards a card. If rabble is elected, create two 1/1 black Rat tokens.</text>
 </card>
 <card>
  <name>TBLD Bazaar Trademage</name>
