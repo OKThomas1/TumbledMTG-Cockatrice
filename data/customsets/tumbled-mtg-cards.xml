@@ -98,7 +98,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
  <name>TBLD Profound Journey</name>
  <set picURL="/TBLD Profound Journey.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>W</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>5WW</manacost>
 		<cmc>7</cmc>
  <type>Sorcery</type>
@@ -110,7 +110,7 @@ Rebound (If you cast this from your hand, exile it as it resolves. At your next 
  <name>TBLD Dead Drop</name>
  <set picURL="/TBLD Dead Drop.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>7B</manacost>
 		<cmc>8</cmc>
  <type>Sorcery</type>
@@ -306,7 +306,7 @@ T, Exile a creature card from your graveyard: Each opponent loses 2 life.</text>
  <name>TBLD Haunted Dead</name>
  <set picURL="/TBLD Haunted Dead.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <tags>ZOMBIE</tags
+ <tags>ZOMBIE</tags>
  <manacost>3B</manacost>
 		<cmc>4</cmc>
  <type>Creature - Zombie </type>
