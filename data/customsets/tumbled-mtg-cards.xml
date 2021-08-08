@@ -1424,7 +1424,7 @@ Whenever another Vampire enters play under your control, target creature gets +1
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Double strike, prowess
-Whenever this deals combat damage to a play, put a +1/+1 counter on this.</text>
+Whenever this deals combat damage to a player, put a +1/+1 counter on this.</text>
 </card>
 <card>
  <name>TBLD Savage Gorger</name>
@@ -18240,7 +18240,7 @@ Experience
 When this has three or more +1/+1 counters, remove them all and transform this.
 --- 
 Menace
-Whenever this attacks and isn’t blocked.
+Whenever this attacks and isn’t blocked, defending player discards a card.
 Whenever an opponent discards a card, they lose 2 life.</text>
 </card>
 <card>
