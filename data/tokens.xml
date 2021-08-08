@@ -163,6 +163,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Mox Crystal</reverse-related>
             <reverse-related>TBLD Wits End</reverse-related>
             <reverse-related>TBLD Mystic Reflection</reverse-related>
+            <reverse-related>TBLD Prophesied Calamity</reverse-related>
         </card>
 
         <card>
@@ -555,6 +556,18 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
+            <name>TBLD Crab</name>
+            <set picURL="/TBLD Crab.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Crab</type>
+            <pt>0/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Hard Evidence</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Merfolk5</name>
             <set picURL="/TBLD Merfolk5.full.jpg">TBLDtoken</set>      
             <color>U</color>
@@ -811,10 +824,25 @@ When this transforms into Hissing Caretaker, untap it.
             <set picURL="/TBLD Brazen Poltergeist.full.jpg">TBLDtoken</set>   
             <color>B</color>
             <type>Creature — Spirit</type>
-            <pt>1/4</pt>
+            <pt>0/4</pt>
             <tablerow>2</tablerow>
-            <text>Whenever this deals damage to a player, they discard a card.
-Whenever a player discards a card, they lose 2 life.</text>
+            <text>Menace
+Whenever this attacks and isn’t blocked.
+Whenever an opponent discards a card, they lose 2 life.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Lord of Lineage</name>
+            <set picURL="/TBLD Lord of Lineage.full.jpg">TBLDtoken</set>   
+            <color>B</color>
+            <type>Creature — Vampire Noble</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+Other Vampires you control get +2/+2.
+T: Create a 2/2 black Vampire token with flying.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1372,6 +1400,19 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Vampire</name>
+            <set picURL="/TBLD Vampire.full.jpg">TBLDtoken</set>   
+            <color>B</color>
+            <type>Creature — Vampire</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Bloodline Keeper</reverse-related>
+            <reverse-related>TBLD Lord of Lineage</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Goblin Warrior</name>
             <set picURL="/TBLD Goblin Warrior.full.jpg">TBLDtoken</set>         
             <color>R</color>
@@ -1381,6 +1422,18 @@ At the end step, sacrifice this.</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Mardu Ascendancy</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Goblin Rogue</name>
+            <set picURL="/TBLD Goblin Rogue.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin Rogue</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Goblin Spymaster</reverse-related>
         </card>
 
         <card>
@@ -1395,6 +1448,42 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Jund Ascendancy</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Goblin11</name>
+            <set picURL="/TBLD Goblin11.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Krenko Tin Street Kingpin</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin10</name>
+            <set picURL="/TBLD Goblin10.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Beetleback Chief</reverse-related>
+            <reverse-related>TBLD Beetleback Chief</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin9</name>
+            <set picURL="/TBLD Goblin9.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Goblin War Party</reverse-related>
+            <reverse-related>TBLD Goblin War Party</reverse-related>
+            <reverse-related>TBLD Goblin War Party</reverse-related>
+        </card>
         <card>
             <name>TBLD Goblin8</name>
             <set picURL="/TBLD Goblin8.full.jpg">TBLDtoken</set>         
@@ -2122,6 +2211,7 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Goblin Monarch</reverse-related>
             <reverse-related>TBLD Bazaar of Urshad</reverse-related>
             <reverse-related>TBLD Bazaar of Urshad</reverse-related>
             <reverse-related>TBLD Bazaar of Urshad</reverse-related>
@@ -2265,6 +2355,17 @@ Equip 2</text>
             <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Clue9</name>
+            <set picURL="/TBLD Clue9.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Enchantment — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Hard Evidence</reverse-related>
+        </card>
         <card>
             <name>TBLD Clue8</name>
             <set picURL="/TBLD Clue8.full.jpg">TBLDtoken</set>         
