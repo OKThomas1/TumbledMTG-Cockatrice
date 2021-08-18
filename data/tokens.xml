@@ -335,6 +335,17 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
+            <name>TBLD Zombie14</name>
+            <set picURL="/TBLD Zombie14.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Zombie</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>This can't block.</text>
+            <token>1</token>
+            <reverse-related>TBLD Bloodthrone Vampire</reverse-related>
+        </card>
+        <card>
             <name>TBLD Zombie13</name>
             <set picURL="/TBLD Zombie13.full.jpg">TBLDtoken</set>         
             <color>B</color>
@@ -679,7 +690,7 @@ This has hexproof as long as its untapped.</text>
             <set picURL="/TBLD Pest.full.jpg">TBLDtoken</set>         
             <color>HBG</color>
             <type>Token Creature — Pest</type>
-            <pt>1/2</pt>
+            <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>When this dies, gain 1 life.</text>
             <token>1</token>
@@ -812,7 +823,7 @@ When this transforms into Hissing Caretaker, untap it.
             <set picURL="/TBLD Blooming Titan.full.jpg">TBLDtoken</set>   
             <color>G</color>
             <type>Creature — Dinosaur Plant </type>
-            <pt>4/5</pt>
+            <pt>3/4</pt>
             <tablerow>2</tablerow>
             <text>Untap all creatures and lands you control during each other player’s untap step.</text>
             <token>1</token>
@@ -879,10 +890,11 @@ When this transforms into Turbulent Grappler or attacks, you may switch this cre
             <set picURL="/TBLD Fiery Brute.full.jpg">TBLDtoken</set>   
             <color>R</color>
             <type>Creature — Beast</type>
-            <pt>3/4</pt>
+            <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text>Menace
-Whenever this untaps, it deals 4 damage to any target.</text>
+1R: This gets +1/+0 this turn.
+Whenever this untaps, it deals 2 damage to each of up to one target player and up to one target creature.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -894,7 +906,8 @@ Whenever this untaps, it deals 4 damage to any target.</text>
             <type>Creature — Dinosaur</type>
             <pt>4/3</pt>
             <tablerow>2</tablerow>
-            <text>When this transforms into Earthshaker Hulk, creatures without flying can’t block this turn.</text>
+            <text>Trample
+When this transforms into Earthshaker Hulk, target creature without flying can’t block this turn.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -929,9 +942,9 @@ Creatures your opponents control get -1/-0.</text>
             <set picURL="/TBLD Jovial Gadabout.full.jpg">TBLDtoken</set>   
             <color>G</color>
             <type>Creature — Treefolk</type>
-            <pt>3/4</pt>
+            <pt>2/4</pt>
             <tablerow>2</tablerow>
-            <text>When this transforms into Jovial Gadabout, put a +1/+1 counter on each other creature you control.</text>
+            <text>When this transforms into Jovial Gadabout, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1293,6 +1306,18 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
         </card>
 
         <card>
+            <name>TBLD Timeless Witness Token</name>
+            <set picURL="/TBLD Timeless Witness Token.full.jpg">TBLDtoken</set> 
+            <color>B</color>
+            <type>Token Creature — Zombie Human Shaman</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>When this enters play, return target card from your graveyard to your hand.</text>
+            <token>1</token>
+            <reverse-related>TBLD Timeless Witness</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Sacred Cat Token</name>
             <set picURL="/TBLD Sacred Cat Token.full.jpg">TBLDtoken</set> 
             <color>W</color>
@@ -1332,7 +1357,7 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
             <set picURL="/TBLD Angel.full.jpg">TBLDtoken</set>         
             <color>W</color>
             <type>Token Creature — Angel</type>
-            <pt>4/4</pt>
+            <pt>3/3</pt>
             <tablerow>2</tablerow>
             <text>Flying, vigilance</text>
             <token>1</token>
@@ -1413,6 +1438,18 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Vampire Soldier</name>
+            <set picURL="/TBLD Vampire Soldier.full.jpg">TBLDtoken</set>   
+            <color>W</color>
+            <type>Creature — Vampire Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Lifelink</text>
+            <token>1</token>
+            <reverse-related>TBLD Martyr of Dusk</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Goblin Warrior</name>
             <set picURL="/TBLD Goblin Warrior.full.jpg">TBLDtoken</set>         
             <color>R</color>
@@ -1480,6 +1517,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Greenskin Charger</reverse-related>
             <reverse-related>TBLD Goblin War Party</reverse-related>
             <reverse-related>TBLD Goblin War Party</reverse-related>
             <reverse-related>TBLD Goblin War Party</reverse-related>
@@ -1575,7 +1613,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Goblin Instigator</reverse-related>
+            <reverse-related>TBLD </reverse-related>
         </card>
 
         <card>
@@ -1649,6 +1687,19 @@ At the end step, sacrifice this.</text>
             <text>Vigilance</text>
             <token>1</token>
             <reverse-related>TBLD Vanguard of Brimaz</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Peasant</name>
+            <set picURL="/TBLD Peasant.full.jpg">TBLDtoken</set>       
+            <color>W</color>
+            <type>Token Creature — Peasant</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Magnanimous Count</reverse-related>
+            <reverse-related>TBLD Magnanimous Count</reverse-related>
         </card>
 
         <card>
@@ -2249,8 +2300,8 @@ Equip 2</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Sailor of Means</reverse-related>
-            <reverse-related>TBLD Pirates Pillage</reverse-related>
-            <reverse-related>TBLD Pirates Pillage</reverse-related>
+            <reverse-related>TBLD Unexpected Windfall</reverse-related>
+            <reverse-related>TBLD Unexpected Windfall</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure2</name>
