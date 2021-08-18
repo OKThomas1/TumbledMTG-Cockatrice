@@ -13158,7 +13158,7 @@ When this enters play, destroy up to one target MERFOLK.</text>
  <name>TBLD Fortifying Draught</name>
  <set picURL="/TBLD Fortifying Draught.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>ADDED NEW</tags>
+ <tags></tags>
  <manacost>G</manacost>
 		<cmc>1</cmc>
  <type>Flash Sorcery</type>
@@ -25546,17 +25546,6 @@ Whenever enchanted land is tapped for mana, its controller adds an additional R.
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Destroy each nonland permanent with mana value 2 or less. Add B or G for each permanent destroyed this way.</text>
-</card>
-<card>
- <name>TBLD Fortifying Draught</name>
- <set picURL="/TBLD Fortifying Draught.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>G</color>
- <tags>ADDED NEW</tags>
- <manacost>G</manacost>
-		<cmc>1</cmc>
- <type>Flash Sorcery</type>
- <tablerow>3</tablerow>
- <text>Gain 2 life. Target creature gets +X/+X this turn, where X is the amount of life you gained this turn.</text>
 </card>
 <card>
  <name>TBLD Curate</name>
