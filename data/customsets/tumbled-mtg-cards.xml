@@ -133,7 +133,7 @@ Target player sacrifices two creatures.</text>
  <name>TBLD Vastwood Awakening</name>
  <set picURL="/TBLD Vastwood Awakening.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLANT</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery</type>
@@ -618,7 +618,7 @@ Scavenge 1G (1G, Exile this from your graveyard: Put a number of +1/+1 counters 
  <name>TBLD Rot Farm Skeleton</name>
  <set picURL="/TBLD Rot Farm Skeleton.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>ZOMBIE</tags>
+ <tags>ZOMBIE PLANT</tags>
  <manacost>2BG</manacost>
 		<cmc>4</cmc>
  <type>Creature - Plant Zombie </type>
@@ -631,7 +631,7 @@ Scavenge 1G (1G, Exile this from your graveyard: Put a number of +1/+1 counters 
  <name>TBLD Woodwraith Strangler</name>
  <set picURL="/TBLD Woodwraith Strangler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>ZOMBIE</tags>
+ <tags>ZOMBIE PLANT</tags>
  <manacost>BG</manacost>
 		<cmc>2</cmc>
  <type>Creature - Plant Zombie </type>
@@ -1561,7 +1561,7 @@ This enters play tapped.</text>
  <color>B</color>
  <tags>ADDED NEW VAMPIRE PLUSCOUNTER</tags>
  <manacost>2BB</manacost>
-		<cmc>2</cmc>
+		<cmc>4</cmc>
  <type>Creature - Vampire Cleric </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
@@ -2954,7 +2954,7 @@ Bloodrush — 4GG, Discard this: Target attacking creature gets +9/+9 and gains 
  <name>TBLD Stank Weed</name>
  <set picURL="/TBLD Stank Weed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER PLANT</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Plant </type>
@@ -10575,7 +10575,7 @@ Whenever you gain life, each opponent loses that much life.</text>
  <pt>3/5</pt>
  <tablerow>2</tablerow>
  <text>Flying
-1B, T: Rather than pay the mana cost of the next spell you cast this turn, you may pay life equal to that spell’s mana value.</text>
+B, T: Rather than pay the mana cost of the next spell you cast this turn, you may pay life equal to that spell’s mana value.</text>
 </card>
 <card>
  <name>TBLD Vona Butcher of Magan</name>
@@ -11353,7 +11353,7 @@ This can’t be blocked by more than one creature.</text>
  <name>TBLD Plucky Weed</name>
  <set picURL="/TBLD Plucky Weed.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGW</color>
- <tags>PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER PLANT</tags>
  <manacost>GW</manacost>
 		<cmc>2</cmc>
  <type>Creature - Plant </type>
@@ -12591,7 +12591,7 @@ Whenever this deals damage to a player, they mill three times that many cards.</
  <name>TBLD Wall of Blossoms</name>
  <set picURL="/TBLD Wall of Blossoms.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags></tags>
+ <tags>PLANT</tags>
  <manacost>1G</manacost>
 		<cmc>2</cmc>
  <type>Creature - Plant Wall </type>
@@ -14321,7 +14321,7 @@ Whenever this deals combat damage to an opponent, you may pay RG. When you do, d
  <name>TBLD Barkmarrow Ghoul</name>
  <set picURL="/TBLD Barkmarrow Ghoul.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>ZOMBIE PLUSCOUNTER</tags>
+ <tags>ZOMBIE PLUSCOUNTER PLANT</tags>
  <manacost>G</manacost>
 		<cmc>3</cmc>
  <type>Creature - Zombie Plant </type>
@@ -14372,7 +14372,7 @@ All creatures able to block this do so.</text>
  <name>TBLD Dreg Mangler</name>
  <set picURL="/TBLD Dreg Mangler.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>ZOMBIE PLUSCOUNTER</tags>
+ <tags>ZOMBIE PLUSCOUNTER PLANT</tags>
  <manacost>1BG</manacost>
 		<cmc>3</cmc>
  <type>Creature - Plant Zombie </type>
@@ -15423,7 +15423,7 @@ Indestructible, dauntless (This can’t be blocked by creatures with power 2 or 
  <name>TBLD Soil Charm</name>
  <set picURL="/TBLD Soil Charm.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MBG</color>
- <tags>RAMP</tags>
+ <tags>RAMP PLANT</tags>
  <manacost>BG</manacost>
 		<cmc>2</cmc>
  <type>Flash Sorcery - Charm </type>
@@ -18651,7 +18651,7 @@ When this transforms into Jovial Gadabout, bolster 2. (Choose a creature with th
  <set picURL="/TBLD Budding Chick.full.jpg" picURLHq="" 
 picURLSt="">TBLD</set>
  <color>G</color>
- <tags>CHANGED NEW PLUSCOUNTER</tags>
+ <tags>CHANGED NEW PLUSCOUNTER PLANT</tags>
                 <layout>double-faced</layout>
                 <side>front</side>
  <related attach="attach">TBLD Blooming Titan</related>
@@ -20877,7 +20877,7 @@ Encore 1R (1R, Exile this from your graveyard: For each opponent, create a token
  <name>TBLD Avenger of Zendikar</name>
  <set picURL="/TBLD Avenger of Zendikar.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>G</color>
- <tags>PLUSCOUNTER</tags>
+ <tags>PLUSCOUNTER PLANT</tags>
  <manacost>5GG</manacost>
 		<cmc>7</cmc>
  <type>Creature - Elemental </type>
@@ -24188,20 +24188,6 @@ When this enters play, create two Treasure tokens.</text>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Whenever this is dealt damage, you may destroy target nonland permanent.</text>
-</card>
-<card>
- <name>TBLD Stromkirk Noble</name>
- <set picURL="/TBLD Stromkirk Noble.full.jpg" picURLHq="" 
-picURLSt="">TBLD</set>
- <color>R</color>
- <tags>PLUSCOUNTER VAMPIRE</tags>
- <manacost>R</manacost>
-		<cmc>1</cmc>
- <type>Creature - Vampire Noble </type>
- <pt>1/1</pt>
- <tablerow>2</tablerow>
- <text>This can’t be blocked by Humans.
-Whenever this deals damage to a player, put a +1/+1 counter on it.</text>
 </card>
 <card>
  <name>TBLD Insolent Neonate</name>
