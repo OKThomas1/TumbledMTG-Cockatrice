@@ -1555,6 +1555,7 @@ At the end step, sacrifice this.</text>
             <token>1</token>
             <reverse-related>TBLD Dragon Fodder</reverse-related>
             <reverse-related>TBLD Dragon Fodder</reverse-related>
+            <reverse-related>TBLD Jund Ascendancy</reverse-related>
         </card>
         <card>
             <name>TBLD Goblin5</name>
@@ -1613,7 +1614,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD </reverse-related>
+            <reverse-related>TBLD Furnace Fodder</reverse-related>
         </card>
 
         <card>
@@ -1642,10 +1643,57 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
-            <name>TBLD Scion3</name>
-            <set picURL="/TBLD Scion3.full.jpg">TBLDtoken</set>         
+            <name>TBLD Demon2</name>
+            <set picURL="/TBLD Demon2.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Creature — Scion</type>
+            <type>Token Creature — Demon</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Priest of the Blood Rite</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Demon</name>
+            <set picURL="/TBLD Demon.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Demon</type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Skirsdag High Priest</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Eldrazi Spawn5</name>
+            <set picURL="/TBLD Eldrazi Spawn5.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD From Beyond</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Eldrazi Spawn4</name>
+            <set picURL="/TBLD Eldrazi Spawn4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Skittering Invasion</reverse-related>
+            <reverse-related>TBLD Skittering Invasion</reverse-related>
+            <reverse-related>TBLD Skittering Invasion</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Eldrazi Spawn3</name>
+            <set picURL="/TBLD Eldrazi Spawn3.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
@@ -1654,10 +1702,10 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Warp Charm</reverse-related>
         </card>
         <card>
-            <name>TBLD Scion2</name>
-            <set picURL="/TBLD Scion2.full.jpg">TBLDtoken</set>         
+            <name>TBLD Eldrazi Spawn2</name>
+            <set picURL="/TBLD Eldrazi Spawn2.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Creature — Scion</type>
+            <type>Token Creature — Eldrazi Spawn</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
@@ -1665,14 +1713,15 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Skittering Infestor</reverse-related>
         </card>
         <card>
-            <name>TBLD Scion</name>
-            <set picURL="/TBLD Scion.full.jpg">TBLDtoken</set>         
+            <name>TBLD Eldrazi Spawn</name>
+            <set picURL="/TBLD Eldrazi Spawn.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Creature — Scion</type>
+            <type>Token Creature — Eldrazi Spawn</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
+            <reverse-related>TBLD Culling Drone</reverse-related>
             <reverse-related>TBLD Emrakuls Birther</reverse-related>
             <reverse-related>TBLD Emrakuls Birther</reverse-related>
         </card>
@@ -2194,6 +2243,8 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Lucky Tomcat</reverse-related>
+            <reverse-related>TBLD Lucky Tomcat</reverse-related>
             <reverse-related>TBLD Lucky Tomcat</reverse-related>
         </card>
         <card>
