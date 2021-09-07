@@ -938,6 +938,18 @@ Creatures your opponents control get -1/-0.</text>
         </card>
 
         <card>
+            <name>TBLD Ulvenwald Abomination</name>
+            <set picURL="/TBLD Ulvenwald Abomination.full.jpg">TBLDtoken</set>   
+            <color>C</color>
+            <type>Creature — Eldrazi Werewolf </type>
+            <pt>4/6</pt>
+            <tablerow>2</tablerow>
+            <text>T: Add CC.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
             <name>TBLD Jovial Gadabout</name>
             <set picURL="/TBLD Jovial Gadabout.full.jpg">TBLDtoken</set>   
             <color>G</color>
@@ -1353,6 +1365,17 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
         </card>
 
         <card>
+            <name>TBLD Angel2</name>
+            <set picURL="/TBLD Angel2.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Angel</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, vigilance</text>
+            <token>1</token>
+            <reverse-related>TBLD Pious Invocation</reverse-related>
+        </card>
+        <card>
             <name>TBLD Angel</name>
             <set picURL="/TBLD Angel.full.jpg">TBLDtoken</set>         
             <color>W</color>
@@ -1474,13 +1497,26 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Dragon2</name>
+            <set picURL="/TBLD Dragon2.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Dragon</type>
+            <pt>4/4</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+1R: This gets +1/+0 this turn.</text>
+            <token>1</token>
+            <reverse-related>TBLD Dragonkin Berserker</reverse-related>
+        </card>
+        <card>
             <name>TBLD Dragon</name>
             <set picURL="/TBLD Dragon.full.jpg">TBLDtoken</set>         
             <color>R</color>
             <type>Token Creature — Dragon</type>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
-            <text>Flying</text>
+            <text>Flying
+1R: This gets +1/+0 this turn.</text>
             <token>1</token>
             <reverse-related>TBLD Jund Ascendancy</reverse-related>
         </card>
@@ -1666,6 +1702,79 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Eldrazi</name>
+            <set picURL="/TBLD Eldrazi.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>10/10</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Idol of Oblivion</reverse-related>
+            <reverse-related>TBLD Desolation Twin</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Eldrazi Spawn10</name>
+            <set picURL="/TBLD Eldrazi Spawn10.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Drowner of Hope</reverse-related>
+            <reverse-related>TBLD Drowner of Hope</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Eldrazi Spawn9</name>
+            <set picURL="/TBLD Eldrazi Spawn9.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Culling Drone</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Eldrazi Spawn8</name>
+            <set picURL="/TBLD Eldrazi Spawn8.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Brood Monitor</reverse-related>
+            <reverse-related>TBLD Brood Monitor</reverse-related>
+            <reverse-related>TBLD Brood Monitor</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Eldrazi Spawn7</name>
+            <set picURL="/TBLD Eldrazi Spawn7.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Birthing Hulk</reverse-related>
+            <reverse-related>TBLD Birthing Hulk</reverse-related>
+            <reverse-related>TBLD Birthing Hulk</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Eldrazi Spawn6</name>
+            <set picURL="/TBLD Eldrazi Spawn6.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Creature — Eldrazi Spawn</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Sacrifice this: Add C.</text>
+            <token>1</token>
+            <reverse-related>TBLD Scion Summoner</reverse-related>
+        </card>
+        <card>
             <name>TBLD Eldrazi Spawn5</name>
             <set picURL="/TBLD Eldrazi Spawn5.full.jpg">TBLDtoken</set>         
             <color></color>
@@ -1675,6 +1784,7 @@ At the end step, sacrifice this.</text>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
             <reverse-related>TBLD From Beyond</reverse-related>
+            <reverse-related>TBLD Eldrazi Skyspawner</reverse-related>
         </card>
         <card>
             <name>TBLD Eldrazi Spawn4</name>
@@ -1710,6 +1820,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
+            <reverse-related>TBLD Blisterpod</reverse-related>
+            <reverse-related>TBLD Void Attendant</reverse-related>
             <reverse-related>TBLD Skittering Infestor</reverse-related>
         </card>
         <card>
@@ -1721,7 +1833,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
-            <reverse-related>TBLD Culling Drone</reverse-related>
+            <reverse-related>TBLD Sifter of Skulls</reverse-related>
             <reverse-related>TBLD Emrakuls Birther</reverse-related>
             <reverse-related>TBLD Emrakuls Birther</reverse-related>
         </card>
@@ -1857,6 +1969,18 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Queen of the Hive</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Squirrel</name>
+            <set picURL="/TBLD Squirrel.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Squirrel</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+        </card>
         <card>
             <name>TBLD Squirrel</name>
             <set picURL="/TBLD Squirrel.full.jpg">TBLDtoken</set>         
@@ -2059,6 +2183,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Wing Splicer</reverse-related>
+            <reverse-related>TBLD Master Splicer</reverse-related>
             <reverse-related>TBLD Sensor Splicer</reverse-related>
             <reverse-related>TBLD Maul Splicer</reverse-related>
             <reverse-related>TBLD Maul Splicer</reverse-related>
