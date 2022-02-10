@@ -1080,6 +1080,20 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Luminous Phantom</name>
+            <set picURL="/TBLD Luminous Phantom.full.jpg">TBLDtoken</set>      
+            <color>W</color>
+            <type>Creature — Spirit Cleric </type>
+            <pt>2/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+Whenever another creature you control leaves play, gain 1 life.
+If this would be put into a graveyard from anywhere, exile it instead.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
             <name>TBLD Spirit8</name>
             <set picURL="/TBLD Spirit8.full.jpg">TBLDtoken</set>         
             <color>C</color>
@@ -2516,6 +2530,44 @@ Equip 2</text>
         </card>
 
         <card>
+            <name>TBLD Blood</name>
+            <set picURL="/TBLD Blood.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Blood</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>1, Discard a card, Sacrifice this: Draw a card. Can’t be activated at flash speed.</text>
+            <token>1</token>
+            <reverse-related>TBLD Vampires Kiss</reverse-related>
+            <reverse-related>TBLD Vampires Kiss</reverse-related>
+            <reverse-related>TBLD Bloodtithe Harvester</reverse-related>
+            <reverse-related>TBLD Voldaren Epicure</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Vial</name>
+            <set picURL="/TBLD Vial.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Vial</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>1, Sacrifice this and another permanent: Draw a card. Can’t be activated at flash speed.</text>
+            <token>1</token>
+            <reverse-related>TBLD Dwarven Alchemist</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Treasure16</name>
+            <set picURL="/TBLD Treasure16.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Bile Charm</reverse-related>
+            <reverse-related>TBLD Bile Charm</reverse-related>
+        </card>
+        <card>
             <name>TBLD Treasure15</name>
             <set picURL="/TBLD Treasure15.full.jpg">TBLDtoken</set>         
             <color></color>
@@ -2548,7 +2600,7 @@ Equip 2</text>
             <token>1</token>
             <reverse-related>TBLD Bribe</reverse-related>
             <reverse-related>TBLD Pickpocket</reverse-related>
-            <reverse-related>TBLD TBLD Swindlers Wile</reverse-related>
+            <reverse-related>TBLD Swindlers Wile</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure12</name>
@@ -2572,6 +2624,8 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Strip the Earth</reverse-related>
+            <reverse-related>TBLD Strip the Earth</reverse-related>
             <reverse-related>TBLD Goldvein Pick</reverse-related>
             <reverse-related>TBLD Mine Corp Muscle</reverse-related>
         </card>
