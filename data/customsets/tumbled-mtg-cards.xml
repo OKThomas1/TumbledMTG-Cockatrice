@@ -17264,15 +17264,15 @@ When this enters play, destroy another target creature whose power and toughness
  <text>Target opponent reveals their hand and discards a nonland card with mana value 2 or less of your choice. If a card is discarded this way, create a colorless Treasure artifact token with “T, Sacrifice this: Add one mana of any color.”</text>
 </card>
 <card>
- <name>TBLD Memory Leak</name>
- <set picURL="/TBLD Memory Leak.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <name>TBLD Wrench Mind</name>
+ <set picURL="/TBLD Wrench Mind.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
- <manacost>2B</manacost>
-		<cmc>3</cmc>
+ <tags>ADDED NEW</tags>
+ <manacost>BB</manacost>
+		<cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target opponent reveals their hand. You choose a nonland card from their graveyard or hand and exile it.
-Cycling 1 (1, Discard this: Draw a card.)</text>
+ <text>Target player discards two cards unless they discard an artifact card.</text>
 </card>
 <card>
  <name>TBLD Purloin</name>
@@ -17296,6 +17296,29 @@ Cycling 1 (1, Discard this: Draw a card.)</text>
  <tablerow>3</tablerow>
  <text>Buyback 1B (You may pay an additional 1B as you cast this. If you do, put this into your hand as it resolves.)
 Mill a card. Draw a card. Lose 1 life.</text>
+</card>
+<card>
+ <name>TBLD Vicious Rumors</name>
+ <set picURL="/TBLD Vicious Rumors.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>B</color>
+ <tags>ADDED NEW</tags>
+ <manacost>B</manacost>
+		<cmc>1</cmc>
+ <type>Flash Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>This deals 1 damage to each opponent. Each opponent discards a card, then mills a card. Gain 1 life.</text>
+</card>
+<card>
+ <name>TBLD Distress</name>
+ <set picURL="/TBLD Distress.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <color>B</color>
+ <tags>ADDED NEW</tags>
+ <manacost>BB</manacost>
+		<cmc>2</cmc>
+ <type>Sorcery</type>
+ <tablerow>3</tablerow>
+ <text>Target player reveals their hand and discards a nonland card of your choice.
+Cycling 2 (2, Discard this: Draw a card.)</text>
 </card>
 <card>
  <name>TBLD Smallpox</name>
@@ -17435,18 +17458,6 @@ Cycling 3B
 When you cycle this, target player discards a card.</text>
 </card>
 <card>
- <name>TBLD Shadowfugue</name>
- <set picURL="/TBLD Shadowfugue.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>B</color>
- <tags></tags>
- <manacost>1BB</manacost>
-		<cmc>3</cmc>
- <type>Flash Sorcery</type>
- <tablerow>3</tablerow>
- <text>Target player discards a card and loses 1 life.
-Rebound (If you cast this from your hand, exile it as it resolves. At your next upkeep, you may cast this from exile without paying its mana cost.)</text>
-</card>
-<card>
  <name>TBLD Go Blank</name>
  <set picURL="/TBLD Go Blank.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
@@ -17467,7 +17478,7 @@ Cycling 2 (2, Discard this: Draw a card.)</text>
 		<cmc>3</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target opponent discards two cards. You create two 2/2 black Zombie tokens with decayed for each card discarded this way. (They can’t block. When they attack, sacrifice them at end of combat.)</text>
+ <text>Target opponent discards two cards. Create a 2/2 black Zombie token with decayed for each card discarded this way. (They can’t block. When they attack, sacrifice them at end of combat.)</text>
 </card>
 <card>
  <name>TBLD Leaf Arrow</name>
@@ -21897,10 +21908,9 @@ T, Tap an untapped creature you control: Add one mana of any color.</text>
  <manacost>3G</manacost>
 		<cmc>4</cmc>
  <type>Creature - Elf Archer </type>
- <pt>2/2</pt>
+ <pt>3/2</pt>
  <tablerow>2</tablerow>
- <text>Reach
-T: Another target creature gets +X/+X this turn, where X is the number of Elves you control.
+ <text>T: Another target creature gets +X/+X this turn, where X is the number of Elves you control.
 Shift 3G</text>
 </card>
 <card>
