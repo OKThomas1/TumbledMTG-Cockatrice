@@ -6,7 +6,7 @@ name: CI
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   push:
-    branches: [ main ]
+    branches: [ auto ]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -15,54 +15,24 @@ on:
 jobs:
   # This workflow contains a single job called "build"
   TumbledMTG:
-    name: Upload Release Asset
+    # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Build project # This would actually build your project, using zip for an example artifact
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
         run: |
-          zip -r TumbledMTG.zip ./TumbledMTG
-          zip -r 'TumbledMTG Cockatrice.zip' './TumbledMTG Cockatrice Files'
-          zip -r 'TumbledMTG Update.zip' './TumbledMTG Update Files'
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          mkdir artifact
+          cp ./data/customsets/tumbled-mtg-cards.xml ./artifact/
+          cp ./data/tokens.xml ./artifact/
+          cp -R ./data/pics/CUSTOM ./artifact/
+          cp ./manual/Readme.txt ./artifact/
+      - name: "Publish"
+        uses: actions/upload-artifact@v2-preview
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-      - name: Upload Release Asset
-        id: upload-release-asset 
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: ./TumbledMTG.zip
-          asset_name: TumbledMTG.zip
-          asset_content_type: application/zip
-      - name: Upload Release Asset
-        id: upload-release-asset2
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: './TumbledMTG Cockatrice.zip'
-          asset_name: 'TumbledMTG Cockatrice Files.zip'
-          asset_content_type: application/zip
-      - name: Upload Release Asset
-        id: upload-release-asset3
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
-          asset_path: './TumbledMTG Update.zip'
-          asset_name: 'TumbledMTG Update Files.zip'
-          asset_content_type: application/zip    
-           
+          name: "TumbledMTG-Cockatrice-Files"
+          path: "./artifact/"
