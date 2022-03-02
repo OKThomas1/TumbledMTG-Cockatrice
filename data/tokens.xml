@@ -181,8 +181,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Watering Hole</reverse-related>
             <reverse-related>TBLD One on One</reverse-related>
             <reverse-related>TBLD Last of Us</reverse-related>
+            <reverse-related>TBLD Pilgrims Ward</reverse-related>
+            <reverse-related>TBLD Jadelight Voyager</reverse-related>
             <reverse-related>TBLD The Road Ahead</reverse-related>
             <reverse-related>TBLD Dustpaw Trader</reverse-related>
             <reverse-related>TBLD Keeper of Antiquities</reverse-related>
@@ -479,6 +482,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text>This can't block.</text>
             <token>1</token>
             <reverse-related>TBLD Rank Officer</reverse-related>
+            <reverse-related>TBLD Rank Officer</reverse-related>
         </card>
         <card>
             <name>TBLD Zombie7</name>
@@ -523,7 +527,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <tablerow>2</tablerow>
             <text>This can't block.</text>
             <token>1</token>
-            <reverse-related>TBLD </reverse-related>
+            <reverse-related>TBLD Screaming Amalgam</reverse-related>
         </card>
         <card>
             <name>TBLD Zombie3</name>
@@ -719,10 +723,10 @@ Experience (Whenever this attacks, if it has less than three +1/+1 counters, put
             <set picURL="/TBLD Sphinx2.full.jpg">TBLDtoken</set>      
             <color>U</color>
             <type>Token Creature — Sphinx</type>
-            <pt>4/4</pt>
+            <pt>4/3</pt>
             <tablerow>2</tablerow>
             <text>Flying
-This has hexproof as long as its untapped.</text>
+Ward 3</text>
             <token>1</token>
             <reverse-related>TBLD Warrant_Warden</reverse-related>
         </card>
@@ -731,10 +735,10 @@ This has hexproof as long as its untapped.</text>
             <set picURL="/TBLD Sphinx.full.jpg">TBLDtoken</set>      
             <color>U</color>
             <type>Token Creature — Sphinx</type>
-            <pt>4/4</pt>
+            <pt>4/3</pt>
             <tablerow>2</tablerow>
             <text>Flying
-This has hexproof as long as its untapped.</text>
+Ward 3</text>
             <token>1</token>
             <reverse-related>TBLD Sophists Perch</reverse-related>
         </card>
@@ -1067,6 +1071,199 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
         </card>
 
         <card>
+            <name>TBLD Unthinkable Experiment</name>
+            <set picURL="/TBLD Unthinkable Experiment.full.jpg">TBLDtoken</set>   
+            <color>G</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>As an additional cost to cast this, sacrifice a creature.
+Search your library for two creature cards with mana value equal to one less than the the sacrificed creature’s mana value and put them into play.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Backyard Resurrection</name>
+            <set picURL="/TBLD Backyard Resurrection.full.jpg">TBLDtoken</set>   
+            <color>B</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Return target creature card from your graveyard to play.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Damnable Pact</name>
+            <set picURL="/TBLD Damnable Pact.full.jpg">TBLDtoken</set>   
+            <color>B</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Target player draws X cards and loses X life.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Quicken</name>
+            <set picURL="/TBLD Quicken.full.jpg">TBLDtoken</set>   
+            <color>U</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>The next spell you cast this turn may be cast at flash speed.
+Draw a card.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Flummox</name>
+            <set picURL="/TBLD Flummox.full.jpg">TBLDtoken</set>   
+            <color>U</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Counter target spell unless its controller pays 1.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Contradict</name>
+            <set picURL="/TBLD Contradict.full.jpg">TBLDtoken</set>   
+            <color>U</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Counter target spell.
+Scry 2, then draw a card.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Funerary Pyre</name>
+            <set picURL="/TBLD Funerary Pyre.full.jpg">TBLDtoken</set>   
+            <color>B</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Exile all cards from target player’s graveyard. Gain 1 life for each creature card exiled this way.
+Draw a card.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Mana Rite</name>
+            <set picURL="/TBLD Mana Rite.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Add RR.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Hardy Renewal</name>
+            <set picURL="/TBLD Hardy Renewal.full.jpg">TBLDtoken</set>   
+            <color>G</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Return target card from your graveyard to your hand.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Path to Redemption</name>
+            <set picURL="/TBLD Path to Redemption.full.jpg">TBLDtoken</set>   
+            <color>W</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Exile target creature. Its controller searches their library for a basic-typed land card and puts it into play tapped.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Unbounded Inquiry</name>
+            <set picURL="/TBLD Unbounded Inquiry.full.jpg">TBLDtoken</set>   
+            <color>W</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Scry 5, then upload the top card of your library. (Exile it. Pay 2 during your turn to put an uploaded card into your hand.)</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Commune with Nature</name>
+            <set picURL="/TBLD Commune with Nature.full.jpg">TBLDtoken</set>   
+            <color>G</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Gather for the Feast</name>
+            <set picURL="/TBLD Gather for the Feast.full.jpg">TBLDtoken</set>   
+            <color>G</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Search your library for up to two basic-typed land cards and put them into play tapped.
+Create a Food token. (It’s an artifact with “2, T, Sacrifice this: Gain 3 life.”)</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Stream of Lightning</name>
+            <set picURL="/TBLD Stream of Lightning.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>This deals 4 damage divided as you choose among any number of targets.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Scour from Existence</name>
+            <set picURL="/TBLD Scour from Existence.full.jpg">TBLDtoken</set>   
+            <color>C</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Exile target permanent.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Dictum of the Scalelords</name>
+            <set picURL="/TBLD Dictum of the Scalelords.full.jpg">TBLDtoken</set>   
+            <color>W</color>
+            <type>Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Destroy target artifact or enchantment.
+Draw a card.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Impulsive Action</name>
+            <set picURL="/TBLD Impulsive Action.full.jpg">TBLDtoken</set>   
+            <color>R</color>
+            <type>Flash Sorcery</type>
+            <tablerow>1</tablerow>
+            <text>Exile cards from the top of your library until you exile two nonland cards. You may cast one of them. (You still need to pay its costs.)</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
             <name>TBLD Gleeful Predator</name>
             <set picURL="/TBLD Gleeful Predator.full.jpg">TBLDtoken</set>      
             <color>G</color>
@@ -1089,6 +1286,104 @@ At each upkeep, if a player cast two or more spells last turn, transform this.</
             <text>Flying
 Whenever another creature you control leaves play, gain 1 life.
 If this would be put into a graveyard from anywhere, exile it instead.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Nacatl Prowler</name>
+            <set picURL="/TBLD Nacatl Prowler.full.jpg">TBLDtoken</set>      
+            <color>G</color>
+            <type>Creature — Cat Warrior </type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Hexproof
+Whenever this attacks, untap up to one target creature defending player controls. It blocks this creature this turn if able.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Fated Sovereign</name>
+            <set picURL="/TBLD Fated Sovereign.full.jpg">TBLDtoken</set>      
+            <color>W</color>
+            <type>Creature — Human Noble Knight </type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Vigilance
+Renown 2 (When this deals combat damage to a player or planeswalker, if it isn’t renowned, put two +1/+1 counters on it and it becomes renowned.)
+When this becomes renowned, you become the monarch.</text>
+            <token>1</token>
+ <related>TBLD The Monarch</related>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Shield-Sigil Patron</name>
+            <set picURL="/TBLD Shield-Sigil Patron.full.jpg">TBLDtoken</set>      
+            <color>W</color>
+            <type>Flash Creature — Angel </type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Flying, ward 2
+Exalted (Whenever a creature you control attacks alone, it gets +1/+1 this turn.)
+When this enters play, you may exile target non-Angel creature you control, then return it to play under your control. Put a +1/+1 counter on it.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Shrewd Sphinx</name>
+            <set picURL="/TBLD Shrewd Sphinx.full.jpg">TBLDtoken</set>      
+            <color>U</color>
+            <type>Artifact Creature — Sphinx </type>
+            <pt>4/2</pt>
+            <tablerow>2</tablerow>
+            <text>This spell can’t be countered.
+Flying
+At your end step, draw a card, then discard a card.
+Discard a card with mana value X: Counter target spell with mana value X.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Harvester of Souls</name>
+            <set picURL="/TBLD Harvester of Souls.full.jpg">TBLDtoken</set>      
+            <color>B</color>
+            <type>Creature — Demon </type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Deathtouch
+Whenever another nontoken creature dies, draw a card.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Vicious Overlord</name>
+            <set picURL="/TBLD Vicious Overlord.full.jpg">TBLDtoken</set>      
+            <color>R</color>
+            <type>Creature — Dragon </type>
+            <pt>5/5</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+R: This gets +1/+0 this turn.
+When this enters play, each player sacrifices two lands.</text>
+            <token>1</token>
+<dfc></dfc>
+        </card>
+
+        <card>
+            <name>TBLD Screaming Amalgam</name>
+            <set picURL="/TBLD Screaming Amalgam.full.jpg">TBLDtoken</set>      
+            <color>B</color>
+            <type>Creature — Zombie Golem </type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text>When this enters play, create a 2/2 black Zombie token with decayed.
+Whenever this attacks, each player discards card.
+B, Sacrifice a creature: Regenerate this.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1346,6 +1641,17 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
         </card>
 
         <card>
+            <name>TBLD Elf Warrior3</name>
+            <set picURL="/TBLD Elf Warrior3.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Elf Warrior</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Elvish Elite</reverse-related>
+        </card>
+        <card>
             <name>TBLD Elf Warrior2</name>
             <set picURL="/TBLD Elf Warrior2.full.jpg">TBLDtoken</set>         
             <color>G</color>
@@ -1366,7 +1672,6 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Lys Alana Huntmaster</reverse-related>
-            <reverse-related>TBLD Elvish Elite</reverse-related>
             <reverse-related>TBLD Gilt-Leaf Curator</reverse-related>
         </card>
 
@@ -1379,7 +1684,7 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Mirrored Minion</reverse-related>
+            <reverse-related>TBLD Uncanny Observer</reverse-related>
         </card>
 
         <card>
@@ -1461,6 +1766,19 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
         </card>
 
         <card>
+            <name>TBLD Glyph Keeper Token</name>
+            <set picURL="/TBLD Glyph Keeper Token.full.jpg">TBLDtoken</set> 
+            <color>W</color>
+            <type>Token Creature — Zombie Sphinx</type>
+            <pt>5/3</pt>
+            <tablerow>2</tablerow>
+            <text>Flying
+Whenever this becomes the target of a spell or ability for the first time each turn, counter that spell or ability.</text>
+            <token>1</token>
+            <reverse-related>TBLD Glyph Keeper</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Sacred Cat Token</name>
             <set picURL="/TBLD Sacred Cat Token.full.jpg">TBLDtoken</set> 
             <color>W</color>
@@ -1529,6 +1847,17 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
             <reverse-related>TBLD Justicars Sentence</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Elemental4</name>
+            <set picURL="/TBLD Elemental4.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Elemental</type>
+            <pt>2/1</pt>
+            <tablerow>2</tablerow>
+            <text>Prowess</text>
+            <token>1</token>
+            <reverse-related>TBLD Winter Charm</reverse-related>
+        </card>
         <card>
             <name>TBLD Elemental3</name>
             <set picURL="/TBLD Elemental3.full.jpg">TBLDtoken</set>         
@@ -1615,13 +1944,25 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
-            <name>TBLD Goblin Warrior</name>
-            <set picURL="/TBLD Goblin Warrior.full.jpg">TBLDtoken</set>         
-            <color>R</color>
+            <name>TBLD Goblin Warrior2</name>
+            <set picURL="/TBLD Goblin Warrior2.full.jpg">TBLDtoken</set>         
+            <color>B</color>
             <type>Token Creature — Goblin Warrior</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text></text>
+            <text>Menace</text>
+            <token>1</token>
+            <reverse-related>TBLD Beetleback Chief</reverse-related>
+            <reverse-related>TBLD Beetleback Chief</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Goblin Warrior</name>
+            <set picURL="/TBLD Goblin Warrior.full.jpg">TBLDtoken</set>         
+            <color>B</color>
+            <type>Token Creature — Goblin Warrior</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Menace</text>
             <token>1</token>
             <reverse-related>TBLD Mardu Ascendancy</reverse-related>
         </card>
@@ -1664,6 +2005,17 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Goblin13</name>
+            <set picURL="/TBLD Goblin13.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Goblin</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>This can’t attack or block alone.</text>
+            <token>1</token>
+            <reverse-related>TBLD Funny Business</reverse-related>
+        </card>
+        <card>
             <name>TBLD Goblin12</name>
             <set picURL="/TBLD Goblin12.full.jpg">TBLDtoken</set>         
             <color>R</color>
@@ -1683,10 +2035,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>This can’t attack or block alone.</text>
             <token>1</token>
-            <reverse-related>TBLD Goblin Rally</reverse-related>
-            <reverse-related>TBLD Goblin Rally</reverse-related>
-            <reverse-related>TBLD Goblin Rally</reverse-related>
-            <reverse-related>TBLD Goblin Rally</reverse-related>
+            <reverse-related>TBLD Krenko Tin Street Kingpin</reverse-related>
         </card>
         <card>
             <name>TBLD Goblin10</name>
@@ -1697,8 +2046,6 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>This can’t attack or block alone.</text>
             <token>1</token>
-            <reverse-related>TBLD Beetleback Chief</reverse-related>
-            <reverse-related>TBLD Beetleback Chief</reverse-related>
         </card>
         <card>
             <name>TBLD Goblin9</name>
@@ -1784,7 +2131,10 @@ At the end step, sacrifice this.</text>
             <token>1</token>
             <reverse-related>TBLD Krenkos Command</reverse-related>
             <reverse-related>TBLD Krenkos Command</reverse-related>
-            <reverse-related>TBLD Krenko Tin Street Kingpin</reverse-related>
+            <reverse-related>TBLD Goblin Rally</reverse-related>
+            <reverse-related>TBLD Goblin Rally</reverse-related>
+            <reverse-related>TBLD Goblin Rally</reverse-related>
+            <reverse-related>TBLD Goblin Rally</reverse-related>
         </card>
         <card>
             <name>TBLD Goblin2</name>
@@ -1796,6 +2146,8 @@ At the end step, sacrifice this.</text>
             <text>This can’t attack or block alone.</text>
             <token>1</token>
             <reverse-related>TBLD Hordeling Outburst</reverse-related>
+            <reverse-related>TBLD Hordeling Outburst</reverse-related>
+            <reverse-related>TBLD Hordeling Outburst</reverse-related>
         </card>
         <card>
             <name>TBLD Goblin</name>
@@ -1806,6 +2158,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>This can’t attack or block alone.</text>
             <token>1</token>
+            <reverse-related>TBLD Furnace Fodder</reverse-related>
             <reverse-related>TBLD Furnace Fodder</reverse-related>
         </card>
 
@@ -2026,18 +2379,16 @@ At the end step, sacrifice this.</text>
             <type>Token Creature — Kithkin Soldier</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text></text>
+            <text>Vigilance</text>
             <token>1</token>
-            <reverse-related>TBLD Cenns Enlistment</reverse-related>
-            <reverse-related>TBLD Prairie Lodge</reverse-related>
             <reverse-related>TBLD Prairie Lodge</reverse-related>
         </card>
 
         <card>
-            <name>TBLD Knight3</name>
-            <set picURL="/TBLD Knight3.full.jpg">TBLDtoken</set>       
+            <name>TBLD Elf Knight</name>
+            <set picURL="/TBLD Elf Knight.full.jpg">TBLDtoken</set>       
             <color>W</color>
-            <type>Token Creature — Knight</type>
+            <type>Token Creature — Elf Knight</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
             <text>Vigilance</text>
@@ -2045,6 +2396,7 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Chorus Summoner</reverse-related>
             <reverse-related>TBLD Chorus Summoner</reverse-related>
         </card>
+
         <card>
             <name>TBLD Knight2</name>
             <set picURL="/TBLD Knight2.full.jpg">TBLDtoken</set>       
@@ -2052,7 +2404,7 @@ At the end step, sacrifice this.</text>
             <type>Token Creature — Knight</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>Vigilance</text>
+            <text>Exalted (Whenever a creature you control attacks alone, it gets +1/+1 this turn.)</text>
             <token>1</token>
             <reverse-related>TBLD History of Benalia</reverse-related>
         </card>
@@ -2063,7 +2415,7 @@ At the end step, sacrifice this.</text>
             <type>Token Creature — Knight</type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>Vigilance</text>
+            <text>Exalted (Whenever a creature you control attacks alone, it gets +1/+1 this turn.)</text>
             <token>1</token>
             <reverse-related>TBLD Call of Duty</reverse-related>
         </card>
@@ -2147,8 +2499,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Busy Boughs</reverse-related>
-            <reverse-related>TBLD Busy Boughs</reverse-related>
+            <reverse-related>TBLD Scurry Oak</reverse-related>
         </card>
 
         <card>
@@ -2441,6 +2792,28 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Food5</name>
+            <set picURL="/TBLD Food5.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Food</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>2, T, Sacrifice this: Gain 3 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Food4</name>
+            <set picURL="/TBLD Food4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Food</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>2, T, Sacrifice this: Gain 3 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Gather for the Feast</reverse-related>
+        </card>
+        <card>
             <name>TBLD Food3</name>
             <set picURL="/TBLD Food3.full.jpg">TBLDtoken</set>         
             <color></color>
@@ -2538,11 +2911,13 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text>1, Discard a card, Sacrifice this: Draw a card. Can’t be activated at flash speed.</text>
             <token>1</token>
+            <reverse-related>TBLD Tithe Drinker</reverse-related>
             <reverse-related>TBLD Vampires Kiss</reverse-related>
             <reverse-related>TBLD Vampires Kiss</reverse-related>
             <reverse-related>TBLD Bloodtithe Harvester</reverse-related>
             <reverse-related>TBLD Voldaren Epicure</reverse-related>
         </card>
+
         <card>
             <name>TBLD Vial</name>
             <set picURL="/TBLD Vial.full.jpg">TBLDtoken</set>         
@@ -2564,7 +2939,6 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Bile Charm</reverse-related>
             <reverse-related>TBLD Bile Charm</reverse-related>
         </card>
         <card>
@@ -2815,6 +3189,18 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
         </card>
 
         <card>
+            <name>TBLD Blight4</name>
+            <set picURL="/TBLD Blight4.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Enchantment — Blight</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text>At your end step, lose 1 life.
+2: Exile this.</text>
+            <token>1</token>
+            <reverse-related>TBLD Eldritch Gate</reverse-related>
+        </card>
+        <card>
             <name>TBLD Blight3</name>
             <set picURL="/TBLD Blight3.full.jpg">TBLDtoken</set>         
             <color></color>
@@ -2853,8 +3239,32 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <reverse-related>TBLD Sootwing Phoenix</reverse-related>
             <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
             <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
+            <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
+            <reverse-related>TBLD Ashmaw Tyrant</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Clue11</name>
+            <set picURL="/TBLD Clue11.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Enchantment — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Churned Waves</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Clue10</name>
+            <set picURL="/TBLD Clue10.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Enchantment — Clue</type>
+            <pt></pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Uncanny Observer</reverse-related>
+        </card>
         <card>
             <name>TBLD Clue9</name>
             <set picURL="/TBLD Clue9.full.jpg">TBLDtoken</set>         
