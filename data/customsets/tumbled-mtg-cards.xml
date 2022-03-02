@@ -29565,19 +29565,6 @@ When this enters play, you may pay 3UU. When you do, if this is in play, create 
 T: Add U.</text>
 <rarity>Rare</rarity></card>
 <card>
- <name>TBLD Shallow Graves</name>
- <set picURL="/TBLD Shallow Graves.full.jpg" picURLHq="" picURLSt="">TBLD</set>
- <color>B</color>
- <tags>CHANGED NEW UTILITY REANIMATE</tags>
- <manacost />
-		<cmc>0</cmc>
- <type>Land</type>
- <tablerow>0</tablerow>
- <text>This enters play tapped.
-When this enters play, you may pay 2BB. When you do, if this is in play, return target creature card from your graveyard to play.
-T: Add B.</text>
-<rarity>Rare</rarity></card>
-<card>
  <name>TBLD Creepy Decor</name>
  <set picURL="/TBLD Creepy Decor.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>B</color>
