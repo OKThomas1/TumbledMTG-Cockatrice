@@ -10096,6 +10096,7 @@ Cycling 2</text>
  <name>TBLD Eldritch Gate</name>
  <set picURL="/TBLD Eldritch Gate.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>HWUBRG</color>
+ <tags>ADDED NEW</tags>
  <manacost />
 		<cmc>0</cmc>
  <type>Land</type>
@@ -28633,8 +28634,8 @@ Aftermath (Cast this spell only from your graveyard, then exile it.)
 Target creature gets +2/+0 and gains haste this turn.</text>
 <rarity>Common</rarity></card>
 <card>
- <name>TBLD Settle</name>
- <set picURL="/TBLD Settle.full.jpg" picURLHq="" picURLSt="">TBLD</set>
+ <name>TBLD Settle_Rest</name>
+ <set picURL="/TBLD Settle_Rest.full.jpg" picURLHq="" picURLSt="">TBLD</set>
  <color>MGU</color>
  <tags>CHANGED NEW RAMP TRON</tags>
  <manacost>2G // 3UUU</manacost>
