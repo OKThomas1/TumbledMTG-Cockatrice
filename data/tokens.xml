@@ -122,14 +122,15 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
-            <name>TBLD Extra Turn Counter</name>
-            <set picURL="/TBLD Extra Turn Counter.full.jpg">TBLDtoken</set>         
+            <name>TBLD Extra Turn</name>
+            <set picURL="/TBLD Extra Turn.full.jpg">TBLDtoken</set>         
             <color></color>
             <type>Token</type>
             
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Wishing Well</reverse-related>
             <reverse-related>TBLD Retire_Restart</reverse-related>
             <reverse-related>TBLD Strange Utopia</reverse-related>
             <reverse-related>TBLD Negumas Creativity</reverse-related>
@@ -156,6 +157,11 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Night Token</reverse-related>
+            <reverse-related>TBLD Vadrik Astral Archmage</reverse-related>
+            <reverse-related>TBLD Sleuthing Woodsman</reverse-related>
+            <reverse-related>TBLD Reckless Waif</reverse-related>
+            <reverse-related>TBLD Kessig Forgemaster</reverse-related>
+            <reverse-related>TBLD Gatstaf Grave Digger</reverse-related>
         </card>
 
         <card>
@@ -168,6 +174,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Day Token</reverse-related>
+            <reverse-related>TBLD Unnatural Moonrise</reverse-related>
         </card>
 
         <card>
@@ -203,11 +210,10 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Angel of Finality</reverse-related>
             <reverse-related>TBLD Warhorn Blast</reverse-related>
             <reverse-related>TBLD Depart the Realm</reverse-related>
-            <reverse-related>TBLD Wings of Thalmyda</reverse-related>
             <reverse-related>TBLD Shared Summons</reverse-related>
             <reverse-related>TBLD Poison the Cup</reverse-related>
             <reverse-related>TBLD Radioactive Decay</reverse-related>
-            <reverse-related>TBLD Kill Shot</reverse-related>
+            <reverse-related>TBLD Called Shot</reverse-related>
             <reverse-related>TBLD Cosmic Intervention</reverse-related>
             <reverse-related>TBLD Occlude</reverse-related>
             <reverse-related>TBLD Unload</reverse-related>
@@ -217,6 +223,13 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Wits End</reverse-related>
             <reverse-related>TBLD Mystic Reflection</reverse-related>
             <reverse-related>TBLD Prophesied Calamity</reverse-related>
+            <reverse-related>TBLD Augury Raven</reverse-related>
+            <reverse-related>TBLD Dream Devourer</reverse-related>
+            <reverse-related>TBLD Augury Raven</reverse-related>
+            <reverse-related>TBLD Gaze of Adamaro</reverse-related>
+            <reverse-related>TBLD Return Upon the Tide</reverse-related>
+            <reverse-related>TBLD Flying Crane Technique</reverse-related>
+            <reverse-related>TBLD Bestial Uprising</reverse-related>
         </card>
 
         <card>
@@ -229,12 +242,23 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Crush of Wurms</reverse-related>
-            <reverse-related>TBLD Goblin Rally</reverse-related>
-            <reverse-related>TBLD Artful Maneuver</reverse-related>
-            <reverse-related>TBLD Supercharge</reverse-related>
-            <reverse-related>TBLD Double Cleave</reverse-related>
-            <reverse-related>TBLD Cast Through Time</reverse-related>
+            <reverse-related>TBLD Grip of Desolation</reverse-related>
+            <reverse-related>TBLD Profound Journey</reverse-related>
+            <reverse-related>TBLD Dutiful Return</reverse-related>
             <reverse-related>TBLD Unyielding Formation</reverse-related>
+            <reverse-related>TBLD Sink into Oblivion</reverse-related>
+            <reverse-related>TBLD World at War</reverse-related>
+            <reverse-related>TBLD Cast Through Time</reverse-related>
+            <reverse-related>TBLD Rabid Frenzy</reverse-related>
+            <reverse-related>TBLD Skittering Invasion</reverse-related>
+            <reverse-related>TBLD Purge the Profane</reverse-related>
+            <reverse-related>TBLD Gallant Charge</reverse-related>
+            <reverse-related>TBLD Staggershock</reverse-related>
+            <reverse-related>TBLD Terrifying Visage</reverse-related>
+            <reverse-related>TBLD Double Cleave</reverse-related>
+            <reverse-related>TBLD Strength of the Pack</reverse-related>
+            <reverse-related>TBLD Artful Maneuver</reverse-related>
+            <reverse-related>TBLD Trumpeting Herd</reverse-related>
         </card>
 
         <card>
@@ -255,6 +279,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Highay Robbery</reverse-related>
             <reverse-related>TBLD Luoji the Sword Holder</reverse-related>
             <reverse-related>TBLD Pitiless Carnage</reverse-related>
+            <reverse-related>TBLD Butchers Due</reverse-related>
         </card>
 
         <card>
@@ -289,7 +314,19 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Digital Witness</reverse-related>
             <reverse-related>TBLD Neosteel Stealth Unit</reverse-related>
             <reverse-related>TBLD Street Hacker</reverse-related>
-            <reverse-related>TBLD Coruscating Cityscape</reverse-related>
+            <reverse-related>TBLD Debug_Unplug</reverse-related>
+            <reverse-related>TBLD Shimmering Strip</reverse-related>
+            <reverse-related>TBLD Hardware Recovery</reverse-related>
+            <reverse-related>TBLD Complex Sprawl</reverse-related>
+            <reverse-related>TBLD Unbounded Inquiry</reverse-related>
+            <reverse-related>TBLD Synaptic Integration</reverse-related>
+            <reverse-related>TBLD Recursive Firebird</reverse-related>
+            <reverse-related>TBLD Warpspeed</reverse-related>
+            <reverse-related>TBLD En Passant</reverse-related>
+            <reverse-related>TBLD Disorderly Conduct</reverse-related>
+            <reverse-related>TBLD Static Cyclone</reverse-related>
+            <reverse-related>TBLD Zelvika the Neuromancer</reverse-related>
+            <reverse-related>TBLD Jesse Digital Outlaw</reverse-related>
         </card>
 
         <card>
@@ -308,6 +345,78 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Armament Angel</reverse-related>
             <reverse-related>TBLD Blightsqueaker</reverse-related>
             <reverse-related>TBLD Inkfathom Angler</reverse-related>
+            <reverse-related>TBLD Plucky Weed</reverse-related>
+            <reverse-related>TBLD Mecha Vengeant</reverse-related>
+            <reverse-related>TBLD Ondu Knotmaster</reverse-related>
+            <reverse-related>TBLD Moon of the Day</reverse-related>
+            <reverse-related>TBLD Servant of Vraska</reverse-related>
+            <reverse-related>TBLD Seasong Muse</reverse-related>
+            <reverse-related>TBLD Questing Druid</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Energy Counters</name>
+            <set picURL="/TBLD Energy Counters.full.jpg">TBLDtoken</set>     
+            <color></color>
+            <type>Token</type>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Primal Prayers</reverse-related>
+            <reverse-related>TBLD Aether Hub</reverse-related>
+            <reverse-related>TBLD Aetherflux Conduit</reverse-related>
+            <reverse-related>TBLD Aetherflux Engineer</reverse-related>
+            <reverse-related>TBLD En Passant</reverse-related>
+            <reverse-related>TBLD Recursive Firebird</reverse-related>
+            <reverse-related>TBLD Servant of the Conduit</reverse-related>
+            <reverse-related>TBLD Surf the Web</reverse-related>
+            <reverse-related>TBLD Forum Moderator</reverse-related>
+            <reverse-related>TBLD E-Commerce</reverse-related>
+            <reverse-related>TBLD Short Circuit</reverse-related>
+            <reverse-related>TBLD Positronic Ritual</reverse-related>
+            <reverse-related>TBLD Torrent Seed</reverse-related>
+            <reverse-related>TBLD Myr Reprocessors</reverse-related>
+            <reverse-related>TBLD Scrappy Myr</reverse-related>
+            <reverse-related>TBLD Myr Dabblers</reverse-related>
+            <reverse-related>TBLD Shimmer Myr</reverse-related>
+            <reverse-related>TBLD Consulate Turret</reverse-related>
+            <reverse-related>TBLD Riddle Gate Gargoyle</reverse-related>
+            <reverse-related>TBLD Electrostatic Pummeler</reverse-related>
+            <reverse-related>TBLD Aetherwrought Bauble</reverse-related>
+            <reverse-related>TBLD Mox Amethyst</reverse-related>
+            <reverse-related>TBLD Synaptic Overload</reverse-related>
+            <reverse-related>TBLD Live Fast_Die Young</reverse-related>
+            <reverse-related>TBLD Ardent Ritual</reverse-related>
+            <reverse-related>TBLD Jolted Awake</reverse-related>
+            <reverse-related>TBLD Cyclops Superconductor</reverse-related>
+            <reverse-related>TBLD Conduit Goblin</reverse-related>
+            <reverse-related>TBLD Minister of Inquiries</reverse-related>
+            <reverse-related>TBLD Highspire Infusion</reverse-related>
+            <reverse-related>TBLD Roil Cartographer</reverse-related>
+            <reverse-related>TBLD Thriving Grubs</reverse-related>
+            <reverse-related>TBLD Thriving Rats</reverse-related>
+            <reverse-related>TBLD Electrosiphon</reverse-related>
+            <reverse-related>TBLD Glint-Sleeve Siphoner</reverse-related>
+            <reverse-related>TBLD Blood Pet</reverse-related>
+            <reverse-related>TBLD Conversion Module</reverse-related>
+            <reverse-related>TBLD Elvish Visionary</reverse-related>
+            <reverse-related>TBLD Aetheric Factory</reverse-related>
+            <reverse-related>TBLD Laboratory Guildmage</reverse-related>
+            <reverse-related>TBLD Rebel Anthem</reverse-related>
+            <reverse-related>TBLD Aethertorch Renegade</reverse-related>
+            <reverse-related>TBLD Peema Aether-Seer</reverse-related>
+            <reverse-related>TBLD Longtusk Cub</reverse-related>
+            <reverse-related>TBLD Aethertorch Renegade</reverse-related>
+            <reverse-related>TBLD Lightning Runner</reverse-related>
+            <reverse-related>TBLD Full Speed Ahead</reverse-related>
+            <reverse-related>TBLD Lathnu Hellion</reverse-related>
+            <reverse-related>TBLD Harvest Aether</reverse-related>
+            <reverse-related>TBLD Attuned Necromancer</reverse-related>
+            <reverse-related>TBLD Over the Brink</reverse-related>
+            <reverse-related>TBLD Protean Mauler</reverse-related>
+            <reverse-related>TBLD Arborback Stomper</reverse-related>
+            <reverse-related>TBLD Auroras Invitation</reverse-related>
+            <reverse-related>TBLD District Explorers</reverse-related>
         </card>
 
         <card>
@@ -631,6 +740,30 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
         </card>
 
         <card>
+            <name>TBLD Fan</name>
+            <set picURL="/TBLD Fan.full.jpg">TBLDtoken</set>         
+            <color>R</color>
+            <type>Token Creature — Fan</type>
+            <pt>3/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Rock On</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Homunculus</name>
+            <set picURL="/TBLD Homunculus.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Homunculus</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Stitchers Apprentice</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Rabbit</name>
             <set picURL="/TBLD Rabbit.full.jpg">TBLDtoken</set>         
             <color>U</color>
@@ -682,7 +815,7 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <set picURL="/TBLD Bird.full.jpg">TBLDtoken</set>         
             <color>W</color>
             <type>Token Creature — Bird</type>
-            <pt>1/1</pt>
+            <pt>1/2</pt>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
@@ -691,6 +824,28 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
             <reverse-related>TBLD Battle Screech</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Crab3</name>
+            <set picURL="/TBLD Crab3.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Crab</type>
+            <pt>0/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Auroras Invitation</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Crab2</name>
+            <set picURL="/TBLD Crab2.full.jpg">TBLDtoken</set>         
+            <color>U</color>
+            <type>Token Creature — Crab</type>
+            <pt>0/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Negumas Creativity</reverse-related>
+        </card>
         <card>
             <name>TBLD Crab</name>
             <set picURL="/TBLD Crab.full.jpg">TBLDtoken</set>         
@@ -1076,7 +1231,7 @@ At your end step, put a +1/+1 counter on each other creature you control.</text>
             <set picURL="/TBLD Bristling Dunerunner.full.jpg">TBLDtoken</set>   
             <color>W</color>
             <type>Creature — Rat</type>
-            <pt>4/3</pt>
+            <pt>5/3</pt>
             <tablerow>2</tablerow>
             <text>First strike
 Whenever an opponent attacks with two or more creatures, untap this.</text>
@@ -1184,8 +1339,7 @@ Scry 2, then draw a card.</text>
             <color>B</color>
             <type>Sorcery</type>
             <tablerow>1</tablerow>
-            <text>Exile all cards from target player’s graveyard. Gain 1 life for each creature card exiled this way.
-Draw a card.</text>
+            <text>Exile all creature cards from target player’s graveyard. Gain 2 life for each card exiled this way.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1207,7 +1361,8 @@ Draw a card.</text>
             <color>G</color>
             <type>Sorcery</type>
             <tablerow>1</tablerow>
-            <text>Return target card from your graveyard to your hand.</text>
+            <text>Return up to two target cards in graveyards to their owner’s hand.
+Exile this.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1364,9 +1519,9 @@ When this becomes renowned, you become the monarch.</text>
             <type>Flash Creature — Angel </type>
             <pt>2/2</pt>
             <tablerow>2</tablerow>
-            <text>Flying, ward 2
+            <text>Flying
 Exalted (Whenever a creature you control attacks alone, it gets +1/+1 this turn.)
-When this enters play, you may exile target non-Angel creature you control, then return it to play under your control. Put a +1/+1 counter on it.</text>
+When this enters, you may exile target non-Angel creature you control, then return it to play under your control. That creature gains ward 2.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1408,7 +1563,7 @@ Whenever another nontoken creature dies, draw a card.</text>
             <tablerow>2</tablerow>
             <text>Flying
 R: This gets +1/+0 this turn.
-When this enters play, each player sacrifices two lands.</text>
+When this enters, each player sacrifices two lands.</text>
             <token>1</token>
 <dfc></dfc>
         </card>
@@ -1418,9 +1573,9 @@ When this enters play, each player sacrifices two lands.</text>
             <set picURL="/TBLD Screaming Amalgam.full.jpg">TBLDtoken</set>      
             <color>B</color>
             <type>Creature — Zombie Golem </type>
-            <pt>3/2</pt>
+            <pt>3/1</pt>
             <tablerow>2</tablerow>
-            <text>When this enters play, create a 2/2 black Zombie token with decayed.
+            <text>When this enters, create a 2/2 black Zombie token with decayed.
 Whenever this attacks, each player discards card.
 B, Sacrifice a creature: Regenerate this.</text>
             <token>1</token>
@@ -1428,13 +1583,24 @@ B, Sacrifice a creature: Regenerate this.</text>
         </card>
 
         <card>
+            <name>TBLD Spirit10</name>
+            <set picURL="/TBLD Spirit10.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Spirit</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Flying</text>
+            <token>1</token>
+            <reverse-related>TBLD Haunted Dead</reverse-related>
+        </card>
+        <card>
             <name>TBLD Spirit9</name>
             <set picURL="/TBLD Spirit9.full.jpg">TBLDtoken</set>         
             <color>C</color>
             <type>Token Creature — Spirit</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>8</text>
+            <text>Flying</text>
             <token>1</token>
             <reverse-related>TBLD Valor of the Worthy</reverse-related>
         </card>
@@ -1445,7 +1611,7 @@ B, Sacrifice a creature: Regenerate this.</text>
             <type>Token Creature — Spirit</type>
             <pt>1/1</pt>
             <tablerow>2</tablerow>
-            <text>8</text>
+            <text></text>
             <token>1</token>
             <reverse-related>TBLD Release to Memory</reverse-related>
         </card>
@@ -1469,8 +1635,7 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Tithe Taker</reverse-related>
-            <reverse-related>TBLD Teysa Syndicate Usurper</reverse-related>
+            <reverse-related>TBLD Auroras Invitation</reverse-related>
         </card>
         <card>
             <name>TBLD Spirit5</name>
@@ -1482,8 +1647,6 @@ B, Sacrifice a creature: Regenerate this.</text>
             <text>Flying</text>
             <token>1</token>
             <reverse-related>TBLD Unwelcome Visitation</reverse-related>
-            <reverse-related>TBLD Nearheath Chaplain</reverse-related>
-            <reverse-related>TBLD Nearheath Chaplain</reverse-related>
         </card>
         <card>
             <name>TBLD Spirit4</name>
@@ -1494,7 +1657,6 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Haunted Dead</reverse-related>
             <reverse-related>TBLD Triplicate Spirits</reverse-related>
             <reverse-related>TBLD Triplicate Spirits</reverse-related>
             <reverse-related>TBLD Triplicate Spirits</reverse-related>
@@ -1508,8 +1670,14 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Mausoleum Guard</reverse-related>
-            <reverse-related>TBLD Mausoleum Guard</reverse-related>
+            <reverse-related>TBLD Tithe Taker</reverse-related>
+            <reverse-related>TBLD Teysa Syndicate Usurper</reverse-related>
+            <reverse-related>TBLD Hollowed Confessor</reverse-related>
+            <reverse-related>TBLD Orzhov Enforcer</reverse-related>
+            <reverse-related>TBLD Syndicate Treasury</reverse-related>
+            <reverse-related>TBLD Gift of Orzhova</reverse-related>
+            <reverse-related>TBLD Ministrant of Obligation</reverse-related>
+            <reverse-related>TBLD Ministrant of Obligation</reverse-related>
         </card>
         <card>
             <name>TBLD Spirit2</name>
@@ -1520,8 +1688,7 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Hollowed Confessor</reverse-related>
-            <reverse-related>TBLD Orzhov Enforcer</reverse-related>
+            <reverse-related>TBLD Indebted Spirit</reverse-related>
         </card>
         <card>
             <name>TBLD Spirit</name>
@@ -1532,7 +1699,8 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text>Flying</text>
             <token>1</token>
-            <reverse-related>TBLD Doomed Traveler</reverse-related>
+            <reverse-related>TBLD Nearheath Chaplain</reverse-related>
+            <reverse-related>TBLD Nearheath Chaplain</reverse-related>
         </card>
 
         <card>
@@ -1547,6 +1715,17 @@ B, Sacrifice a creature: Regenerate this.</text>
             <reverse-related>TBLD Discordant Piper</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Monk3</name>
+            <set picURL="/TBLD Monk3.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Monk</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text>Prowess</text>
+            <token>1</token>
+            <reverse-related>TBLD Auroras Invitation</reverse-related>
+        </card>
         <card>
             <name>TBLD Monk2</name>
             <set picURL="/TBLD Monk2.full.jpg">TBLDtoken</set>         
@@ -1592,6 +1771,8 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Tangled Colony</reverse-related>
+            <reverse-related>TBLD Voracious Vermin</reverse-related>
             <reverse-related>TBLD Ravenous Rats</reverse-related>
             <reverse-related>TBLD Piper of the Swarm</reverse-related>
         </card>
@@ -1630,7 +1811,6 @@ B, Sacrifice a creature: Regenerate this.</text>
             <token>1</token>
             <reverse-related>TBLD Crush of Wurms</reverse-related>
             <reverse-related>TBLD Crush of Wurms</reverse-related>
-            <reverse-related>TBLD Crush of Wurms</reverse-related>
         </card>
 
         <card>
@@ -1643,6 +1823,18 @@ B, Sacrifice a creature: Regenerate this.</text>
             <text>At your upkeep, put a +1/+1 counter on this.</text>
             <token>1</token>
             <reverse-related>TBLD Savagery Charm</reverse-related>
+        </card>
+
+        <card>
+            <name>TBLD Boar</name>
+            <set picURL="/TBLD Boar.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Boar</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>Trample</text>
+            <token>1</token>
+            <reverse-related>TBLD Stampede Surfer</reverse-related>
         </card>
 
         <card>
@@ -1668,6 +1860,17 @@ B, Sacrifice a creature: Regenerate this.</text>
             <reverse-related>TBLD Conclaves Call</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Beast4</name>
+            <set picURL="/TBLD Beast4.full.jpg">TBLDtoken</set>         
+            <color>G</color>
+            <type>Token Creature — Beast</type>
+            <pt>3/3</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Denmother Beast</reverse-related>
+        </card>
         <card>
             <name>TBLD Beast3</name>
             <set picURL="/TBLD Beast3.full.jpg">TBLDtoken</set>         
@@ -1736,6 +1939,8 @@ B, Sacrifice a creature: Regenerate this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Return Upon the Tide</reverse-related>
+            <reverse-related>TBLD Return Upon the Tide</reverse-related>
         </card>
         <card>
             <name>TBLD Elf Warrior2</name>
@@ -1831,7 +2036,7 @@ At each beginning of combat, target Zombie you control gets +1/+0 this turn.</te
             <type>Token Creature — Zombie Human Shaman</type>
             <pt>4/4</pt>
             <tablerow>2</tablerow>
-            <text>When this enters play, return target card from your graveyard to your hand.</text>
+            <text>When this enters, return target card from your graveyard to your hand.</text>
             <token>1</token>
             <reverse-related>TBLD Timeless Witness</reverse-related>
         </card>
@@ -1996,6 +2201,7 @@ Whenever this becomes the target of a spell or ability for the first time each t
             <tablerow>2</tablerow>
             <text>This creature’s power and toughness are each equal to the number of creatures you control.</text>
             <token>1</token>
+            <reverse-related>TBLD Vernal Sovereign</reverse-related>
             <reverse-related>TBLD Conclave Guardian Grove</reverse-related>
             <reverse-related>TBLD Worldsoul Evangel</reverse-related>
         </card>
@@ -2108,6 +2314,9 @@ At the end step, sacrifice this.</text>
             <text>Menace</text>
             <token>1</token>
             <reverse-related>TBLD Mardu Ascendancy</reverse-related>
+            <reverse-related>TBLD Ponyback Brigade</reverse-related>
+            <reverse-related>TBLD Ponyback Brigade</reverse-related>
+            <reverse-related>TBLD Ponyback Brigade</reverse-related>
         </card>
 
         <card>
@@ -2132,7 +2341,8 @@ At the end step, sacrifice this.</text>
             <text>Flying
 1R: This gets +1/+0 this turn.</text>
             <token>1</token>
-            <reverse-related>TBLD Jund Ascendancy</reverse-related>
+            <reverse-related>TBLD Krosh the Terrible</reverse-related>
+            <reverse-related>TBLD Krosh the Terrible</reverse-related>
         </card>
 
         <card>
@@ -2215,8 +2425,6 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>This can’t attack or block alone.</text>
             <token>1</token>
-            <reverse-related>TBLD Dragon Fodder</reverse-related>
-            <reverse-related>TBLD Dragon Fodder</reverse-related>
             <reverse-related>TBLD Jund Ascendancy</reverse-related>
         </card>
         <card>
@@ -2355,7 +2563,7 @@ At the end step, sacrifice this.</text>
             <name>TBLD Eldrazi2</name>
             <set picURL="/TBLD Eldrazi2.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Creature — Eldrazi Spawn</type>
+            <type>Token Creature — Eldrazi </type>
             <pt>10/10</pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2366,7 +2574,7 @@ At the end step, sacrifice this.</text>
             <name>TBLD Eldrazi</name>
             <set picURL="/TBLD Eldrazi.full.jpg">TBLDtoken</set>         
             <color></color>
-            <type>Token Creature — Eldrazi Spawn</type>
+            <type>Token Creature — Eldrazi </type>
             <pt>10/10</pt>
             <tablerow>2</tablerow>
             <text></text>
@@ -2419,9 +2627,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
-            <reverse-related>TBLD Birthing Hulk</reverse-related>
-            <reverse-related>TBLD Birthing Hulk</reverse-related>
-            <reverse-related>TBLD Birthing Hulk</reverse-related>
+            <reverse-related>TBLD Otherworldly Incursion</reverse-related>
+            <reverse-related>TBLD Otherworldly Incursion</reverse-related>
         </card>
         <card>
             <name>TBLD Eldrazi Spawn6</name>
@@ -2450,6 +2657,7 @@ At the end step, sacrifice this.</text>
             <token>1</token>
             <reverse-related>TBLD From Beyond</reverse-related>
             <reverse-related>TBLD Eldrazi Skyspawner</reverse-related>
+            <reverse-related>TBLD Vessel Drone</reverse-related>
         </card>
         <card>
             <name>TBLD Eldrazi Spawn4</name>
@@ -2473,8 +2681,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Sacrifice this: Add C.</text>
             <token>1</token>
-            <reverse-related>TBLD Warp Charm</reverse-related>
-            <reverse-related>TBLD Warp Charm</reverse-related>
+            <reverse-related>TBLD Birthing Hulk</reverse-related>
+            <reverse-related>TBLD Birthing Hulk</reverse-related>
         </card>
         <card>
             <name>TBLD Eldrazi Spawn2</name>
@@ -2622,9 +2830,8 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Garruks Command</reverse-related>
-            <reverse-related>TBLD Garruks Command</reverse-related>
-            <reverse-related>TBLD Garruks Command</reverse-related>
+            <reverse-related>TBLD Bestial Uprising</reverse-related>
+            <reverse-related>TBLD Bestial Uprising</reverse-related>
         </card>
         <card>
             <name>TBLD Wolf2</name>
@@ -2646,7 +2853,9 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Howling Giant</reverse-related>
+            <reverse-related>TBLD Garruks Command</reverse-related>
+            <reverse-related>TBLD Garruks Command</reverse-related>
+            <reverse-related>TBLD Garruks Command</reverse-related>
         </card>
 
         <card>
@@ -2681,6 +2890,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
             <reverse-related>TBLD Busy Boughs</reverse-related>
             <reverse-related>TBLD Busy Boughs</reverse-related>
         </card>
@@ -2798,7 +3008,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Sprout Swarm</reverse-related>
+            <reverse-related>TBLD Woopip Scrounger</reverse-related>
         </card>
         <card>
             <name>TBLD Saproling2</name>
@@ -2809,7 +3019,6 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Necrotic Bloom</reverse-related>
             <reverse-related>TBLD Unsettling Embrace</reverse-related>
         </card>
         <card>
@@ -2822,7 +3031,9 @@ At the end step, sacrifice this.</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Bog Rebirth</reverse-related>
-            <reverse-related>TBLD Woopip Scrounger</reverse-related>
+            <reverse-related>TBLD Bayou Revival</reverse-related>
+            <reverse-related>TBLD Bayou Revival</reverse-related>
+            <reverse-related>TBLD Bayou Revival</reverse-related>
         </card>
 
         <card>
@@ -2938,6 +3149,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Phyrexian Ironworks</reverse-related>
             <reverse-related>TBLD Wing Splicer</reverse-related>
             <reverse-related>TBLD Master Splicer</reverse-related>
             <reverse-related>TBLD Sensor Splicer</reverse-related>
@@ -2946,15 +3158,27 @@ At the end step, sacrifice this.</text>
         </card>
 
         <card>
+            <name>TBLD Assembly-Worker</name>
+            <set picURL="/TBLD Assembly-Worker.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact Creature — Assembly-Worker</type>
+            <pt>2/2</pt>
+            <tablerow>2</tablerow>
+            <text>1, T: Another target Assembly-Worker gets +1/+1 this turn.</text>
+            <token>1</token>
+            <reverse-related>TBLD Urzas Factory</reverse-related>
+        </card>
+
+        <card>
             <name>TBLD Construct</name>
             <set picURL="/TBLD Construct.full.jpg">TBLDtoken</set>         
             <color></color>
             <type>Token Artifact Creature — Construct</type>
-            <pt>2/2</pt>
+            <pt>0/0</pt>
             <tablerow>2</tablerow>
-            <text>1, T: Target Construct gets +1/+1 this turn.</text>
+            <text>This gets +1/+1 for each artifact you control.</text>
             <token>1</token>
-            <reverse-related>TBLD Urzas Factory</reverse-related>
+            <reverse-related>TBLD Grim Foundry</reverse-related>
         </card>
 
         <card>
@@ -2969,6 +3193,17 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Magus of the Dawn</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Soldier7</name>
+            <set picURL="/TBLD Soldier7.full.jpg">TBLDtoken</set>         
+            <color>W</color>
+            <type>Token Creature — Soldier</type>
+            <pt>1/1</pt>
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Imperial Footsoldier</reverse-related>
+        </card>
         <card>
             <name>TBLD Soldier6</name>
             <set picURL="/TBLD Soldier6.full.jpg">TBLDtoken</set>         
@@ -3002,7 +3237,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Garrison Guildmage</reverse-related>
+            <reverse-related>TBLD Akroan Crusader</reverse-related>
         </card>
         <card>
             <name>TBLD Soldier3</name>
@@ -3013,7 +3248,7 @@ At the end step, sacrifice this.</text>
             <tablerow>2</tablerow>
             <text>Haste</text>
             <token>1</token>
-            <reverse-related>TBLD Akroan Crusader</reverse-related>
+            <reverse-related>TBLD Garrison Guildmage</reverse-related>
         </card>
         <card>
             <name>TBLD Soldier2</name>
@@ -3026,6 +3261,8 @@ At the end step, sacrifice this.</text>
             <token>1</token>
             <reverse-related>TBLD Heroic Reinforcements</reverse-related>
             <reverse-related>TBLD Heroic Reinforcements</reverse-related>
+            <reverse-related>TBLD Muster the Legion</reverse-related>
+            <reverse-related>TBLD Muster the Legion</reverse-related>
         </card>
         <card>
             <name>TBLD Soldier</name>
@@ -3052,6 +3289,28 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Spyglass Siren</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Food9</name>
+            <set picURL="/TBLD Food9.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Food</type>
+            
+            <tablerow>2</tablerow>
+            <text>2, T, Sacrifice this: Gain 3 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Witchs Oven</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Food8</name>
+            <set picURL="/TBLD Food8.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Food</type>
+            
+            <tablerow>2</tablerow>
+            <text>2, T, Sacrifice this: Gain 3 life.</text>
+            <token>1</token>
+            <reverse-related>TBLD Honeypot Spider</reverse-related>
+        </card>
         <card>
             <name>TBLD Food7</name>
             <set picURL="/TBLD Food7.full.jpg">TBLDtoken</set>         
@@ -3122,8 +3381,6 @@ At the end step, sacrifice this.</text>
             <text>2, T, Sacrifice this: Gain 3 life.</text>
             <token>1</token>
             <reverse-related>TBLD Regal Comfort</reverse-related>
-            <reverse-related>TBLD Regal Comfort</reverse-related>
-            <reverse-related>TBLD Regal Comfort</reverse-related>
         </card>
         <card>
             <name>TBLD Food</name>
@@ -3137,6 +3394,56 @@ At the end step, sacrifice this.</text>
             <reverse-related>TBLD Gilded Goose</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Weapon9</name>
+            <set picURL="/TBLD Weapon9.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Muster the Legion</reverse-related>
+            <reverse-related>TBLD Muster the Legion</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Weapon8</name>
+            <set picURL="/TBLD Weapon8.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Warmongers Cathedral</reverse-related>
+            <reverse-related>TBLD Imperial Footsoldier</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Weapon7</name>
+            <set picURL="/TBLD Weapon7.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Carapace Forger</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Weapon6</name>
+            <set picURL="/TBLD Weapon6.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Equipment</type>
+            
+            <tablerow>2</tablerow>
+            <text>Equipped creature gets +1/+1.
+Equip 2</text>
+            <token>1</token>
+            <reverse-related>TBLD Koth Unbroken</reverse-related>
+        </card>
         <card>
             <name>TBLD Weapon5</name>
             <set picURL="/TBLD Weapon5.full.jpg">TBLDtoken</set>         
@@ -3172,7 +3479,7 @@ Equip 2</text>
             <text>Equipped creature gets +1/+1.
 Equip 2</text>
             <token>1</token>
-            <reverse-related>TBLD Carapace Forger</reverse-related>
+            <reverse-related>TBLD Subtown Enforcer</reverse-related>
             <reverse-related>TBLD Showmatch</reverse-related>
         </card>
         <card>
@@ -3198,6 +3505,7 @@ Equip 2</text>
 Equip 2</text>
             <token>1</token>
             <reverse-related>TBLD Steelarm Outfitter</reverse-related>
+            <reverse-related>TBLD Mine Corp Muscle</reverse-related>
         </card>
 
         <card>
@@ -3214,6 +3522,7 @@ Equip 2</text>
             <reverse-related>TBLD Vampires Kiss</reverse-related>
             <reverse-related>TBLD Bloodtithe Harvester</reverse-related>
             <reverse-related>TBLD Voldaren Epicure</reverse-related>
+            <reverse-related>TBLD Blood Fountain</reverse-related>
         </card>
 
         <card>
@@ -3223,11 +3532,102 @@ Equip 2</text>
             <type>Token Artifact — Vial</type>
             
             <tablerow>2</tablerow>
-            <text>1, Sacrifice this and another permanent: Draw a card. Can’t be activated at flash speed.</text>
+            <text></text>
             <token>1</token>
-            <reverse-related>TBLD Dwarven Alchemist</reverse-related>
+            <reverse-related>TBLD Vial Courier</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Vial2</name>
+            <set picURL="/TBLD Vial2.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Vial</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Treasure25</name>
+            <set picURL="/TBLD Treasure25.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure24</name>
+            <set picURL="/TBLD Treasure24.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Warren Soultrader</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure23</name>
+            <set picURL="/TBLD Treasure23.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Labast Empire Baron</reverse-related>
+            <reverse-related>TBLD Pious Duke</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure22</name>
+            <set picURL="/TBLD Treasure22.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Negumas Creativity</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure21</name>
+            <set picURL="/TBLD Treasure21.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Timeworn Valley</reverse-related>
+            <reverse-related>TBLD Dusty Oasis</reverse-related>
+            <reverse-related>TBLD Classy Theater</reverse-related>
+            <reverse-related>TBLD Icy Cave</reverse-related>
+            <reverse-related>TBLD Vibrant Seabed</reverse-related>
+            <reverse-related>TBLD Cemetery Hillock</reverse-related>
+            <reverse-related>TBLD Fungus Gorge</reverse-related>
+            <reverse-related>TBLD Arbor Loft</reverse-related>
+            <reverse-related>TBLD Spoiled Pasture</reverse-related>
+            <reverse-related>TBLD Expansive Tundra</reverse-related>
+        </card>
+        <card>
+            <name>TBLD Treasure20</name>
+            <set picURL="/TBLD Treasure20.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Artifact — Treasure</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Dwarf Fortress</reverse-related>
+            <reverse-related>TBLD Strip the Earth</reverse-related>
+            <reverse-related>TBLD Strip the Earth</reverse-related>
+            <reverse-related>TBLD Goldvein Pick</reverse-related>
+            <reverse-related>TBLD Mine Corp Muscle</reverse-related>
+        </card>
         <card>
             <name>TBLD Treasure19</name>
             <set picURL="/TBLD Treasure13.full.jpg">TBLDtoken</set>         
@@ -3295,6 +3695,7 @@ Equip 2</text>
             <token>1</token>
             <reverse-related>TBLD Dack Greatest Thief in the Multiverse</reverse-related>
             <reverse-related>TBLD Solar Charm</reverse-related>
+            <reverse-related>TBLD Careening Mine Cart</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure13</name>
@@ -3306,6 +3707,7 @@ Equip 2</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD Pickpocket</reverse-related>
+            <reverse-related>TBLD Rickety Tracks</reverse-related>
             <reverse-related>TBLD Rickety Tracks</reverse-related>
         </card>
         <card>
@@ -3319,7 +3721,6 @@ Equip 2</text>
             <token>1</token>
             <reverse-related>TBLD Lucky Tomcat</reverse-related>
             <reverse-related>TBLD Lucky Tomcat</reverse-related>
-            <reverse-related>TBLD Lucky Tomcat</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure11</name>
@@ -3330,11 +3731,8 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Villainous Wealth</reverse-related>
             <reverse-related>TBLD Oust from the Vault</reverse-related>
-            <reverse-related>TBLD Strip the Earth</reverse-related>
-            <reverse-related>TBLD Strip the Earth</reverse-related>
-            <reverse-related>TBLD Goldvein Pick</reverse-related>
-            <reverse-related>TBLD Mine Corp Muscle</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure10</name>
@@ -3358,6 +3756,7 @@ Equip 2</text>
             <text></text>
             <token>1</token>
             <reverse-related>TBLD E-Commerce</reverse-related>
+            <reverse-related>TBLD Scoundrels Wager</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure8</name>
@@ -3390,8 +3789,8 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Labast Empire Baron</reverse-related>
             <reverse-related>TBLD Easy Score</reverse-related>
+            <reverse-related>TBLD Wrecking Ball</reverse-related>
             <reverse-related>TBLD Goblin Monarch</reverse-related>
             <reverse-related>TBLD Bazaar of Urshad</reverse-related>
             <reverse-related>TBLD Bazaar of Urshad</reverse-related>
@@ -3408,6 +3807,7 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Treasured Find</reverse-related>
             <reverse-related>TBLD Servant of Vraska</reverse-related>
         </card>
         <card>
@@ -3422,6 +3822,7 @@ Equip 2</text>
             <reverse-related>TBLD Wealthy Prelate</reverse-related>
             <reverse-related>TBLD Basilica Guildmage</reverse-related>
             <reverse-related>TBLD Teysa Syndicate Usurper</reverse-related>
+            <reverse-related>TBLD Syndicate Treasury</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure3</name>
@@ -3432,10 +3833,8 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
+            <reverse-related>TBLD Jetsam Trove</reverse-related>
             <reverse-related>TBLD Seize the Spoils</reverse-related>
-            <reverse-related>TBLD Exciting Opportunity</reverse-related>
-            <reverse-related>TBLD Exciting Opportunity</reverse-related>
-            <reverse-related>TBLD Wrecking Ball</reverse-related>
         </card>
         <card>
             <name>TBLD Treasure2</name>
@@ -3459,7 +3858,6 @@ Equip 2</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Pious Duke</reverse-related>
             <reverse-related>TBLD Curse of Tithes</reverse-related>
         </card>
 
@@ -3496,7 +3894,7 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <type>Token Enchantment</type>
             
             <tablerow>2</tablerow>
-            <text>During your turn, your opponents can’t cast spells or activate abilities unless they’re mana abilities.</text>
+            <text>During your turn, your opponents can’t cast spells.</text>
             <token>1</token>
             <reverse-related>TBLD Inscrutable Magistrate</reverse-related>
         </card>
@@ -3526,18 +3924,6 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <reverse-related>TBLD Servo Exhibition</reverse-related>
         </card>
 
-        <card>
-            <name>TBLD Blight4</name>
-            <set picURL="/TBLD Blight4.full.jpg">TBLDtoken</set>         
-            <color></color>
-            <type>Token Enchantment — Blight</type>
-            
-            <tablerow>2</tablerow>
-            <text>At your end step, lose 1 life.
-2: Exile this.</text>
-            <token>1</token>
-            <reverse-related>TBLD Eldritch Gate</reverse-related>
-        </card>
         <card>
             <name>TBLD Blight3</name>
             <set picURL="/TBLD Blight3.full.jpg">TBLDtoken</set>         
@@ -3590,8 +3976,21 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <text>T: Add C. This mana can’t be spent to cast nonartifact spells.</text>
             <token>1</token>
             <reverse-related>TBLD Terisiares Devastation</reverse-related>
+            <reverse-related>TBLD Hall of Tagsin</reverse-related>
+            <reverse-related>TBLD Grim Foundry</reverse-related>
         </card>
 
+        <card>
+            <name>TBLD Clue13</name>
+            <set picURL="/TBLD Clue13.full.jpg">TBLDtoken</set>         
+            <color></color>
+            <type>Token Enchantment — Clue</type>
+            
+            <tablerow>2</tablerow>
+            <text></text>
+            <token>1</token>
+            <reverse-related>TBLD Busy Boughs</reverse-related>
+        </card>
         <card>
             <name>TBLD Clue12</name>
             <set picURL="/TBLD Clue12.full.jpg">TBLDtoken</set>         
@@ -3603,8 +4002,6 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <token>1</token>
             <reverse-related>TBLD No Witnesses</reverse-related>
             <reverse-related>TBLD Lazav Wearer of Faces</reverse-related>
-            <reverse-related>TBLD Syndicate Heavy</reverse-related>
-            <reverse-related>TBLD Follow the Bodies</reverse-related>
         </card>
         <card>
             <name>TBLD Clue11</name>
@@ -3683,8 +4080,8 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Lyxchan Seer</reverse-related>
-            <reverse-related>TBLD Lyxchan Seer</reverse-related>
+            <reverse-related>TBLD Syndicate Heavy</reverse-related>
+            <reverse-related>TBLD Follow the Bodies</reverse-related>
         </card>
         <card>
             <name>TBLD Clue4</name>
@@ -3695,7 +4092,6 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>TBLD Thraben Inspector</reverse-related>
             <reverse-related>TBLD Root Out</reverse-related>
         </card>
         <card>
@@ -3707,7 +4103,7 @@ If this would be put into a graveyard from anywhere, exile it instead.</text>
             <tablerow>2</tablerow>
             <text></text>
             <token>1</token>
-            <reverse-related>Nothing</reverse-related>
+            <reverse-related>TBLD Curious Inquiry</reverse-related>
         </card>
         <card>
             <name>TBLD Clue2</name>
